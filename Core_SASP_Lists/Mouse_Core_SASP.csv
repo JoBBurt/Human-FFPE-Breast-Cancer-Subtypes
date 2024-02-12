@@ -1,0 +1,152 @@
+Genes,Entry,Entry name,Protein names,Gene names
+CXCL1,P12850,GROA_MOUSE,Growth-regulated alpha protein (C-X-C motif chemokine 1) (Platelet-derived growth factor-inducible protein KC) (Secretory protein N51) [Cleaved into: KC(5-72) (Hematopoietic synergistic factor) (HSF) (KC-T)],Cxcl1 Gro Gro1 Mgsa Scyb1
+PTX3,P48759,PTX3_MOUSE,Pentraxin-related protein PTX3 (Pentaxin-related protein PTX3) (Tumor necrosis factor-inducible gene 14 protein) (TSG-14),Ptx3 Tsg14
+HMGA1,P17095,HMGA1_MOUSE,High mobility group protein HMG-I/HMG-Y (HMG-I(Y)) (High mobility group AT-hook protein 1) (High mobility group protein A1),Hmga1 Hmgi Hmgiy
+GSTO1,O09131,GSTO1_MOUSE,Glutathione S-transferase omega-1 (GSTO-1) (EC 2.5.1.18) (Glutathione S-transferase omega 1-1) (GSTO 1-1) (Glutathione-dependent dehydroascorbate reductase) (EC 1.8.5.1) (Monomethylarsonic acid reductase) (MMA(V) reductase) (EC 1.20.4.2) (S-(Phenacyl)glutathione reductase) (SPG-R) (p28),Gsto1 Gstx Gtsttl
+GDF15,Q9Z0J7,GDF15_MOUSE,Growth/differentiation factor 15 (GDF-15) (Macrophage inhibitory cytokine 1) (MIC-1),Gdf15 Mic1 Sbf
+PSME1,P97371,PSME1_MOUSE,Proteasome activator complex subunit 1 (11S regulator complex subunit alpha) (REG-alpha) (Activator of multicatalytic protease subunit 1) (Proteasome activator 28 subunit alpha) (PA28a) (PA28alpha),Psme1
+TIMP1,P12032,TIMP1_MOUSE,Metalloproteinase inhibitor 1 (Collagenase inhibitor 16C8 fibroblast) (Erythroid-potentiating activity) (EPA) (TPA-S1) (TPA-induced protein) (Tissue inhibitor of metalloproteinases 1) (TIMP-1),Timp1 Timp Timp-1
+PPIB,P24369,PPIB_MOUSE,Peptidyl-prolyl cis-trans isomerase B (PPIase B) (EC 5.2.1.8) (CYP-S1) (Cyclophilin B) (Rotamase B) (S-cyclophilin) (SCYLP),Ppib
+STC1,O55183,STC1_MOUSE,Stanniocalcin-1 (STC-1),Stc1 Stc
+CTSB,P10605,CATB_MOUSE,Cathepsin B (EC 3.4.22.1) (Cathepsin B1) [Cleaved into: Cathepsin B light chain; Cathepsin B heavy chain],Ctsb
+TNC,Q80YX1,TENA_MOUSE,Tenascin (TN) (Hexabrachion) (Tenascin-C) (TN-C),Tnc Hxb
+LTBP1,Q8CG19,LTBP1_MOUSE,Latent-transforming growth factor beta-binding protein 1 (LTBP-1) (Transforming growth factor beta-1-binding protein 1) (TGF-beta1-BP-1),Ltbp1
+CTSD,P18242,CATD_MOUSE,Cathepsin D (EC 3.4.23.5),Ctsd
+PLEC,Q9QXS1,PLEC_MOUSE,Plectin (PCN) (PLTN) (Plectin-1) (Plectin-6),Plec Plec1
+COPA,Q8CIE6,COPA_MOUSE,Coatomer subunit alpha (Alpha-coat protein) (Alpha-COP) [Cleaved into: Xenin (Xenopsin-related peptide); Proxenin],Copa
+NME2,Q01768,NDKB_MOUSE,Nucleoside diphosphate kinase B (NDK B) (NDP kinase B) (EC 2.7.4.6) (Histidine protein kinase NDKB) (EC 2.7.13.3) (P18) (nm23-M2),Nme2
+HMGB1,P63158,HMGB1_MOUSE,High mobility group protein B1 (High mobility group protein 1) (HMG-1),Hmgb1 Hmg-1 Hmg1
+FKBP10,Q61576,FKB10_MOUSE,Peptidyl-prolyl cis-trans isomerase FKBP10 (PPIase FKBP10) (EC 5.2.1.8) (65 kDa FK506-binding protein) (65 kDa FKBP) (FKBP-65) (FK506-binding protein 10) (FKBP-10) (Immunophilin FKBP65) (Rotamase),Fkbp10 Fkbp-rs Fkbp1-rs Fkbp6 Fkbp65 Fkbprp
+QSOX1,Q8BND5,QSOX1_MOUSE,Sulfhydryl oxidase 1 (mSOx) (EC 1.8.3.2) (Quiescin Q6) (Skin sulfhydryl oxidase),Qsox1 Qscn6 Sox
+TPD52L2,Q9CYZ2,TPD54_MOUSE,Tumor protein D54 (Tumor protein D52-like 2),Tpd52l2
+AKR1B1,P45376,ALDR_MOUSE,Aldo-keto reductase family 1 member B1 (EC 1.1.1.300) (EC 1.1.1.372) (EC 1.1.1.54) (Aldehyde reductase) (Aldo-keto reductase family 1 member B3) (Aldose reductase) (AR) (EC 1.1.1.21),Akr1b1 Akr1b3 Aldor1 Aldr1 Alr2
+BASP1,Q91XV3,BASP1_MOUSE,Brain acid soluble protein 1 (22 kDa neuronal tissue-enriched acidic protein) (Neuronal axonal membrane protein NAP-22),Basp1 Nap22
+IGFBP4,P47879,IBP4_MOUSE,Insulin-like growth factor-binding protein 4 (IBP-4) (IGF-binding protein 4) (IGFBP-4),Igfbp4 Igfbp-4
+P4HB,P09103,PDIA1_MOUSE,Protein disulfide-isomerase (PDI) (EC 5.3.4.1) (Cellular thyroid hormone-binding protein) (Endoplasmic reticulum resident protein 59) (ER protein 59) (ERp59) (Prolyl 4-hydroxylase subunit beta) (p55),P4hb Pdia1
+HSPE1,Q64433,CH10_MOUSE,"10 kDa heat shock protein, mitochondrial (Hsp10) (10 kDa chaperonin) (Chaperonin 10) (CPN10)",Hspe1
+PGK1,P09411,PGK1_MOUSE,Phosphoglycerate kinase 1 (EC 2.7.2.3),Pgk1 Pgk-1
+AKR1A1,Q9JII6,AK1A1_MOUSE,Aldo-keto reductase family 1 member A1 (EC 1.1.1.2) (EC 1.1.1.33) (EC 1.1.1.372) (EC 1.1.1.54) (Alcohol dehydrogenase [NADP(+)]) (Aldehyde reductase) (Glucuronate reductase) (EC 1.1.1.19) (Glucuronolactone reductase) (EC 1.1.1.20),Akr1a1 Akr1a4
+ECM1,Q61508,ECM1_MOUSE,Extracellular matrix protein 1 (Secretory component p85),Ecm1
+COL6A1,Q04857,CO6A1_MOUSE,Collagen alpha-1(VI) chain,Col6a1
+CST3,P21460,CYTC_MOUSE,Cystatin-C (Cystatin-3),Cst3
+PDLIM1,O70400,PDLI1_MOUSE,PDZ and LIM domain protein 1 (C-terminal LIM domain protein 1) (Elfin) (LIM domain protein CLP-36),Pdlim1 Clim1
+AARS,Q8BGQ7,SYAC_MOUSE,"Alanine--tRNA ligase, cytoplasmic (EC 6.1.1.7) (Alanyl-tRNA synthetase) (AlaRS) (Protein sticky) (Sti)",Aars1 Aars
+EMILIN1,Q99K41,EMIL1_MOUSE,EMILIN-1 (Elastin microfibril interface-located protein 1) (Elastin microfibril interfacer 1),Emilin1
+NUCB1,Q02819,NUCB1_MOUSE,Nucleobindin-1 (CALNUC),Nucb1 Nuc Nucb
+MMP2,P33434,MMP2_MOUSE,72 kDa type IV collagenase (EC 3.4.24.24) (72 kDa gelatinase) (Gelatinase A) (Matrix metalloproteinase-2) (MMP-2) [Cleaved into: PEX],Mmp2
+CD44,P15379,CD44_MOUSE,CD44 antigen (Extracellular matrix receptor III) (ECMR-III) (GP90 lymphocyte homing/adhesion receptor) (HUTCH-I) (Hermes antigen) (Hyaluronate receptor) (Lymphocyte antigen 24) (Ly-24) (Phagocytic glycoprotein 1) (PGP-1) (Phagocytic glycoprotein I) (PGP-I) (CD antigen CD44),Cd44 Ly-24
+GAPDH,P16858,G3P_MOUSE,Glyceraldehyde-3-phosphate dehydrogenase (GAPDH) (EC 1.2.1.12) (Peptidyl-cysteine S-nitrosylase GAPDH) (EC 2.6.99.-),Gapdh Gapd
+LGALS1,P16045,LEG1_MOUSE,Galectin-1 (Gal-1) (14 kDa lectin) (Beta-galactoside-binding lectin L-14-I) (Galaptin) (Lactose-binding lectin 1) (Lectin galactoside-binding soluble 1) (S-Lac lectin 1),Lgals1 Gbp
+YWHAB,Q9CQV8,1433B_MOUSE,"14-3-3 protein beta/alpha (Protein kinase C inhibitor protein 1) (KCIP-1) [Cleaved into: 14-3-3 protein beta/alpha, N-terminally processed]",Ywhab
+TBCA,P48428,TBCA_MOUSE,Tubulin-specific chaperone A (TCP1-chaperonin cofactor A) (Tubulin-folding cofactor A) (CFA),Tbca
+PRKCSH,O08795,GLU2B_MOUSE,Glucosidase 2 subunit beta (80K-H protein) (Glucosidase II subunit beta) (Protein kinase C substrate 60.1 kDa protein heavy chain) (PKCSH),Prkcsh
+MIF,P34884,MIF_MOUSE,Macrophage migration inhibitory factor (MIF) (EC 5.3.2.1) (Delayed early response protein 6) (DER6) (Glycosylation-inhibiting factor) (GIF) (L-dopachrome isomerase) (L-dopachrome tautomerase) (EC 5.3.3.12) (Phenylpyruvate tautomerase),Mif
+MYDGF,Q9CPT4,MYDGF_MOUSE,Myeloid-derived growth factor (MYDGF),Mydgf D17Wsu104e
+PLOD1,Q9R0E2,PLOD1_MOUSE,"Procollagen-lysine,2-oxoglutarate 5-dioxygenase 1 (EC 1.14.11.4) (Lysyl hydroxylase 1) (LH1)",Plod1 Plod
+MYH9,Q8VDD5,MYH9_MOUSE,"Myosin-9 (Cellular myosin heavy chain, type A) (Myosin heavy chain 9) (Myosin heavy chain, non-muscle IIa) (Non-muscle myosin heavy chain A) (NMMHC-A) (Non-muscle myosin heavy chain IIa) (NMMHC II-a) (NMMHC-IIA)",Myh9
+LGALS3BP,Q07797,LG3BP_MOUSE,Galectin-3-binding protein (Cyp-C-associated protein) (CyCAP) (Lectin galactoside-binding soluble 3-binding protein) (Protein MAMA),Lgals3bp Cycap Mama
+PDIA3,P27773,PDIA3_MOUSE,Protein disulfide-isomerase A3 (EC 5.3.4.1) (58 kDa glucose-regulated protein) (58 kDa microsomal protein) (p58) (Disulfide isomerase ER-60) (Endoplasmic reticulum resident protein 57) (ER protein 57) (ERp57) (Endoplasmic reticulum resident protein 60) (ER protein 60) (ERp60),Pdia3 Erp Erp60 Grp58
+HSPA5,P20029,BIP_MOUSE,Endoplasmic reticulum chaperone BiP (EC 3.6.4.10) (78 kDa glucose-regulated protein) (GRP-78) (Binding-immunoglobulin protein) (BiP) (Heat shock protein 70 family protein 5) (HSP70 family protein 5) (Heat shock protein family A member 5) (Immunoglobulin heavy chain-binding protein),Hspa5 Grp78
+NPM1,Q61937,NPM_MOUSE,Nucleophosmin (NPM) (Nucleolar phosphoprotein B23) (Nucleolar protein NO38) (Numatrin),Npm1
+NPC2,Q9Z0J0,NPC2_MOUSE,NPC intracellular cholesterol transporter 2 (Epididymal secretory protein E1) (mE1) (Niemann Pick type C2 protein homolog),Npc2
+IQGAP1,Q9JKF1,IQGA1_MOUSE,Ras GTPase-activating-like protein IQGAP1,Iqgap1
+EIF4A1,P60843,IF4A1_MOUSE,Eukaryotic initiation factor 4A-I (eIF-4A-I) (eIF4A-I) (EC 3.6.4.13) (ATP-dependent RNA helicase eIF4A-1),Eif4a1 Ddx2a Eif4a
+PSAP,Q61207,SAP_MOUSE,Prosaposin (Sulfated glycoprotein 1) (SGP-1) [Cleaved into: Saposin-A; Saposin-B-Val; Saposin-B; Saposin-C; Saposin-D],Psap Sgp1
+FLNA,Q8BTM8,FLNA_MOUSE,Filamin-A (FLN-A) (Actin-binding protein 280) (ABP-280) (Alpha-filamin) (Endothelial actin-binding protein) (Filamin-1) (Non-muscle filamin),Flna Fln Fln1
+HNRNPA2B1,O88569,ROA2_MOUSE,Heterogeneous nuclear ribonucleoproteins A2/B1 (hnRNP A2/B1),Hnrnpa2b1 Hnrpa2b1
+MDH2,P08249,MDHM_MOUSE,"Malate dehydrogenase, mitochondrial (EC 1.1.1.37)",Mdh2 Mor1
+BGN,P28653,PGS1_MOUSE,Biglycan (Bone/cartilage proteoglycan I) (PG-S1),Bgn
+HEXA,P29416,HEXA_MOUSE,Beta-hexosaminidase subunit alpha (EC 3.2.1.52) (Beta-N-acetylhexosaminidase subunit alpha) (Hexosaminidase subunit A) (N-acetyl-beta-glucosaminidase subunit alpha),Hexa
+HSP90AB1,P11499,HS90B_MOUSE,Heat shock protein HSP 90-beta (Heat shock 84 kDa) (HSP 84) (HSP84) (Tumor-specific transplantation 84 kDa antigen) (TSTA),Hsp90ab1 Hsp84 Hsp84-1 Hspcb
+MYL12B,Q3THE2,ML12B_MOUSE,"Myosin regulatory light chain 12B (Myosin regulatory light chain 2-B, smooth muscle isoform) (Myosin regulatory light chain 20 kDa) (MLC20) (Myosin regulatory light chain MRLC2)",Myl12b Mrlc2 Mylc2b
+FLNB,Q80X90,FLNB_MOUSE,Filamin-B (FLN-B) (ABP-280-like protein) (Actin-binding-like protein) (Beta-filamin),Flnb
+ENO1,P17182,ENOA_MOUSE,Alpha-enolase (EC 4.2.1.11) (2-phospho-D-glycerate hydro-lyase) (Enolase 1) (Non-neural enolase) (NNE),Eno1 Eno-1
+MRC2,Q64449,MRC2_MOUSE,C-type mannose receptor 2 (Lectin lambda) (Macrophage mannose receptor 2) (CD antigen CD280),Mrc2 Kiaa0709
+IGFBP5,Q07079,IBP5_MOUSE,Insulin-like growth factor-binding protein 5 (IBP-5) (IGF-binding protein 5) (IGFBP-5),Igfbp5 Igfbp-5
+MYL6,Q60605,MYL6_MOUSE,Myosin light polypeptide 6 (17 kDa myosin light chain) (LC17) (Myosin light chain 3) (MLC-3) (Myosin light chain alkali 3) (Myosin light chain A3) (Smooth muscle and nonmuscle myosin light chain alkali 6),Myl6 Myln
+PPIA,P17742,PPIA_MOUSE,"Peptidyl-prolyl cis-trans isomerase A (PPIase A) (EC 5.2.1.8) (Cyclophilin A) (Cyclosporin A-binding protein) (Rotamase A) (SP18) [Cleaved into: Peptidyl-prolyl cis-trans isomerase A, N-terminally processed]",Ppia
+TPI1,P17751,TPIS_MOUSE,Triosephosphate isomerase (TIM) (EC 5.3.1.1) (Methylglyoxal synthase) (EC 4.2.3.3) (Triose-phosphate isomerase),Tpi1 Tpi
+APP,P12023,A4_MOUSE,Amyloid-beta precursor protein (ABPP) (APP) (Alzheimer disease amyloid A4 protein homolog) (Alzheimer disease amyloid protein) (Amyloid precursor protein) (Amyloid-beta (A4) precursor protein) (Amyloid-beta A4 protein) (Amyloidogenic glycoprotein) (AG) [Cleaved into: N-APP; Soluble APP-alpha (S-APP-alpha); Soluble APP-beta (S-APP-beta); C99 (APP-C99) (Beta-secretase C-terminal fragment) (Beta-CTF); Amyloid-beta protein 42 (Abeta42) (Beta-APP42); Amyloid-beta protein 40 (Abeta40) (Beta-APP40); C83 (Alpha-secretase C-terminal fragment) (Alpha-CTF); P3(42); P3(40); C80; Gamma-secretase C-terminal fragment 59 (APP-C59) (Amyloid intracellular domain 59) (AID(59)) (Gamma-CTF(59)); Gamma-secretase C-terminal fragment 57 (APP-C57) (Amyloid intracellular domain 57) (AID(57)) (Gamma-CTF(57)); Gamma-secretase C-terminal fragment 50 (Amyloid intracellular domain 50) (AID(50)) (Gamma-CTF(50)); C31],App A4 AD1
+PGAM1,Q9DBJ1,PGAM1_MOUSE,Phosphoglycerate mutase 1 (EC 5.4.2.11) (EC 5.4.2.4) (BPG-dependent PGAM 1) (Phosphoglycerate mutase isozyme B) (PGAM-B),Pgam1
+FKBP1A,P26883,FKB1A_MOUSE,Peptidyl-prolyl cis-trans isomerase FKBP1A (PPIase FKBP1A) (EC 5.2.1.8) (12 kDa FK506-binding protein) (12 kDa FKBP) (FKBP-12) (Calstabin-1) (FK506-binding protein 1A) (FKBP-1A) (Immunophilin FKBP12) (Rotamase),Fkbp1a Fkbp1
+MDH1,P14152,MDHC_MOUSE,"Malate dehydrogenase, cytoplasmic (EC 1.1.1.37) (Cytosolic malate dehydrogenase)",Mdh1 Mor2
+PRDX6,O08709,PRDX6_MOUSE,Peroxiredoxin-6 (EC 1.11.1.27) (1-Cys peroxiredoxin) (1-Cys PRX) (Acidic calcium-independent phospholipase A2) (aiPLA2) (EC 3.1.1.4) (Antioxidant protein 2) (Glutathione-dependent peroxiredoxin) (Lysophosphatidylcholine acyltransferase 5) (LPC acyltransferase 5) (LPCAT-5) (Lyso-PC acyltransferase 5) (EC 2.3.1.23) (Non-selenium glutathione peroxidase) (NSGPx),Prdx6 Aop2 Ltw4 Prdx5
+PRDX6,P99029,PRDX5_MOUSE,"Peroxiredoxin-5, mitochondrial (EC 1.11.1.24) (Antioxidant enzyme B166) (AOEB166) (Liver tissue 2D-page spot 2D-0014IV) (PLP) (Peroxiredoxin V) (Prx-V) (Peroxisomal antioxidant enzyme) (Thioredoxin peroxidase PMP20) (Thioredoxin-dependent peroxiredoxin 5)",Prdx5 Prdx6
+GSTP1,P19157,GSTP1_MOUSE,Glutathione S-transferase P 1 (Gst P1) (EC 2.5.1.18) (GST YF-YF) (GST class-pi) (GST-piB) (Preadipocyte growth factor),Gstp1 Gstpib
+PKM,P52480,KPYM_MOUSE,Pyruvate kinase PKM (EC 2.7.1.40) (Pyruvate kinase muscle isozyme),Pkm Pk3 Pkm2 Pykm
+CTSZ,Q9WUU7,CATZ_MOUSE,Cathepsin Z (EC 3.4.18.1),Ctsz
+TXNRD1,Q9JMH6,TRXR1_MOUSE,"Thioredoxin reductase 1, cytoplasmic (TR) (EC 1.8.1.9) (Peroxidase TXNRD1) (EC 1.11.1.2) (Thioredoxin reductase TR1)",Txnrd1 Trxr1
+DPYSL2,O08553,DPYL2_MOUSE,Dihydropyrimidinase-related protein 2 (DRP-2) (Unc-33-like phosphoprotein 2) (ULIP-2),Dpysl2 Crmp2 Ulip2
+PFN1,P62962,PROF1_MOUSE,Profilin-1 (Profilin I),Pfn1
+HEXB,P20060,HEXB_MOUSE,Beta-hexosaminidase subunit beta (EC 3.2.1.52) (Beta-N-acetylhexosaminidase subunit beta) (Hexosaminidase subunit B) (N-acetyl-beta-glucosaminidase subunit beta),Hexb
+HSPA8,P63017,HSP7C_MOUSE,Heat shock cognate 71 kDa protein (EC 3.6.4.10) (Heat shock 70 kDa protein 8),Hspa8 Hsc70 Hsc73
+HSPA1A,Q61696,HS71A_MOUSE,Heat shock 70 kDa protein 1A (Heat shock 70 kDa protein 3) (HSP70.3) (Hsp68),Hspa1a Hsp70-3 Hsp70A1
+HSPA1B,P17879,HS71B_MOUSE,Heat shock 70 kDa protein 1B (Heat shock 70 kDa protein 1) (HSP70.1),Hspa1b Hcp70.1 Hsp70-1 Hsp70a1 Hspa1
+ACTN4,P57780,ACTN4_MOUSE,Alpha-actinin-4 (Non-muscle alpha-actinin 4),Actn4
+YWHAQ,P68254,1433T_MOUSE,14-3-3 protein theta (14-3-3 protein tau),Ywhaq
+PSMB6,Q60692,PSB6_MOUSE,Proteasome subunit beta type-6 (EC 3.4.25.1) (Low molecular mass protein 19) (Macropain delta chain) (Multicatalytic endopeptidase complex delta chain) (Proteasome delta chain) (Proteasome subunit Y),Psmb6 Lmp19
+TIMP2,P25785,TIMP2_MOUSE,Metalloproteinase inhibitor 2 (Tissue inhibitor of metalloproteinases 2) (TIMP-2),Timp2 Timp-2
+ENO3,P21550,ENOB_MOUSE,Beta-enolase (EC 4.2.1.11) (2-phospho-D-glycerate hydro-lyase) (Enolase 3) (Muscle-specific enolase) (MSE) (Skeletal muscle enolase),Eno3 Eno-3
+VASN,Q9CZT5,VASN_MOUSE,Vasorin (Protein slit-like 2),Vasn Slitl2
+YWHAE,P62259,1433E_MOUSE,14-3-3 protein epsilon (14-3-3E),Ywhae
+SOD1,P08228,SODC_MOUSE,Superoxide dismutase [Cu-Zn] (EC 1.15.1.1),Sod1
+ARHGDIA,Q99PT1,GDIR1_MOUSE,Rho GDP-dissociation inhibitor 1 (Rho GDI 1) (GDI-1) (Rho-GDI alpha),Arhgdia C87222 Gdi1
+CLEC11A,O88200,CLC11_MOUSE,C-type lectin domain family 11 member A (Lymphocyte secreted C-type lectin) (Osteolectin) (Stem cell growth factor),Clec11a Scgf
+ACTN1,Q7TPR4,ACTN1_MOUSE,Alpha-actinin-1 (Alpha-actinin cytoskeletal isoform) (F-actin cross-linking protein) (Non-muscle alpha-actinin-1),Actn1
+VIM,P20152,VIME_MOUSE,Vimentin,Vim
+TKT,P40142,TKT_MOUSE,Transketolase (TK) (EC 2.2.1.1) (P68),Tkt
+TKT,Q62371,DDR2_MOUSE,"Discoidin domain-containing receptor 2 (Discoidin domain receptor 2) (EC 2.7.10.1) (CD167 antigen-like family member B) (Neurotrophic tyrosine kinase, receptor-related 3) (Receptor protein-tyrosine kinase TKT) (Tyrosine-protein kinase TYRO10) (CD antigen CD167b)",Ddr2 Ntrkr3 Tkt Tyro10
+HSP90AA1,P07901,HS90A_MOUSE,Heat shock protein HSP 90-alpha (EC 3.6.4.10) (Heat shock 86 kDa) (HSP 86) (HSP86) (Tumor-specific transplantation 86 kDa antigen) (TSTA),Hsp90aa1 Hsp86 Hsp86-1 Hspca
+PRCP,Q7TMR0,PCP_MOUSE,Lysosomal Pro-X carboxypeptidase (EC 3.4.16.2) (Proline carboxypeptidase) (Prolylcarboxypeptidase) (PRCP),Prcp
+TPM2,P58774,TPM2_MOUSE,Tropomyosin beta chain (Beta-tropomyosin) (Tropomyosin-2),Tpm2 Tpm-2
+LDHA,P06151,LDHA_MOUSE,L-lactate dehydrogenase A chain (LDH-A) (EC 1.1.1.27) (LDH muscle subunit) (LDH-M),Ldha Ldh-1 Ldh1
+CALM1,P0DP26,CALM1_MOUSE,Calmodulin-1,Calm1 Calm Cam Cam1
+COL12A1,Q60847,COCA1_MOUSE,Collagen alpha-1(XII) chain,Col12a1
+LDHB,P16125,LDHB_MOUSE,L-lactate dehydrogenase B chain (LDH-B) (EC 1.1.1.27) (LDH heart subunit) (LDH-H),Ldhb Ldh-2 Ldh2
+PLOD3,Q9R0E1,PLOD3_MOUSE,"Multifunctional procollagen lysine hydroxylase and glycosyltransferase LH3 [Includes: Procollagen-lysine,2-oxoglutarate 5-dioxygenase 3 (EC 1.14.11.4) (Lysyl hydroxylase 3) (LH3); Procollagen glycosyltransferase (EC 2.4.1.50) (EC 2.4.1.66) (Galactosylhydroxylysine-glucosyltransferase) (Procollagen galactosyltransferase) (Procollagen glucosyltransferase)]",Plod3
+YWHAZ,P63101,1433Z_MOUSE,14-3-3 protein zeta/delta (Protein kinase C inhibitor protein 1) (KCIP-1) (SEZ-2),Ywhaz
+PARK7,Q99LX0,PARK7_MOUSE,Parkinson disease protein 7 homolog (Maillard deglycase) (Parkinsonism-associated deglycase) (Protein DJ-1) (DJ-1) (Protein/nucleic acid deglycase DJ-1) (EC 3.1.2.-) (EC 3.5.1.-) (EC 3.5.1.124),Park7
+HSPG2,Q05793,PGBM_MOUSE,Basement membrane-specific heparan sulfate proteoglycan core protein (HSPG) [Cleaved into: Endorepellin; LG3 peptide],Hspg2
+WDR1,O88342,WDR1_MOUSE,WD repeat-containing protein 1 (Actin-interacting protein 1) (AIP1),Wdr1
+VCL,Q64727,VINC_MOUSE,Vinculin (Metavinculin),Vcl
+CTHRC1,Q9D1D6,CTHR1_MOUSE,Collagen triple helix repeat-containing protein 1,Cthrc1
+EEF2,P58252,EF2_MOUSE,Elongation factor 2 (EF-2),Eef2
+PEBP1,P70296,PEBP1_MOUSE,Phosphatidylethanolamine-binding protein 1 (PEBP-1) (HCNPpp) [Cleaved into: Hippocampal cholinergic neurostimulating peptide (HCNP)],Pebp1 Pbp Pebp
+AGRN,A2ASQ1,AGRIN_MOUSE,Agrin [Cleaved into: Agrin N-terminal 110 kDa subunit; Agrin C-terminal 110 kDa subunit; Agrin C-terminal 90 kDa fragment (C90); Agrin C-terminal 22 kDa fragment (C22)],Agrn Agrin
+FN1,P11276,FINC_MOUSE,Fibronectin (FN) [Cleaved into: Anastellin],Fn1
+POSTN,Q62009,POSTN_MOUSE,Periostin (PN) (Osteoblast-specific factor 2) (OSF-2),Postn Osf2
+GDI2,Q61598,GDIB_MOUSE,Rab GDP dissociation inhibitor beta (Rab GDI beta) (GDI-3) (Guanosine diphosphate dissociation inhibitor 2) (GDI-2),Gdi2 Gdi3
+CLIC1,Q9Z1Q5,CLIC1_MOUSE,Chloride intracellular channel protein 1 (Nuclear chloride ion channel 27) (NCC27),Clic1
+ACTB,P60710,ACTB_MOUSE,"Actin, cytoplasmic 1 (Beta-actin) [Cleaved into: Actin, cytoplasmic 1, N-terminally processed]",Actb
+ACTG1,P63260,ACTG_MOUSE,"Actin, cytoplasmic 2 (Gamma-actin) [Cleaved into: Actin, cytoplasmic 2, N-terminally processed]",Actg1 Actg
+CORO1C,Q9WUM4,COR1C_MOUSE,Coronin-1C (Coronin-3),Coro1c
+SH3BGRL3,Q91VW3,SH3L3_MOUSE,SH3 domain-binding glutamic acid-rich-like protein 3,Sh3bgrl3
+PXDN,Q3UQ28,PXDN_MOUSE,Peroxidasin homolog (EC 1.11.1.7),Pxdn Kiaa0230
+GANAB,Q8BHN3,GANAB_MOUSE,Neutral alpha-glucosidase AB (EC 3.2.1.207) (Alpha-glucosidase 2) (Glucosidase II subunit alpha),Ganab G2an Kiaa0088
+VCAN,Q62059,CSPG2_MOUSE,Versican core protein (Chondroitin sulfate proteoglycan core protein 2) (Chondroitin sulfate proteoglycan 2) (Large fibroblast proteoglycan) (PG-M),Vcan Cspg2
+ACTBL2,Q8BFZ3,ACTBL_MOUSE,Beta-actin-like protein 2 (Kappa-actin),Actbl2
+TAGLN2,Q9WVA4,TAGL2_MOUSE,Transgelin-2 (SM22-beta),Tagln2 Kiaa0120
+SERPINH1,P19324,SERPH_MOUSE,Serpin H1 (47 kDa heat shock protein) (Collagen-binding protein) (Colligin) (Serine protease inhibitor J6),Serpinh1 Cbp1 Hsp47
+TLN1,P26039,TLN1_MOUSE,Talin-1,Tln1 Tln
+LASP1,Q61792,LASP1_MOUSE,LIM and SH3 domain protein 1 (LASP-1) (Metastatic lymph node gene 50 protein) (MLN 50),Lasp1 Mln50
+MSN,P26041,MOES_MOUSE,Moesin (Membrane-organizing extension spike protein),Msn
+PSMA3,O70435,PSA3_MOUSE,Proteasome subunit alpha type-3 (Macropain subunit C8) (Multicatalytic endopeptidase complex subunit C8) (Proteasome component C8) (Proteasome subunit K),Psma3
+ALDOA,P05064,ALDOA_MOUSE,Fructose-bisphosphate aldolase A (EC 4.1.2.13) (Aldolase 1) (Muscle-type aldolase),Aldoa Aldo1
+IGF2,P09535,IGF2_MOUSE,Insulin-like growth factor II (IGF-II) (Multiplication-stimulating polypeptide) [Cleaved into: Insulin-like growth factor II; Preptin],Igf2 Igf-2
+RCN1,Q05186,RCN1_MOUSE,Reticulocalbin-1,Rcn1 Rca1 Rcn
+FLNC,Q8VHX6,FLNC_MOUSE,Filamin-C (FLN-C) (ABP-280-like protein) (ABP-L) (Actin-binding-like protein) (Filamin-2) (Gamma-filamin),Flnc Abpl Fln2
+CAP1,P40124,CAP1_MOUSE,Adenylyl cyclase-associated protein 1 (CAP 1),Cap1 Cap
+CAP1,Q9ESD1,PRSS8_MOUSE,Prostasin (EC 3.4.21.-) (Channel-activating protease 1) (CAP1) (Serine protease 8) [Cleaved into: Prostasin light chain; Prostasin heavy chain],Prss8 Cap1
+EFEMP2,Q9WVJ9,FBLN4_MOUSE,EGF-containing fibulin-like extracellular matrix protein 2 (Fibulin-4) (FIBL-4) (Mutant p53-binding protein 1),Efemp2 Fbln4 Mbp1
+GSN,P13020,GELS_MOUSE,Gelsolin (Actin-depolymerizing factor) (ADF) (Brevin),Gsn Gsb
+PRDX1,P35700,PRDX1_MOUSE,Peroxiredoxin-1 (EC 1.11.1.24) (Macrophage 23 kDa stress protein) (Osteoblast-specific factor 3) (OSF-3) (Thioredoxin peroxidase 2) (Thioredoxin-dependent peroxide reductase 2) (Thioredoxin-dependent peroxiredoxin 1),Prdx1 Msp23 Paga Tdpx2
+COL6A2,Q02788,CO6A2_MOUSE,Collagen alpha-2(VI) chain,Col6a2
+HSP90B1,P08113,ENPL_MOUSE,Endoplasmin (94 kDa glucose-regulated protein) (GRP-94) (Endoplasmic reticulum resident protein 99) (ERp99) (Heat shock protein 90 kDa beta member 1) (Polymorphic tumor rejection antigen 1) (Tumor rejection antigen gp96),Hsp90b1 Grp94 Tra-1 Tra1
+PLS3,Q99K51,PLST_MOUSE,Plastin-3 (T-plastin),Pls3
+EZR,P26040,EZRI_MOUSE,Ezrin (Cytovillin) (Villin-2) (p81),Ezr Vil2
+ALCAM,Q61490,CD166_MOUSE,CD166 antigen (Activated leukocyte cell adhesion molecule) (BEN) (Protein DM-GRASP) (CD antigen CD166),Alcam
+CALU,O35887,CALU_MOUSE,Calumenin (Crocalbin),Calu
+LOXL2,P58022,LOXL2_MOUSE,Lysyl oxidase homolog 2 (EC 1.4.3.13) (Lysyl oxidase-like protein 2),Loxl2
+COTL1,Q9CQI6,COTL1_MOUSE,Coactosin-like protein,Cotl1 Clp
+ALDOC,P05063,ALDOC_MOUSE,Fructose-bisphosphate aldolase C (EC 4.1.2.13) (Aldolase 3) (Brain-type aldolase) (Scrapie-responsive protein 2) (Zebrin II),Aldoc Aldo3 Scrg2
+GLO1,Q9CPU0,LGUL_MOUSE,Lactoylglutathione lyase (EC 4.4.1.5) (Aldoketomutase) (Glyoxalase I) (Glx I) (Ketone-aldehyde mutase) (Methylglyoxalase) (S-D-lactoylglutathione methylglyoxal lyase),Glo1
