@@ -1,0 +1,1061 @@
+﻿Gene symbol,Category,Mouse ortholog,Zebrafish orthologs,D. melanogaster orthologs,C. elegans orthologs,Immunolocalisation evidence***,Antibodies,C. elegans protein tagging studies,BM Interactors,Cell surface Interactors,BM substrate,"Subcellular localization (UNIPROT, Human Protein Atlas)",Matrixome 
+ACAN,Basement membrane,Acan,"acana,acanb",-,-,"PMID: 18067481 (H)
+PMID: 23074202 (H)
+Human Protein Atlas (H)","PMID: 18067481, α-ACAN mAb (Novus Biologicals, HAG7D4)
+PMID: 23074202, α-ACAN mAb (R&D Systems, 179509)
+HPA, α-ACAN pAb (Atlas Antibodies, HPA038242)",-,"ADAMTS1,ADAMTS16,ADAMTS18,ADAMTS3,ADAMTS4,ADAMTS5,ADAMTS8,ADAMTS9,BGN,DCN,FMOD,HAPLN1,LUM,MMP1,MMP2,MMP7,OGN,TNC","CD44,MMP14",-,"Extracellular matrix, Secreted, Intracellular",No
+ACHE,Basement membrane,Ache,ache,Ace,ace-1,"PMID: 23976945 (H)
+PMID: 28369367 (M)","PMID: 23976945, in-house AE-2 biotinylated α-ACHE (PMID: 6175961)
+PMID: 28369367, α-ACHE pAb (Santa Cruz Biotech., sc-2781)",-,COLQ,MUSK,-,"Secreted, Cell junction, Cell membrane, Membrane, Nucleus, Synapse",No
+ADAMTS1,Basement membrane,Adamts1,adamts1,AdamTS-A,adt-1,"PMID: 16061471 (M)
+PMID: 21411713 (M)
+Human Protein Atlas (H)","PMID: 16061471, α-ADAMTS-1 GP12 (BIO-SOURCE)
+PMID: 21411713, α-ADAMTS-1 (Cedarlane Laboratories)
+HPA, α-ADAMTS1 mAb (Santa Cruz Biotech., CAB16394)",-,"ACAN,ADAMTS10,ADAMTS13,ADAMTS14,ADAMTS15,ADAMTS16,ADAMTS17,ADAMTS18,ADAMTS19,ADAMTS2,ADAMTS20,ADAMTS3,ADAMTS4,ADAMTS5,ADAMTS6,ADAMTS7,ADAMTS8,ADAMTS9,SPON1,SPON2,THBS1,THBS2,VCAN",-,"ACAN, BCAN, DAG1, NID1, NID2, SDC4, THBS1, THBS2, VCAN","Extracellular matrix, Secreted, Intracellular",No
+ADAMTS2,Basement membrane,Adamts2,adamts2,-,-,Human Protein Atlas (H),"HPA, ɑ-ADAMTS2 pAb (Atlas Antibodies, HPA028444)",-,"ADAMTS1,ADAMTS10,ADAMTS13,ADAMTS14,ADAMTS15,ADAMTS16,ADAMTS17,ADAMTS18,ADAMTS19,ADAMTS20,ADAMTS3,ADAMTS4,ADAMTS5,ADAMTS6,ADAMTS7,ADAMTS8,ADAMTS9,COL2A1,COL5A1,EFEMP2,SPON1,SPON2,THBS1,THBS2",-,"ADAM10, ADAMTS1, DCN, FN1, FBLN2, FBLN3, LOXL1, HSPG2, procollagen types II, IV, V and XVIII, THBS1, VCAN","Extracellular matrix, Secreted, Intracellular",No
+ADAMTS3,Basement membrane,Adamts3,adamts3,-,adt-2,Human Protein Atlas (H),"HPA, ɑ-ADAMTS3 pAb (Atlas Antibodies, HPA021368)",-,"ACAN,ADAMTS1,ADAMTS10,ADAMTS13,ADAMTS14,ADAMTS15,ADAMTS16,ADAMTS17,ADAMTS18,ADAMTS19,ADAMTS2,ADAMTS20,ADAMTS4,ADAMTS5,ADAMTS6,ADAMTS7,ADAMTS8,ADAMTS9,COL2A1,COL5A1,SPON1,SPON2,THBS1,THBS2,TIMP3",-,"ADAM10, ADAMTS1, DCN, FN1, FBLN2, FBLN3, LOXL1, HSPG2, procollagen types II, IV, V and XVIII, THBS1, VCAN","Extracellular matrix, Secreted",No
+ADAMTS4,Basement membrane,Adamts4,adamtsl4,AdamTS-A,-,-,-,-,"ACAN,ADAMTS1,ADAMTS10,ADAMTS13,ADAMTS14,ADAMTS15,ADAMTS16,ADAMTS17,ADAMTS18,ADAMTS19,ADAMTS2,ADAMTS20,ADAMTS3,ADAMTS5,ADAMTS6,ADAMTS7,ADAMTS8,ADAMTS9,BCAN,SPON1,SPON2,THBS1,THBS2,TIMP3",-,"ACAN, BGN, BCAN, DCN, FMOD, FN1, FBLN2, MATN2, VCAN, SPARCL1","Extracellular matrix, Secreted, Intracellular",No
+ADAMTS5,Basement membrane,Adamts5,adamts5,AdamTS-A,-,PMID: 32651223 (M),"PMID 32651223, ɑ-ADAMTS5 (Abcam)",-,"ACAN,ADAMTS1,ADAMTS10,ADAMTS13,ADAMTS14,ADAMTS15,ADAMTS16,ADAMTS17,ADAMTS18,ADAMTS19,ADAMTS2,ADAMTS20,ADAMTS3,ADAMTS4,ADAMTS6,ADAMTS7,ADAMTS8,ADAMTS9,BCAN,COL2A1,SPON1,SPON2,THBS1,THBS2,TIMP3",-,"ACAN, BGN, BCAN, DCN, FMOD, FN1, MATN2, MATN4, VCAN","Extracellular matrix, Secreted",No
+ADAMTS6,Basement membrane,Adamts6,adamts6,-,-,-,-,-,"ADAMTS1,ADAMTS10,ADAMTS13,ADAMTS14,ADAMTS15,ADAMTS16,ADAMTS17,ADAMTS18,ADAMTS19,ADAMTS2,ADAMTS20,ADAMTS3,ADAMTS4,ADAMTS5,ADAMTS7,ADAMTS8,ADAMTS9,SPON1,SPON2,THBS1,THBS2",-,-,"Extracellular matrix, Secreted",No
+ADAMTS7,Basement membrane,Adamts7,adamts7,CG4096,-,-,-,-,"ADAMTS1,ADAMTS10,ADAMTS13,ADAMTS14,ADAMTS15,ADAMTS16,ADAMTS17,ADAMTS18,ADAMTS19,ADAMTS2,ADAMTS20,ADAMTS3,ADAMTS4,ADAMTS5,ADAMTS6,ADAMTS8,ADAMTS9,SPON1,SPON2,THBS1,THBS2",-,-,"Extracellular matrix, Secreted",No
+ADAMTS8,Basement membrane,Adamts8,adamts8a,AdamTS-A,-,PMID: 29860265 (H),"PMID: 29860265, ɑ-ADAMTS8/18/20 pAb (Thermo Fisher Scientific, PA5-64274)",-,"ACAN,ADAMTS1,ADAMTS10,ADAMTS13,ADAMTS14,ADAMTS15,ADAMTS16,ADAMTS17,ADAMTS18,ADAMTS19,ADAMTS2,ADAMTS20,ADAMTS3,ADAMTS4,ADAMTS5,ADAMTS6,ADAMTS7,ADAMTS9,COL18A1,SPON1,SPON2,THBS1,THBS2",-,-,"Extracellular matrix, Secreted",No
+ADAMTS9,Basement membrane,Adamts9,adamts9,AdamTS-A,gon-1,Human Protein Atlas (H),"HPA, Rabbit ɑ-ADAMTS9 pAb (Atlas Antibodies, HPA028567)",GON-1,"ACAN,ADAMTS1,ADAMTS10,ADAMTS13,ADAMTS14,ADAMTS15,ADAMTS16,ADAMTS17,ADAMTS18,ADAMTS19,ADAMTS2,ADAMTS20,ADAMTS3,ADAMTS4,ADAMTS5,ADAMTS6,ADAMTS7,ADAMTS8,SPON1,SPON2,THBS1,THBS2",-,-,"Extracellular matrix, Secreted, Endoplasmic reticulum",No
+ADAMTS10,Basement membrane,Adamts10,adamts10,-,gon-1,Human Protein Atlas (H),"HPA, ɑ-ADAMTS10 pAb (Atlas Antibodies, HPA040223)",GON-1,"ADAMTS1,ADAMTS13,ADAMTS14,ADAMTS15,ADAMTS16,ADAMTS17,ADAMTS18,ADAMTS19,ADAMTS2,ADAMTS20,ADAMTS3,ADAMTS4,ADAMTS5,ADAMTS6,ADAMTS7,ADAMTS8,ADAMTS9,FBN1,SPON1,SPON2,THBS1,THBS2",-,-,"Extracellular matrix, Secreted, Intracellular",No
+ADAMTS13,Basement membrane,Adamts13,adamts13,-,-,PMID: 17627784 (H),"PMID: 17627784, in-house rabbit-ɑ-ADAMTS13, or mouse-ɑ-ADAMTS13",-,"ADAMTS1,ADAMTS10,ADAMTS14,ADAMTS15,ADAMTS16,ADAMTS17,ADAMTS18,ADAMTS19,ADAMTS2,ADAMTS20,ADAMTS3,ADAMTS4,ADAMTS5,ADAMTS6,ADAMTS7,ADAMTS8,ADAMTS9,SPON1,SPON2,THBS1,THBS2",-,"Collagen, VWA","Secreted, Intracellular",No
+ADAMTS14,Basement membrane,Adamts14,-,-,-,-,-,-,"ADAMTS1,ADAMTS10,ADAMTS13,ADAMTS15,ADAMTS16,ADAMTS17,ADAMTS18,ADAMTS19,ADAMTS2,ADAMTS20,ADAMTS3,ADAMTS4,ADAMTS5,ADAMTS6,ADAMTS7,ADAMTS8,ADAMTS9,COL2A1,COL5A1,SPON1,SPON2,THBS1,THBS2",-,"ADAM10, ADAMTS1, DCN, FN1, FBLN2, FBLN3, LOXL1, HSPG2, THBS1, procollagen types II, IV, V, XVIII, VCAN","Extracellular matrix, Secreted",No
+ADAMTS15,Basement membrane,Adamts15,adamts15a,AdamTS-A,-,Human Protein Atlas (H),"HPA, Rabbit ɑ-ADAMTS15 pAb (Atlas Antibodies, HPA042867)",-,"ADAMTS1,ADAMTS10,ADAMTS13,ADAMTS14,ADAMTS16,ADAMTS17,ADAMTS18,ADAMTS19,ADAMTS2,ADAMTS20,ADAMTS3,ADAMTS4,ADAMTS5,ADAMTS6,ADAMTS7,ADAMTS8,ADAMTS9,SPON1,SPON2,THBS1,THBS2",-,-,"Extracellular matrix, Secreted",No
+ADAMTS16,Basement membrane,Adamts16,adamts16,-,-,-,-,-,"ACAN,ADAMTS1,ADAMTS10,ADAMTS13,ADAMTS14,ADAMTS15,ADAMTS17,ADAMTS18,ADAMTS19,ADAMTS2,ADAMTS20,ADAMTS3,ADAMTS4,ADAMTS5,ADAMTS6,ADAMTS7,ADAMTS8,ADAMTS9,SPON1,SPON2,THBS1,THBS2",-,-,"Extracellular matrix, Secreted",No
+ADAMTS17,Basement membrane,Adamts17,adamts17,-,-,-,-,-,"ADAMTS1,ADAMTS10,ADAMTS13,ADAMTS14,ADAMTS15,ADAMTS16,ADAMTS18,ADAMTS19,ADAMTS2,ADAMTS20,ADAMTS3,ADAMTS4,ADAMTS5,ADAMTS6,ADAMTS7,ADAMTS8,ADAMTS9,SPON1,SPON2,THBS1,THBS2",-,-,"Extracellular matrix, Secreted, Intracellular",No
+ADAMTS18,Basement membrane,Adamts18,adamts18,-,adt-1,"PMID: 29860265 (H)
+PMID: 32218432 (H)","PMID: 29860265, ɑ-ADAMTS8/18/20 (Thermo Fisher Scientific, PA5-64274)
+PMID: 32218432, in-house ɑ-ADAMTS18 pAb (PMID: 32218432)",-,"ACAN,ADAMTS1,ADAMTS10,ADAMTS13,ADAMTS14,ADAMTS15,ADAMTS16,ADAMTS17,ADAMTS19,ADAMTS2,ADAMTS20,ADAMTS3,ADAMTS4,ADAMTS5,ADAMTS6,ADAMTS7,ADAMTS8,ADAMTS9,COL15A1,COL18A1,SPON1,SPON2,THBS1,THBS2",-,-,"Extracellular matrix, Secreted, Intracellular",No
+ADAMTS19,Basement membrane,Adamts19,-,-,-,Human Protein Atlas (H),"HPA, ɑ-ADAMTS19 pAb (Atlas Antibodies, HPA056171)",-,"ADAMTS1,ADAMTS10,ADAMTS13,ADAMTS14,ADAMTS15,ADAMTS16,ADAMTS17,ADAMTS18,ADAMTS2,ADAMTS20,ADAMTS3,ADAMTS4,ADAMTS5,ADAMTS6,ADAMTS7,ADAMTS8,ADAMTS9,SPON1,SPON2,THBS1,THBS2",-,-,"Extracellular matrix, Secreted",No
+ADAMTS20,Basement membrane,Adamts20,-,AdamTS-A,gon-1,PMID: 29860265 (H),"PMID: 29860265, ɑ-ADAMTS8/18/20 (Thermo Fisher Scientific, PA5-64274)",GON-1,"ADAMTS1,ADAMTS10,ADAMTS13,ADAMTS14,ADAMTS15,ADAMTS16,ADAMTS17,ADAMTS18,ADAMTS19,ADAMTS2,ADAMTS3,ADAMTS4,ADAMTS5,ADAMTS6,ADAMTS7,ADAMTS8,ADAMTS9,SPON1,SPON2,THBS1,THBS2",-,-,"Extracellular matrix, Secreted, Intracellular",No
+AGRN,Basement membrane,Agrn,agrn,-,agr-1,"PMID: 16983329 (H)
+PMID: 17927980 (H)
+PMID: 20714324 (M)
+PMID: 22382594 (H)
+PMID: 23074202 (H)
+PMID: 24137544 (H)
+The Matrixome Project (M)","PMID: 16983329, ɑ-agrin mAb clone 7E12 (Chemicon)
+PMID: 17927980, in-house agrin rabbit pAb 
+PMID: 20714324, ɑ-agrin 131 mouse mAb (Stressgen Bioreagents, Victoria, BC, Canada)
+PMID: 22382594, ɑ-mouse agrin, LG domain
+PMID: 23074202, 6D2 mAb ɑ-agrin (Developmental Studies Hybridoma Bank)
+PMID: 24137544, ɑ-agrinC (clone MI-91)
+The Matrixome Project, Rabbit pAb ag1 (MATRIXOME PJ)",AGR-1,"BCAN,BGN,COLQ,DCN,HSPG2,LAMA1,LAMA2,LAMA3,LAMA4,LAMA5,LAMB1,LAMB2,LAMB3,LAMC1,LAMC2,LAMC3,NID1,VCAN","CSPG4,DAG1,GPC1,GPC2,GPC3,GPC4,GPC5,GPC6,ITGA1,ITGA2,ITGA3,ITGA5,ITGA6,ITGA7,ITGA8,ITGA9,ITGAV,ITGB1,MUSK,SDC1,SDC4",-,"Extracellular matrix, Cell junction, Cell membrane, Membrane, Secreted, Synapse, Intracellular",Yes
+AMELX,Basement membrane,Amelx,-,-,-,"PMID: 12430167 (M)
+PMID: 1626718 (R)
+The Matrixome Project (M)","PMID: 12430167, in-house ɑ-recombinant M179 amelogenin (gifted from Dr. Sim-mer, University of Texas)
+PMID: 1626718, in-house ɑ-AMELX En3 (Zymed  Lab.,  Inc.)
+The Matrixome Project, Rabbit pAb ɑ-amelx PC-062, cat. PC-062 (KAMIYA BIOMEDICAL)",-,"AMTN,CST3,FBN1,FN1,LAMB1,LAMB2,LAMC1,SPARCL1,TIMP1,TNC,VCAN,VWA1","ADAM10,EVA1A,GPC3",-,"Extracellular matrix, Secreted",Yes
+AMTN,Basement membrane,Amtn,-,-,-,"PMID: 16787391 (R)
+PMID: 28436474 (M)
+Human Protein Atlas (H)","PMID: 16787391, in-house ɑ-AMTN pAb (PMID: 16787391)
+PMID: 28436474, in-house ɑ-AMTN pAb/mAb
+HPA, rabbit ɑ-Amelotin pAb (Atlas Antibodies, HPA036137)",-,"AMELX,CST3,FBN1,FN1,LAMB1,LAMB2,LAMC1,SPARCL1,TIMP1,TNC,VCAN,VWA1","ADAM10,EVA1A,GPC3",-,Secreted,No
+ANG,Basement membrane,Ang,masel3,-,-,"PMID: 15166501 (H)
+PMID: 27073441 (H)","PMID: 15166501, in-house ɑ-angiogenin pAb (PMID 15166501) and ɑ-angiogenin mAb MANG-1 (Bachem)
+PMID: 27073441, ɑ-Ang-1 & ɑ-Ang-2 pAb (Santa Cruz Biotech., sc-6319 & sc-20718)",-,-,-,-,Secreted,No
+BCAN,Basement membrane,Bcan,bcan,-,-,"PMID: 23074202 (H)
+PMID: 29777959 (H)
+Human Protein Atlas (H)","PMID: 23074202, mAb brevican clone 450616 (R&D systems),
+PMID: 29777959, rabbit pAb BCAN (Abcam ab111719)
+HPA, ɑ-BCAN, rabbit pAb (Atlas Antibodies, HPA007865)", -,"ADAMTS4,ADAMTS5,AGRN,BGN,DCN,HSPG2,MMP1,MMP2,MMP7,TNC,VCAN","CSPG4,GPC1,GPC2,GPC3,GPC4,GPC5,GPC6,SDC1,SDC4",-,"Extracellular matrix, Membrane, Secreted",No
+BGN,Basement membrane,Bgn,"bgna,bgnb",-,-,"PMID: 11012890 (H)
+PMID: 12122449 (M)
+PMID: 15613083 (H)
+PMID: 17543016 (M)
+PMID: 18067481 (H)
+PMID: 18951514 (M)
+PMID: 21294898 (M)
+PMID: 23074202 (H)","PMID: 11012890, in-house ɑ-BGN (From PMID 1597483)
+PMID: 12122449, in-house rabbit ɑ-BGN clone LF-159 (PMID 85533864) 
+PMID: 15613083, in-house rabbit ɑ-biglycan clone LF 106 (PMID 8553864) 
+PMID: 17543016, in-house rabbit ɑ-BGN clone LF-159 (PMID 85533864) 
+PMID: 18067481, ɑ-BGN pAb clone LF-121
+PMID: 18951514, in-house rabbit ɑ-biglycan clone LF 106 (PMID 8553864) 
+PMID: 21294898, in-house rabbit ɑ-biglycan clone LF 106 (PMID 8553864) 
+PMID: 23074202, pAb ɑ-BGN (R&D Systems) ", -,"ACAN,AGRN,BCAN,COL4A2,COL5A1,COL6A1,COL9A1,COL9A2,COL9A3,DCN,FN1,HSPG2,POSTN,SPARC,TGFB1,TGFB2,VCAN","CSPG4,GPC1,GPC2,GPC3,GPC4,GPC5,GPC6,SDC1,SDC4",-,"Extracellular matrix, Secreted",No
+CCDC80,Basement membrane,Ccdc80,ccdc80,-,-,"PMID: 18757743 (M)
+Human Protein Atlas (H)
+The Matrixome Project (M)","PMID: 18757743, in-house rabbit ɑ-ECM866/URB (CCDC80) (PMID: 18757743)
+HPA, ɑ-CCDC80, rabbit pAb (Atlas Antibodies, HPA002266)
+The Matrixome Project, Rabbit pAb ɑ-ECM866/URB 866C (MATRIXOME PJ)", -,-,-,-,"Extracellular matrix, Secreted, Intracellular",Yes
+CERT1,Basement membrane,Col4a3bp,"cert1a,cert1b",cert,F25H2.6,"PMID: 27619726 (M)
+Human Protein Atlas (H)","PMID: 27619726, mAb mouse ɑ-GPBP (CERT) (Fibrostatin, SL, Valencia, Spain)
+HPA, Rabbit ɑ-CERT1 pAb (Atlas Antibodies, HPA042608 and HPA035645)",F25H2.6,COL4A3,-,-,"Cytoplasm, Endoplasmic reticulum, Golgi apparatus",No
+COL2A1,Basement membrane,Col2a1,"col12a1a,col12a1b",-,-,PMID: 20690028 (Sh),"PMID: 20690028: Anti type II collagen (clone II-4CII) (MP Biomedicals, Ohio, USA)", -,"ADAMTS14,ADAMTS2,ADAMTS3,ADAMTS5,COL12A1,COL14A1,COL15A1,COL17A1,COL18A1,COL28A1,COL4A1,COL4A2,COL4A3,COL4A4,COL4A5,COL4A6,COL5A1,COL6A1,COL6A2,COL6A3,COL7A1,COL8A1,COL8A2,COL9A1,COL9A2,COL9A3,P3H1,P3H2,LUM,MATN1,SPARC,TGFB1,TLL1","CD44,COL13A1,ITGA1,ITGA10,ITGA2,ITGA2B,ITGAV,ITGB1,ITGB3,SDC1",-,"Extracellular matrix, Secreted, Intracellular",No
+COL4A1,Basement membrane,Col4a1,col4a1,"col4a1,vkg",emb-9,"PMID: 7657706 (H)
+PMID: 24137544 (H)
+PMID: 16651625 (H)
+PMID: 23896970 (M)
+PMID:17962449 (H)
+The Matrixome Project (M)","PMID: 7657706, in-house peptide specific mAb H11 to col4a1
+PMID: 24137544, Collagen α1α1α2(IV) antibody (human), Goat (Southern Biotechnology Associates)
+PMID: 16651625, In-house rat mAb a1 antibody H11
+PMID: 23896970, Collagen α1α1α2(IV) antibody (human), Goat (Southern Biotechnology Associates, AL/1340-01)
+PMID:17962449, Collagen α1α1α2(IV) antibody, mouse mAb M3F7 (Developmental Studies Hybridoma Bank) and in-house rat mAb H11 a1 chain antibody
+The Matrixome Project, Rat mAb H11 (PMID: 8548560)",EMB-9,"COL12A1,COL14A1,COL15A1,COL17A1,COL18A1,COL28A1,COL2A1,COL4A2,COL4A3,COL4A4,COL4A5,COL4A6,COL5A1,COL6A1,COL6A2,COL6A3,COL7A1,COL8A1,COL8A2,COL9A1,COL9A2,COL9A3,FN1,HSPG2,LAMB1,P3H1,P3H2,LUM,NID1,NID2,SPARC","COL13A1,ITGA1,ITGA2,ITGA3,ITGA5,ITGA6,ITGA7,ITGA8,ITGAV,ITGB1,ITGB3,ITGB5,ITGB6,ITGB8,SDC1",-,"Basement membrane, Extracellular matrix, Secreted, Intracellular",Yes
+COL4A2,Basement membrane,Col4a2,col4a2,"col4a1,vkg",let-2,"PMID: 7657706 (H)
+PMID: 24137544 (H)
+PMID: 16651625 (H)
+PMID: 23896970 (M)
+PMID: 17962449 (H)
+PMID: 22382594 (H)
+The Matrixome Project (M)","PMID: 7657706, in-house peptide specific rat mAb H21 to col4a2
+PMID: 24137544, Collagen α1α1α2(IV) antibody (human), Goat (Southern Biotechnology Associates)
+PMID: 16651625,  In-house rat mAb a2 antibody H21 
+PMID: 23896970, Collagen α1α1α2(IV) antibody (human), Goat (Southern Biotechnology Associates, AL/1340-01)
+PMID: 17962449, Collagen α1α1α2(IV) antibody, mouse mAb M3F7 (Developmental Studies Hybridoma Bank) and in-house rat mAb H21 a2 chain antibody
+PMID: 22382594, In-house rat mAb a2 antibody H21
+The Matrixome Project, Rat mAb H22 (PMID: 8548560)",LET-2,"BGN,COL12A1,COL14A1,COL15A1,COL17A1,COL18A1,COL28A1,COL2A1,COL4A1,COL4A3,COL4A4,COL4A5,COL4A6,COL5A1,COL6A1,COL6A2,COL6A3,COL7A1,COL8A1,COL8A2,COL9A1,COL9A2,COL9A3,FN1,HSPG2,P3H1,P3H2,LUM,NID1,SPARC","COL13A1,ITGA1,ITGA10,ITGA2,ITGA3,ITGA4,ITGA5,ITGA6,ITGA7,ITGA8,ITGAV,ITGB1,ITGB3,ITGB4,ITGB5,ITGB8,SDC1",-,"Basement membrane, Extracellular matrix, Secreted, Intracellular",Yes
+COL4A3,Basement membrane,Col4a3,col4a3,"col4a1,vkg","let2,emb-9","PMID: 16651625 (H)
+PMID: 23896970 (M)
+PMID: 24137544 (H)
+PMID: 7657706 (H)
+The Matrixome Project (M)","PMID: 16651625, collagen IV α3 chain rat mAb H31 (in-house); 
+PMID: 23896970, collagen IV α3α4α5 mouse/26-20, goat anti mouse
+PMID: 24137544, Collagen α3α4α5(IV)-NC1 (bovine), clone 26-20 
+PMID: 7657706, α-collagen IV α3 chain rat mAb H31 (in-house)
+The Matrixome Project, Rat mAb H31 (PMID: 8548560)","LET-2, EMB-9","COL12A1,COL14A1,COL15A1,COL17A1,COL18A1,COL28A1,COL2A1,COL4A1,COL4A2,CERT1,COL4A4,COL4A5,COL4A6,COL5A1,COL6A1,COL6A2,COL6A3,COL7A1,COL8A1,COL8A2,COL9A1,COL9A2,COL9A3,P3H1,P3H2,LUM","COL13A1,ITGA1,ITGA2,ITGA3,ITGAV,ITGB1,ITGB3,ITGB4,SDC1",-,"Basement membrane, Extracellular matrix, Secreted, Intracellular",Yes
+COL4A4,Basement membrane,Col4a4,col4a4,"col4a1,vkg","let2,emb-9","PMID: 7657706 (H)
+PMID: 24137544 (H)
+PMID: 16651625 (H)
+PMID: 23896970 (M)
+PMID: 17962449 (H)
+The Matrixome Project (M)","PMID: 7657706, in-house peptide specific rat mAb H43 to col4a4 
+PMID: 24137544, Collagen α3α4α5(IV)-NC1 (bovine), clone 26-20
+PMID: 16651625, in-house peptide specific mAb H43 to col4a4  
+PMID: 23896970, collagen IV α3α4α5 mouse/26-20, goat anti mouse
+PMID: 17962449, in-house peptide specific rat mAb H43 to col4a4
+The Matrixome Project, Rat mAb H43 (PMID: 8548560)","LET-2, EMB-9","COL12A1,COL14A1,COL15A1,COL17A1,COL18A1,COL28A1,COL2A1,COL4A1,COL4A2,COL4A3,COL4A5,COL4A6,COL5A1,COL6A1,COL6A2,COL6A3,COL7A1,COL8A1,COL8A2,COL9A1,COL9A2,COL9A3,P3H1,P3H2,LUM","COL13A1,ITGA1,ITGA10,ITGA2,ITGA3,ITGAV,ITGB1,ITGB3,ITGB4,ITGB6,SDC1",-,"Basement membrane, Extracellular matrix, Secreted",Yes
+COL4A5,Basement membrane,Col4a5,col4a5,"col4a1,vkg","let2,emb-9","PMID: 7657706 (H)
+PMID: 24137544 (H)
+PMID: 16651625 (H)
+PMID: 23896970 (M)
+The Matrixome Project (M)","PMID: 7657706, in-house peptide specific rat mAb H52 to col4a5
+PMID: 24137544, Collagen α3α4α5(IV)-NC1 (bovine), clone 26-20 and Collagen α5(IV)-peri N (human), clone H53
+PMID: 16651625, in-house peptide specific rat mAb H52 to col4a5
+PMID: 23896970, collagen IV α3α4α5 mouse/26-20, goat anti mouse
+The Matrixome Project, Rat mAb H53 in-house","LET-2, EMB-9","COL12A1,COL14A1,COL15A1,COL17A1,COL18A1,COL28A1,COL2A1,COL4A1,COL4A2,COL4A3,COL4A4,COL4A6,COL5A1,COL6A1,COL6A2,COL6A3,COL7A1,COL8A1,COL8A2,COL9A1,COL9A2,COL9A3,P3H1,P3H2,LUM,SLIT1","COL13A1,ITGA1,ITGA2,ITGA3,ITGAV,ITGB1,ITGB3,ITGB4,SDC1",-,"Basement membrane, Extracellular matrix, Secreted, Intracellular",Yes
+COL4A6,Basement membrane,Col4a6,col4a6,"col4a1,vkg","let2,emb-9","PMID: 7657706 (H)
+PMID: 16651625 (H)
+The Matrixome Project (M)","PMID: 7657706, in-house peptide specific rat mAb H61, H62, H63 to col4a6
+PMID: 16651625, in-house peptide specific rat mAb H61, H62, H63 to col4a6
+The Matrixome Project, Rat mAb B66 in-house","LET-2, EMB-9","COL12A1,COL14A1,COL15A1,COL17A1,COL18A1,COL28A1,COL2A1,COL4A1,COL4A2,COL4A3,COL4A4,COL4A5,COL5A1,COL6A1,COL6A2,COL6A3,COL7A1,COL8A1,COL8A2,COL9A1,COL9A2,COL9A3,P3H1,P3H2,LUM","COL13A1,ITGA1,ITGA2,ITGA3,ITGAV,ITGB1,ITGB3,SDC1",-,"Basement membrane, Extracellular matrix, Secreted",Yes
+COL5A1,Basement membrane,Col5a1,col5a1,-,-,"PMID: 22437311 (M)
+PMID: 6993495 (M)
+PMID: 371411 (H)","PMID: 22437311, Monoclonal 18G5 antibody against N-term of proα1(V) chain (in-house)
+PMID: 6993495, in-house affinity purified Ab to human AB2 collagen
+PMID: 371411, affinity-purified Rabbit antibody for human collagen AB2", -,"ADAMTS14,ADAMTS2,ADAMTS3,BGN,COL12A1,COL14A1,COL15A1,COL17A1,COL18A1,COL28A1,COL2A1,COL4A1,COL4A2,COL4A3,COL4A4,COL4A5,COL4A6,COL6A1,COL6A2,COL6A3,COL7A1,COL8A1,COL8A2,COL9A1,COL9A2,COL9A3,DCN,FBN1,FN1,P3H1,P3H2,LUM,MMP2,SPARC,TLL1","COL13A1,DDR2,ITGA1,ITGAV,ITGB1,ITGB3,SDC1",-,"Extracellular matrix, Secreted, Intracellular",No
+COL6A1,Basement membrane,Col6a1,col6a1,-,-,"PMID: 24357721 (M)
+PMID: 21406227 (H)
+PMID: 18276594 (M)
+The Matrixome Project (M)","PMID: 24357721, Goat pAb ɑ-mouse, COL6 clone S-16 (Santa Cruz Biotechnologies)
+PMID: 21406227, Rabbit ɑ-collagen VI (Fitzgerald, Concord, MA) 
+PMID: 18276594, pAb ɑ-collagen VI α1α2α3 (Chemicon, AB7821)
+The Matrixome Project, Rabbit pAb ɑ-COL6 cat. LB-1697 (LSL)", -,"BGN,COL12A1,COL14A1,COL15A1,COL17A1,COL18A1,COL28A1,COL2A1,COL4A1,COL4A2,COL4A3,COL4A4,COL4A5,COL4A6,COL5A1,COL6A2,COL6A3,COL7A1,COL8A1,COL8A2,COL9A1,COL9A2,COL9A3,DCN,P3H1,P3H2,MMP2,SPARC","COL13A1,ITGA1,ITGA2,ITGA3,ITGA4,ITGA5,ITGA6,ITGA7,ITGA8,ITGAV,ITGB1,ITGB3,ITGB4,ITGB5,SDC1",-,"Extracellular matrix, Secreted",Yes
+COL6A2,Basement membrane,Col6a2,col6a2,-,-,"PMID: 24357721 (M)
+PMID: 21406227 (H)
+PMID: 18276594 (M)
+The Matrixome Project (M)","PMID: 24357721, Goat pAb ɑ-mouse, COL6 clone S-16 (Santa Cruz Biotechnologies)
+PMID: 21406227, Rabbit ɑ-collagen VI (Fitzgerald, Concord, MA) 
+PMID: 18276594, pAb ɑ-collagen VI α1α2α3 (Chemicon, AB7821)
+The Matrixome Project, Rabbit pAb ɑ-COL6 cat. LB-1697 (LSL)", -,"COL12A1,COL14A1,COL15A1,COL17A1,COL18A1,COL28A1,COL2A1,COL4A1,COL4A2,COL4A3,COL4A4,COL4A5,COL4A6,COL5A1,COL6A1,COL6A3,COL7A1,COL8A1,COL8A2,COL9A1,COL9A2,COL9A3,FN1,P3H1,P3H2,MMP2","COL13A1,ITGA1,ITGA2,ITGA3,ITGA5,ITGA7,ITGA8,ITGA9,ITGAV,ITGB1,ITGB3,ITGB5,SDC1",-,"Extracellular matrix, Membrane, Secreted, Intracellular",Yes
+COL6A3,Basement membrane,Col6a3,col6a3,-,-,"PMID: 24357721 (M)
+PMID: 21406227 (H)
+PMID: 22226732 (H)
+PMID: 18276594 (M)
+The Matrixome Project (M)","PMID: 24357721, Goat pAb ɑ-mouse, COL6 clone S-16 (Santa Cruz Biotechnologies)
+PMID: 21406227, Rabbit ɑ-collagen VI (Fitzgerald, Concord, MA) 
+PMID: 22226732, antibody against the collagen VI α1α2α3 chains (Fitzgerald)
+PMID: 18276594, pAb ɑ-collagen VI α1α2α3 (Chemicon, AB7821)
+The Matrixome Project, Rabbit pAb ɑ-COL6 cat. LB-1697 (LSL)", -,"COL12A1,COL14A1,COL15A1,COL17A1,COL18A1,COL28A1,COL2A1,COL4A1,COL4A2,COL4A3,COL4A4,COL4A5,COL4A6,COL5A1,COL6A1,COL6A2,COL7A1,COL8A1,COL8A2,COL9A1,COL9A2,COL9A3,DCN,P3H1,P3H2,LUM,POSTN","COL13A1,ITGA1,ITGA2,ITGA4,ITGA5,ITGA7,ITGA8,ITGAV,ITGB1,ITGB3,ITGB4,ITGB5,ITGB6,SDC1",-,"Extracellular matrix, Secreted, Intracellular",Yes
+COL7A1,Basement membrane,Col7a1,col7a1,-,-,"PMID: 1347297 (H)
+PMID: 11083471 (H)
+PMID: 20336083 (M)
+PMID: 25915046 (H)
+PMID: 17962449 (H)","PMID: 1347297,  monoclonal ɑ-type VII collagen antibody L3D.
+PMID: 11083471, rabbit pAb to human collagen VII that did not cross-react with mouse.
+PMID: 20336083, rabbit anti mouse COL7A1
+PMID: 25915046, Mouse monoclonal collagen VII (Chemicon International)
+PMID: 17962449, Mouse mAb 4D2 collagen VII ", -,"COL12A1,COL14A1,COL15A1,COL17A1,COL18A1,COL28A1,COL2A1,COL4A1,COL4A2,COL4A3,COL4A4,COL4A5,COL4A6,COL5A1,COL6A1,COL6A2,COL6A3,COL8A1,COL8A2,COL9A1,COL9A2,COL9A3,LAMA3,LAMB3,LAMC2,P3H1,P3H2,LUM,THBS1,TLL1","COL13A1,ITGA2,ITGAV,ITGB1,ITGB3,SDC1",-,"Basement membrane, Extracellular matrix, Secreted, Intracellular",No
+COL8A1,Basement membrane,Col8a1,"col8a1a,col8a1b",-,-,"PMID: 29706360 (M)
+PMID: 2104858 (B)
+PMID: 17962449 (H)","PMID: 29706360, rabbit polyclonal anticollagen type VIII a1 (Sigma-Aldrich, HPA053107)
+PMID: 2104858, 6A2 and 9H3 monoclonal antibodies to Col VIII, in-house
+PMID: 17962449, mouse mAb 9H3 collagen VIII a1 chain (Seikagaku America)", -,"COL12A1,COL14A1,COL15A1,COL17A1,COL18A1,COL28A1,COL2A1,COL4A1,COL4A2,COL4A3,COL4A4,COL4A5,COL4A6,COL5A1,COL6A1,COL6A2,COL6A3,COL7A1,COL8A2,COL9A1,COL9A2,COL9A3,P3H1,P3H2,LUM",COL13A1,-,"Basement membrane, Extracellular matrix, Secreted",No
+COL8A2,Basement membrane,Col8a2,col8a2,-,-,"PMID: 2104858 (B)
+PMID: 17962449 (H)","PMID: 2104858, Two mAb (6A2 and 9H3) to Collagen VIII, in-house
+PMID: 17962449, Mouse mAb 9H3 collagen VIII a1 chain (Seikagaku America)", -,"COL12A1,COL14A1,COL15A1,COL17A1,COL18A1,COL28A1,COL2A1,COL4A1,COL4A2,COL4A3,COL4A4,COL4A5,COL4A6,COL5A1,COL6A1,COL6A2,COL6A3,COL7A1,COL8A1,COL9A1,COL9A2,COL9A3,P3H1,P3H2",COL13A1,-,"Basement membrane, Extracellular matrix, Secreted, Intracellular",No
+COL9A1,Basement membrane,Col9a1,col9a1b,-,-,PMID: 23130612 (H),"PMID: 23130612: Collagen type IX α1 chain (monoclonal mouse ɑ-human antibody (IgG2a), Clone: 23-5D1, (Acris, Herford, Germany, AF6410)", -,"BGN,COL12A1,COL14A1,COL15A1,COL17A1,COL18A1,COL28A1,COL2A1,COL4A1,COL4A2,COL4A3,COL4A4,COL4A5,COL4A6,COL5A1,COL6A1,COL6A2,COL6A3,COL7A1,COL8A1,COL8A2,COL9A2,COL9A3,P3H1,P3H2","COL13A1,ITGA1,ITGA10,ITGA2,ITGB1",-,"Extracellular matrix, Secreted",No
+COL9A2,Basement membrane,Col9a2,col9a2,-,-,PMID: 23130612 (H),"PMID: 23130612: Collagen type IX α1 chain (monoclonal mouse ɑ-human antibody (IgG2a), Clone: 23-5D1, (Acris, Herford, Germany, AF6410)", -,"BGN,COL12A1,COL14A1,COL15A1,COL17A1,COL18A1,COL28A1,COL2A1,COL4A1,COL4A2,COL4A3,COL4A4,COL4A5,COL4A6,COL5A1,COL6A1,COL6A2,COL6A3,COL7A1,COL8A1,COL8A2,COL9A1,COL9A3,P3H1,P3H2","COL13A1,ITGA1,ITGA10,ITGA2,ITGB1",-,"Extracellular matrix, Secreted, Intracellular",No
+COL9A3,Basement membrane,Col9a3,col9a3,-,-,PMID: 23130612 (H),"PMID: 23130612: Collagen type IX α1 chain (monoclonal mouse ɑ-human antibody (IgG2a), Clone: 23-5D1, (Acris, Herford, Germany, AF6410)", -,"BGN,COL12A1,COL14A1,COL15A1,COL17A1,COL18A1,COL28A1,COL2A1,COL4A1,COL4A2,COL4A3,COL4A4,COL4A5,COL4A6,COL5A1,COL6A1,COL6A2,COL6A3,COL7A1,COL8A1,COL8A2,COL9A1,COL9A2,P3H1,P3H2","COL13A1,ITGA1,ITGA10,ITGA2,ITGA7,ITGB1,ITGB8",-,"Extracellular matrix, Secreted, Intracellular",No
+COL12A1,Basement membrane,Col12a1,"cola12a1a,col12a1b",-,-,"PMID: 22573329 (H)
+PMID: 18983916 (Z)
+PMID: 17962449 (H)
+PMID: 23325806 (Z)","PMID: 22573329, Polyclonal antibody recognising the fibronectin type III repeats 14 to 18 of collagen XII, in-house
+PMID: 18983916, affinity purified pAb specific for zebrafish Col XII-FNIII, in-house
+PMID: 17962449, Col XII long form mouse mAb I1C8 and col XII total mouse mAb 3C7
+PMID: 23325806, Affinity-purified rabbit pAb specific for zebrafish Col XII", -,"COL14A1,COL15A1,COL17A1,COL18A1,COL28A1,COL2A1,COL4A1,COL4A2,COL4A3,COL4A4,COL4A5,COL4A6,COL5A1,COL6A1,COL6A2,COL6A3,COL7A1,COL8A1,COL8A2,COL9A1,COL9A2,COL9A3,P3H1,P3H2,POSTN",COL13A1,-,"Extracellular matrix, Secreted",No
+COL14A1,Basement membrane,Col14a1,"cola14a1a,col14a1b",-,-,"PMID: 22573329 (H)
+PMID: 23325806 (Z)","PMID: 22573329, Polyclonal antibody recognising the fibronectin type III repeats 5 to 8 of collagen XIV, in-house 
+PMID: 23325806, Affinity-purified polyclonal guinea pig/rabbit antibodies specific for zebrafish COLXIV-A, in-house", -,"COL12A1,COL15A1,COL17A1,COL18A1,COL28A1,COL2A1,COL4A1,COL4A2,COL4A3,COL4A4,COL4A5,COL4A6,COL5A1,COL6A1,COL6A2,COL6A3,COL7A1,COL8A1,COL8A2,COL9A1,COL9A2,COL9A3,DCN,P3H1,P3H2,OGN",COL13A1,-,"Extracellular matrix, Secreted",No
+COL15A1,Basement membrane,Col15a1,"col15a1a,col15a1b",Mp,cle-1,"PMID: 16633037 (H)
+PMID: 11937714 (H)","PMID: 16633037, pAb against native human ColXV detects the carboxy-terminal non-collagenous domain
+PMID: 11937714, Antibody raised to PNPISSANYEKPA (P12) for type XV (CH15A and CH15B), in-house",CLE-1,"ADAMTS18,COL12A1,COL14A1,COL17A1,COL18A1,COL28A1,COL2A1,COL4A1,COL4A2,COL4A3,COL4A4,COL4A5,COL4A6,COL5A1,COL6A1,COL6A2,COL6A3,COL7A1,COL8A1,COL8A2,COL9A1,COL9A2,COL9A3,CTSB,P3H1,P3H2,MMP7","COL13A1,GPC4",-,"Extracellular matrix, Secreted",No
+COL17A1,Basement membrane,Col17a1,"col17a1a,col17a1b",-,-,"PMID: 20336083 (M)
+PMID: 7550320 (H)
+PMID: 22688676 (H)
+PMID: 17927980 (H)","PMID: 20336083, rabbit anti mouse BP180
+PMID: 7550320, clone 233-HD4 (ɑ-BP180), in-house
+PMID: 22688676, mouse monoclonal ɑ-collagen XVII antibodies 9G2 and 6D1 and NC16-A3
+PMID: 17927980, affinity purified polyclonal rabbit Ab to type XVII collagen", -,"COL12A1,COL14A1,COL15A1,COL18A1,COL28A1,COL2A1,COL4A1,COL4A2,COL4A3,COL4A4,COL4A5,COL4A6,COL5A1,COL6A1,COL6A2,COL6A3,COL7A1,COL8A1,COL8A2,COL9A1,COL9A2,COL9A3,LAMA1,LAMA3,LAMB1,LAMB3,LAMC2,P3H1,P3H2","ADAM10,ADAM17,ADAM9,CD151,COL13A1,ITGA6,ITGB4",-,"Basement membrane, Cell junction, Extracellular matrix, Membrane, Secreted, Intracellular",No
+COL18A1,Basement membrane,Col18a1,"col18a1a,col18a1b",Mp,cle-1,"PMID: 23074202 (H)
+PMID: 7568013 (M)
+PMID: 17927980 (H)
+The Matrixome Project (M)","PMID: 23074202, collagen XVIII 6C4 mAb (Developmental Studies Hybridoma Bank)
+PMID: 7568013, Antibody raised to the 20 aa of the N-terminal non-triple-helical NC11 domain of mouse a1(XVIII) collagen, in-house
+PMID: 17927980, mouse col XVIII NC11 domain
+The Matrixome Project, in-house Rat mAb CM186",CLE-1,"ADAMTS18,ADAMTS8,COL12A1,COL14A1,COL15A1,COL17A1,COL28A1,COL2A1,COL4A1,COL4A2,COL4A3,COL4A4,COL4A5,COL4A6,COL5A1,COL6A1,COL6A2,COL6A3,COL7A1,COL8A1,COL8A2,COL9A1,COL9A2,COL9A3,CTSB,CTSD,HSPG2,LAMA1,LAMB1,LAMC1,P3H1,P3H2,MMP2,MMP7,THBS1","COL13A1,GPC1,GPC4,ITGA3,ITGA5,ITGAV,ITGB1,ITGB3,ITGB5",-,"Basement membrane, Extracellular matrix, Secreted, Intracellular",Yes
+COL28A1,Basement membrane,Col28a1,"col28a1a,col28a1b",-,-,"PMID: 16330543 (M)
+PMID: 26235539 (Z)","PMID: 16330543, Affinity-purified antibody against the collagen XXVIII VWA2 domain (pAb KR43), in-house
+PMID: 26235539, Affinity-purified antibody directed against zebrafish collagen XXVIII chain, in-house", -,"COL12A1,COL14A1,COL15A1,COL17A1,COL18A1,COL2A1,COL4A1,COL4A2,COL4A3,COL4A4,COL4A5,COL4A6,COL5A1,COL6A1,COL6A2,COL6A3,COL7A1,COL8A1,COL8A2,COL9A1,COL9A2,COL9A3,P3H1,P3H2",COL13A1,-,"Basement membrane, Extracellular matrix, Secreted, Intracellular",No
+COLQ,Basement membrane,Colq,colq,-,-,PMID: 10087275 (M),"PMID: 10087275, Antibody to ColQ (Krejci et al., 1997)", -,"ACHE,AGRN,HSPG2",MUSK,-,"Cell junction, Synapse, Intracellular",No
+CST3,Basement membrane,Cst3,cst3,"CG8066,Cys","cpi-1,cpi-2","PMID: 28067897 (H)
+PMID: 19435903 (M)","PMID: 28067897, Rabbit pAb for Cytostatin C (Sigma, HPA013143)
+PMID: 19435903, Cystatin C antibody (R&D Systems)","CPI-1, CPI-2","AMELX,AMTN,CTSB,CTSD,FBN1,FN1,HSPG2,LAMB1,LAMB2,LAMC1,SPARCL1,TIMP1,TIMP2,TNC,VCAN,VWA1","ADAM10,EVA1A,GPC3",-,"Secreted, Amyloid, Intracellular",No
+CTSA,Basement membrane,Ctsa,ctsa,-,"ctsa-1.1,ctsa-1.2,ctsa-4.1,Y16B4A.2,ctsa-2,ctsa-4.2,ctsa-3.1,ctsa-3.2",-,-,-,CTSD,-,-,Intracellular,No
+CTSB,Basement membrane,Ctsb,"ctsba,ctsbb",CtsB1,"cpr-1,cpr-2,cpr-3,cpr-4,cpr-5,cpr-6,cpr-8,W07B8.4,F32H5.1",Human Protein Atlas (H),"HPA, rabbit ɑ-CTSB pAb (Atlas Antibodies, HPA018156) ",-,"COL15A1,COL18A1,CST3,CTSD",-,"Collagen type IV, laminin, FN1","Cell membrane, Lysosome, Membrane, Secreted",No
+CTSD,Basement membrane,Ctsd,ctsd,cathD,"asp-1,asp-3,asp-4",-,-,-,"COL18A1,CST3,CTSA,CTSB,TIMP2",-,"CTSB, FN1 ","Secreted, Intracellular",No
+DCN,Basement membrane,Dcn,dcn,-,dcn-1,"PMID: 11012890 (H)
+PMID: 12122449 (M)
+PMID: 16183658 (H)
+PMID: 17543016 (M)
+PMID: 21294898 (M)
+Human Protein Atlas (H)","PMID: 11012890, α-DCN PG-II domain and ɑ-hDCN (From PMID 1597483); 
+PMID: 12122449, α-DCN LF-113 (source PMID: 8553864);
+PMID: 16183658 α-DCN LF-113 (PMID: 8553864)
+PMID: 17543016 α-DCN LF-113 (PMID: 8553864)
+PMID: 21294898 α-DCN LF-113 (PMID: 8553864)
+HPA, α-DCN 2354 (Origene #CAB017118)",-,"ACAN,AGRN,BCAN,BGN,COL14A1,COL5A1,COL6A1,COL6A3,FBN1,FN1,HSPG2,LUM,MMP2,MMP7,POSTN,SPARC,TGFB1,TGFB2,THBS1,VCAN","CSPG4,GPC1,GPC2,GPC3,GPC4,GPC5,GPC6,MMP14,SDC1,SDC4",-,"Extracellular matrix, Secreted",No
+ECM1,Basement membrane,Ecm1,"ecm1a,ecm1b",-,-,"PMID: 18200062 (H)
+PMID: 29439094 (C) ","PMID: 18200062, rabbit ɑ-ECM1-specific antibody (OAP 12516)
+PMID: 29439094, ɑ-ECM1 (Proteintech, 11521-1-AP)", -,"EFEMP1,TIMP3",-,-,"Extracellular matrix, Secreted",No
+EFEMP1,Basement membrane,Efemp1,efemp1,-,fbl-1,"PMID: 10601734 (M)
+PMID: 12242346 (H)
+PMID: 19520159 (M)
+PMID: 28622396 (M)
+PMID: 17664227 (M)","PMID: 10601734, rabbit antisera affinity purified antibody to fibulin-3, in-house
+PMID: 12242346, mouse mAb (Mab3-5) against EFEMP1, in-house
+PMID: 19520159, polyclonal rabbit ɑ-mouse fibulin-3 antibody
+PMID: 28622396, rabbit pAb ɑ-mouse fibulin-3
+PMID: 17664227, affinity purified polyclonal ɑ-mouse fibulin-3 antibody",FBL-1,"ECM1,EFEMP2,FBLN1,FBLN2,FBLN5,TIMP3,VTN",-,-,"Extracellular matrix, Secreted, Intracellular",No
+EFEMP2,Basement membrane,Efemp2,"efemp2a,efemp2b",-,fbl-1,"PMID: 10601734 (M)
+Human Protein Atlas (H)","PMID: 10601734,  rabbit antisera affinity purified antibody to fibulin-4, in-house
+HPA, rabbit ɑ-FBLN4 pAb (Atlas Antibodies, HPA023270)",FBL-1,"ADAMTS2,EFEMP1,FBLN1,FBLN2,FBLN5,VTN",-,-,"Basement membrane, Extracellular matrix, Secreted, Intracellular",No
+EGFL6,Basement membrane,Egfl6,egfl6,-,-,"PMID: 15572035 (M)
+PMID: 21335239 (M)
+PMID: 30355452 (M)
+The Matrixome Project (M)
+Human Protein Atlas (H)","PMID: 15572035, affinity purified rabbit MAEG antibody, in-house
+PMID: 21335239, affinity purified rabbit MAEG antibody, in-house
+PMID: 30355452, rabbit polyclonal ɑ-mouse EGFL6 against aa 257-550 (CUK-1203–022), in-house
+The Matrixome Project, Rabbit pAb ɑ-ECM661/MAEG mae1 (MATRIXOME PJ) 
+HPA, rabbit ɑ-EGFL6 pAb (Atlas Antibodies, HPA001838)", -,-,-,-,"Basement membrane, Extracellular matrix, Secreted",Yes
+EGFLAM,Basement membrane,Egflam,egflam,SP2353,T19D12.6,"PMID: 18641643 (M)
+Human Protein Atlas (H)","PMID: 18641643, rabbit pAb against pikachurin (Oriental Bioservice)
+HPA, rabbit pAb (Atlas Antibodies, HPA066577)",T19D12.6,-,DAG1,-,"Extracellular matrix, Cell junction, Cell projection, Secreted, Synapse, Intracellular",No
+FBLN1,Basement membrane,Fbln1,fbln1,CG31999,fbl-1,"PMID: 8850569 (M)
+PMID: 16061471 (M)
+PMID: 2249686 (M)
+The Matrixome Project (M)
+Human Protein Atlas (H)","PMID: 8850569, affinity purified rabbit ɑ-mouse fibulin-1 antiserum, in-house
+PMID: 16061471, rabbit ɑ-fibulin-1 (Rb1323)
+PMID: 2249686, affinity-purified rabbit antibodies to BM-90, in-house
+The Matrixome Project, Rabbit pAb ɑ-fibulin 1 fu1df (MATRIXOME PJ) 
+HPA, rabbit ɑ-FBLN1 pAb (Atlas Antibodies, HPA001612)",FBL-1,"EFEMP1,EFEMP2,FBLN2,FBLN5,FN1,HSPG2,VCAN,VTN",-,-,"Extracellular matrix, Secreted, Intracellular",Yes
+FBLN2,Basement membrane,Fbln2,fbnl2,-,fbl-1,"PMID: 8850569 (M)
+PMID: 8245130 (M)
+PMID: 30237579 (H)
+PMID: 28928811 (H)
+PMID: 24390135 (M)
+PMID: 9603244 (R)
+PMID: 17927980 (H)
+The Matrixome Project (M)","PMID: 8850569, antiserum to mouse fibulin-2
+PMID: 8245130, affinity purified ɑ-fibulin-2
+PMID: 30237579, antibody to FBLN2
+PMID: 28928811, Rabbit ɑ-human FBLN2 (Santa Cruz Biotechnology, sc-30176)
+PMID: 24390135, rabbit pAb ɑ-fibulin-2 from PMID 8245130
+PMID: 9603244, recombinant mouse fibulin-2
+PMID: 17927980, affinity-purified polyclonal rabbit antibody to fibulin-2
+The Matrixome Project, Rabbit pAb ɑ-Fbln2 6.D-E (MATRIXOME PJ)",FBL-1,"EFEMP1,EFEMP2,FBLN1,FBLN5,FN1,HSPG2,LAMA1,VCAN,VTN",-,-,"Extracellular matrix, Secreted, Intracellular",Yes
+FBLN5,Basement membrane,Fbln5,fbln5,-,fbl-1,"PMID: 21290250 (H)
+PMID: 17109857 (H)","PMID: 21290250, Monoclonal mouse ɑ-human fibulin-5 / DANCE antibody (R&D Systems, clone 293904)
+PMID: 17109857, polyclonal antibody directed against fibulin-5 ",FBL-1,"EFEMP1,EFEMP2,FBLN1,FBLN2,FN1,LOXL1,LOXL2,LOXL4,VTN",-,-,"Extracellular matrix, Secreted",No
+FBN1,Basement membrane,Fbn1,fbn1,-,fbn-1,"PMID: 25406291 (H)
+PMID: 15657057 (H)
+PMID: 17587800 (M)
+PMID: 25797463 (M)
+PMID: 17962449 (H)
+PMID: 17927980 (H)","PMID: 25406291, in-house rabbit pAb ɑ-C-terminal of human FBN1 (PMID: 18625713)
+PMID: 15657057, Monoclonal antibody against human fibrillin-1 (mAb069) 
+PMID: 17587800, rabbit polyclonal antibody reconising N-term of fibrillin-1 (pAb 9543)
+PMID: 25797463, ɑ-fibrillin-1 antibody (Abcam, Cambridge, UK, ab53076)
+PMID: 17962449, Mouse mAb (11C1) fibrillin-1 (Chemicon International)
+PMID: 17927980, Monoclonal antibody to fibrillin-1 (clone 26)",FBN-1,"ADAMTS10,AMELX,AMTN,COL5A1,CST3,DCN,FBN2,FBN3,FN1,HSPG2,LAMB1,LAMB2,LAMC1,LOXL1,LUM,MMP2,SPARCL1,TGFB1,TIMP1,TNC,VCAN,VWA1","ADAM10,EVA1A,GPC3,ITGA5,ITGAV,ITGB1,ITGB3,ITGB6",-,"Extracellular matrix, Secreted",No
+FBN2,Basement membrane,Fbn2,"fbn2a,fbn2b",-,fbn-1,"PMID: 12429739 (H)
+PMID: 25406291 (H)
+PMID: 24899048 (H)
+PMID: 15277214 (H)","PMID: 12429739, in-house rabbit mAb 48 and 143 FBN2
+PMID: 25406291, rabbit pAb ɑ-glycine-rich domain of fibrillin-2 
+PMID: 24899048, FBN2 polyclonal (Sigma, St Louis, MO) or FBN2 monoclonal (Millipore, Billerica, MA)
+PMID: 15277214, ɑ-human FBN2 antisera",FBN-1,"FBN1,FBN3","ITGA5,ITGAV,ITGB1,ITGB3,ITGB6",-,"Extracellular matrix, Secreted, Intracellular",No
+FBN3,Basement membrane,-,-,Frac,fbn-1,"PMID: 20970500 (H)
+PMID: 25406291 (H)","PMID: 20970500, affinity purified antibody against fibrillin-3, in-house
+PMID: 25406291, rabbit pAb against C-term of fibrillin-3",FBN-1,"FBN1,FBN2","ITGA5,ITGAV,ITGB1,ITGB3,ITGB6",-,"Extracellular matrix, Secreted, Intracellular",No
+FGF9,Basement membrane,Fgf9,fgf9,bnl,let-756,PMID: 17494997 (R),"PMID: 17494997, Goat pAb raised against C-term of human FGF9 (Santa Cruz, CA)",-,-,-,-,"Secreted, Intracellular",No
+FMOD,Basement membrane,Fmod,"fmoda,fmodb",-,-,PMID 23074202 (H),"PMID 23074202, Fibromodulin 630D1 mAb (Enzo Life Sciences)", -,"ACAN,LUM,OGN,TGFB1,TGFB2,VCAN",-,-,"Extracellular matrix, Secreted, Intracellular",No
+FN1,Basement membrane,Fn1,"fn1a,fn1b",-,-,"PMID: 22186730 (M)
+PMID: 28289267 (M)
+PMID: 9882526 (M)
+Human Protein Atlas (H)","PMID: 22186730, R5386 antibody against Fibronectin
+PMID: 28289267, fibronectin antibody (Abcam, ab23750) 
+PMID: 9882526, FN rabbit antibody specific to mouse serum fibronectin (Biomol, Hamburg, Germany) 
+HPA, rabbit affinity ɑ-FN1 purified pAb (Atlas Antibodies, HPA027066)", -,"AMELX,AMTN,BGN,COL4A1,COL4A2,COL5A1,COL6A2,CST3,DCN,FBLN1,FBLN2,FBLN5,FBN1,HSPG2,ISLR,LAMB1,LAMB2,LAMC1,LUM,MMP1,MMP7,NID1,POSTN,SPARC,SPARCL1,TGFB1,TGFB2,TGFBI,THBS1,TIMP1,TIMP2,TNC,VCAN,VTN,VWA1","ADAM10,CD44,EVA1A,GPC3,ITGA2,ITGA2B,ITGA3,ITGA4,ITGA5,ITGA8,ITGA9,ITGAV,ITGB1,ITGB3,ITGB6,ITGB7,MMP14,SDC1,SDC4",-,"Extracellular matrix, Secreted, Intracellular",No
+FRAS1,Basement membrane,Fras1,fras1,-,C48E7.6,"PMID: 17251066 (M)
+PMID: 24232570 (M)
+PMID: 17596926 (M)
+PMID: 12766770 (M)
+PMID: 17240369 (M)
+PMID: 17462874 (M)
+PMID: 16880404 (M)
+The Matrixome Project (M)
+Human Protein Atlas (H)","PMID: 17251066, Rabbit ɑ-Fras, in-house
+PMID: 24232570, Guinea-pig ɑ-mouse FRAS1 CSPG antibody, in-house
+PMID: 17596926, Rabbit pAb, in-house
+PMID: 12766770, Rabbit pAb, in-house
+PMID: 17240369, Rabbit pAb, in-house
+PMID: 17462874, rabbit antibody against Fras1, in-house
+PMID: 16880404, rabbit antibody against Fras1, in-house
+The Matrixome Project, Rabbit pAb ɑ-Fras1 ectodomain (MATRIXOME PJ) 
+HPA, rabbit ɑ-FRAS1 pAb (Atlas Antibodies, HPA051601)",C48E7.6,"FREM2,FREM3,HMCN1",-,-,"Cell membrane, Membrane, Intracellular",Yes
+FREM1,Basement membrane,Frem1,"frem1a,frem1b",-,C48E7.6,"PMID: 17596926 (M)
+PMID: 17251066 (M)
+PMID: 17240369 (M)
+PMID: 17462874 (M)
+PMID: 15878328 (M)
+The Matrixome Project (M)","PMID: 17596926, rabbit polyclonal antibody FREM1 
+PMID: 17251066, in-house affinity purified antibody
+PMID: 17240369, affinity purified Frem1 specific antibody, in-house
+PMID: 17462874, in-house antibody against QBRICK/Frem1 
+PMID: 15878328, in-house antibody against QBRICK/Frem1
+The Matrixome Project, Rabbit pAb ɑ-QBRICK/Frem1 NV domain",C48E7.6,HMCN1,-,-,"Basement membrane, Extracellular matrix, Secreted, Intracellular",Yes
+FREM2,Basement membrane,Frem2,"frem2a,frem2b",-,C48E7.6,"PMID: 17596926 (M)
+PMID: 17251066 (M)
+PMID: 17462874 (M)
+PMID: 16880404 (M)
+Human Protein Atlas (H)","PMID: 17596926, rabbit pAb ɑ-mouse FREM2 ab
+PMID: 17251066, in-house affinity purified antibody
+PMID: 17462874, in-house rabbit ab against FREM2 
+PMID: 16880404, in-house rabbit ab against FREM2 
+HPA, Rabbit ɑ-FREM2 pAb (Atlas Antibodies, HPA028831)",C48E7.6,"FRAS1,HMCN1,VWA2",-,-,"Cell membrane, Membrane",No
+FREM3,Basement membrane,Frem3,frem3,-,C48E7.6,"PMID: 17596926 (M)
+PMID: 17251066 (M)
+PMID: 17462874 (M)
+Human Protein Atlas (H)","PMID: 17596926, rabbit pAb ɑ-mouse FREM3
+PMID: 17251066, in-house affinity purified antibody
+PMID: 17462874, ɑ-FREM3, in-house 
+HPA, rabbit ɑ-FREM3 pAb (Atlas Antibodies, HPA041641)",C48E7.6,"FRAS1,HMCN1",-,-,"Extracellular matrix, Secreted",No
+HAPLN1,Basement membrane,Hapln1,"hapln1a,hapln1b",-,-,Human Protein Atlas (H),"HPA, ɑ-HAPLN1 rabbit pAb (Atlas Antibodies, HPA019482)", -,ACAN,-,-,"Extracellular matrix, Secreted",No
+HMCN1,Basement membrane,Hmcn1,hmcn1,sls,him-4,"PMID: 32035013 (M)
+PMID: 29488390 (M)","PMID: 32035013, affinity purified antibody against fibulin domains of human HMCN1
+PMID: 29488390, ɑ-fibulin-6 (hemicentin 1) (Merch Millipore, AB6066)",HIM-4,"FRAS1,FREM1,FREM2,FREM3",-,-,"Basement membrane, Cell junction, Cytoplasm, Extracellular matrix, Secreted, Intracellular",No
+HMCN2,Basement membrane,Hmcn2,hmcn2,-,him-4,PMID: 22771579 (Z),"PMID: 22771579, polyclonal ɑ-Hmcn2 antibody, in-house",HIM-4,-,-,-,"Extracellular matrix, Secreted, Intracellular",No
+HSPG2,Basement membrane,Hspg2,hspg2,trol,unc-52,"PMID: 15214943 (M)
+PMID: 7507142 (H)
+PMID: 17959718 (M)
+PMID: 26996820 (H)
+PMID: 23139348 (H)
+PMID: 2477673 (M)
+PMID: 22222602 (M)
+PMID: 23074202 (H)
+PMID: 17962449 (H)
+PMID: 22382594 (H)
+The Matrixome Project (M)","PMID: 15214943, rat monoclonal Ab against domain V of perlecan (Chemicon)
+PMID: 7507142, in-house mouse mAb against domain III of human perlecan (MAb 7B5)
+PMID: 17959718, rat mAb ɑ-perlecan (Chemicon, mAb1948)
+PMID: 26996820, perlecan, 3G166 against domain III (US Biologicals, Swampscott, USA)
+PMID: 23139348, ɑ-human perlecan A716 or C11L1 
+PMID: 2477673, rat mAbs against HSPG
+PMID: 22222602, rat mAb against perlecan (Chemicon)
+PMID: 23074202, mAb 5C9 within domain IV (Developmental Studies Hybridoma Bank)
+PMID: 17962449, perlecan core protein domain IV, rat mAb A7L6
+PMID: 22382594, ɑ-human perlecan, domain V and domain III (PMID: 17927980)
+The Matrixome Project, rat mAb ɑ-perlecan (Chemicon, mAb1948)",UNC-52,"AGRN,BCAN,BGN,COL18A1,COL4A1,COL4A2,COLQ,CST3,DCN,FBLN1,FBLN2,FBN1,FN1,LAMA1,LAMA2,LAMA3,LAMA4,LAMA5,LAMB1,LAMB2,LAMC1,LAMC2,LAMC3,NID1,NID2,SPARC,TGFBI,TLL1,VCAN,VWA1","CD44,CSPG4,DAG1,GPC1,GPC2,GPC3,GPC4,GPC5,GPC6,ITGA2,ITGB1,MMP14,SDC1,SDC4",-,"Basement membrane, Extracellular matrix, Secreted, Intracellular",Yes
+ISLR,Basement membrane,Islr,islr2,-,-,-,-, -,"FN1,SPARC,TGFB1,TGFB2,THBS1,TIMP1",-,-,"Cell membrane, Membrane, Secreted",No
+LAD1,Basement membrane,Lad1,lad1,-,-,PMID: 15654956 (H),"PMID: 15654956, LAD-1 (123) Ab", -,-,-,-,"Basement membrane, Cell junction, Extracellular matrix, Membrane, Secreted, Intracellular",No
+LAMA1,Basement membrane,Lama1,lama1,wb,"epi-1,lam-3","PMID: 15102706 (M)
+PMID: 23896970 (M)
+PMID: 29795281 (H)
+PMID: 30377295 (H)
+PMID: 18378436 (H)
+The Matrixome Project (M)","PMID: 15102706, α-LNα1 clone 8B3 (in-house)
+PMID: 23896970, α-LNα1 8B3 (From PMID 2480964) 
+PMID: 29795281, α-LNα1 (LifeSpan Biosciences #LS-C119557)
+PMID: 30377295, α-LNα1 (Novus Biologicals #4656), α-Laminin (LifeSpan Biosciences #LS-C25112)
+PMID: 18378436, rabbit antiserum raised against laminin a1 HK-175
+The Matrixome Project, Rat mAb 5B7-H1 (MATRIXOME PJ)","EPI-1, LAM-3","AGRN,COL17A1,COL18A1,FBLN2,HSPG2,LAMA2,LAMA3,LAMA4,LAMA5,LAMB1,LAMB2,LAMB3,LAMC1,LAMC2,LAMC3,NID1,NID2,NTN4","DAG1,GPC1,ITGA1,ITGA10,ITGA2,ITGA3,ITGA4,ITGA5,ITGA6,ITGA7,ITGA8,ITGA9,ITGAV,ITGB1,ITGB3,ITGB4,ITGB5,ITGB6,ITGB7,RPSA,SDC4",-,"Basement membrane, Extracellular matrix, Secreted, Intracellular",Yes
+LAMA2,Basement membrane,Lama2,lama2,wb,"epi-1,lam-3","PMID: 29961810 (M)
+PMID: 14729866 (M)
+PMID: 24895400 (R)
+PMID: 23139348 (M)
+PMID: 17962449 (H)
+PMID: 22382594 (H)
+PMID: 17927980 (H)
+PMID 29759420 (M)
+The Matrixome Project (M)","PMID: 29961810, mouse ɑ-laminin a2 (Santa Cruz, SC-55 605) 
+PMID: 14729866, rat ɑ-human laminin alpha 2 4H8 (Alexis Biochemicals)
+PMID: 24895400, rabbit ɑ-laminin a2 or rat clone 4H8 antibody
+PMID: 23139348, ɑ-laminin a2 401 or 4h8
+PMID: 17962449, Mouse mAb laminin a2 1F9
+PMID: 22382594, laminin a2 antibody
+PMID: 17927980, affinity purified rabbit pAb - mouse LG1-3 domain and human clone 4H8-2
+PMID 29759420, rat ɑ-Laminin alpha-2 (MilliporeSigma, L-0663)
+The Matrixome Project, Rat mAb clone 4H8-2, cat. L0663 (Sigma-Aldrich)","EPI-1, LAM-3","AGRN,HSPG2,LAMA1,LAMA3,LAMA4,LAMA5,LAMB1,LAMB2,LAMB3,LAMC1,LAMC2,LAMC3,NID1,NID2,NTN4","DAG1,ITGA1,ITGA10,ITGA2,ITGA3,ITGA4,ITGA5,ITGA6,ITGA7,ITGA8,ITGA9,ITGAV,ITGB1,ITGB3,ITGB4,ITGB5,ITGB6,ITGB7,RPSA",-,"Basement membrane, Extracellular matrix, Secreted, Intracellular",Yes
+LAMA3,Basement membrane,Lama3,lama3,LanA,"epi-1,lam-3","PMID: 30377295 (H)
+PMID: 29795281 (M)
+PMID: 25915046 (H)
+PMID: 17962449 (H)
+The Matrixome Project (M)","PMID: 30377295, LAMA3 antibody (BM165)
+PMID: 29795281, pAb recognises all three chains of laminin-332
+PMID: 25915046, mouse MAb ɑ-LN5 (Chemicon)
+PMID: 17962449, Mouse mAb (BM165)
+The Matrixome Project, Rat mAb M35-N3-B9 (MATRIXOME PJ)","EPI-1, LAM-3","AGRN,COL17A1,COL7A1,HSPG2,LAMA1,LAMA2,LAMA4,LAMA5,LAMB1,LAMB2,LAMB3,LAMC1,LAMC2,LAMC3,MMP2,MMP7,NID1,NID2,NTN4,USH2A","CD151,DAG1,ITGA1,ITGA10,ITGA2,ITGA3,ITGA4,ITGA5,ITGA6,ITGA7,ITGA8,ITGA9,ITGAV,ITGB1,ITGB3,ITGB4,ITGB5,ITGB6,MMP14,RPSA,SDC4",-,"Basement membrane, Extracellular matrix, Secreted, Intracellular",Yes
+LAMA4,Basement membrane,Lama4,lama4,LanA,"epi-1,lam-3","PMID: 30377295 (H)
+PMID: 14729866 (M)
+PMID: 29795281 (M)
+PMID: 23139348 (M)
+PMID: 17962449 (H)
+The Matrixome Project (M)","PMID: 30377295, LAMA4 (Abnova, MAB7869)
+PMID: 14729866, Rabbit ɑ-mouse laminin alpha 4
+PMID: 29795281, mouse ɑ-hLAMA4 3H2 mAb (Millipore, MABT38)
+PMID: 23139348, ɑ-human/mouse 377 and ɑ-human 3D12 LAMA4 (9882526)
+PMID: 17962449, rabbit pAb (377; 1100+(LG4-5); 1101+(LG4-5); C0877) mouse mAb FC10
+The Matrixome Project, Rat mAb M49-N7-F3 (MATRIXOME PJ)","EPI-1, LAM-3","AGRN,HSPG2,LAMA1,LAMA2,LAMA3,LAMA5,LAMB1,LAMB2,LAMB3,LAMC1,LAMC2,LAMC3,NID1,NID2,NTN4","DAG1,ITGA1,ITGA2,ITGA3,ITGA4,ITGA5,ITGA6,ITGA7,ITGA8,ITGAV,ITGB1,ITGB3,ITGB4,ITGB5,ITGB6,ITGB8,RPSA",-,"Basement membrane, Extracellular matrix, Secreted, Intracellular",Yes
+LAMA5,Basement membrane,Lama5,lama5,LanA,"epi-1,lam-3","PMID: 23139348 (M)
+PMID: 23308268 (H)
+PMID: 23896970 (M)
+PMID: 24137544 (H)
+PMID: 25915046 (H)
+PMID: 26024079 (H)
+PMID: 29795281 (H)
+PMID: 30377295 (H)
+PMID: 32035013 (M)
+The Matrixome Project","PMID: 23139348, α-LNα5 4C7 (PMID: 2430984) α-LNα5 LEb-L4b domains (PMID: 9151674)
+PMID: 23308268, α-LNα5 8G9 (in-house)
+PMID: 23896970, α-LNα5 (From PMID: 9151674) 
+PMID: 24137544, α-LNα5 4C7 (PMID: 2430984), α-LNα5 LEb-L4b domains (PMID: 9151674)
+PMID: 25915046, α-LNα5 (Chemicon)
+PMID: 26024079, α-LNα5 4C7 (PMID: 2430984), α-LNα5 LEb-L4b domains (PMID: 9151674)
+PMID: 29795281, α-LNα5 4C7 (Millipore #MAB1924)
+PMID: 30377295, α-LNα5 (Abnova #H00003911-M01)
+PMID: 32035013, α-LNα5 (Millipore #MAB1924)
+The Matrixome Project, Rat mAb M5N8-C8 (MATRIXOME PJ)","EPI-1, LAM-3","AGRN,HSPG2,LAMA1,LAMA2,LAMA3,LAMA4,LAMB1,LAMB2,LAMB3,LAMC1,LAMC2,LAMC3,NID1,NID2,NTN4,USH2A","DAG1,ITGA1,ITGA10,ITGA2,ITGA3,ITGA4,ITGA5,ITGA6,ITGA7,ITGA8,ITGA9,ITGAV,ITGB1,ITGB3,ITGB4,ITGB5,ITGB6,MMP14,RPSA,SDC1",-,"Basement membrane, Extracellular matrix, Secreted, Intracellular",Yes
+LAMB1,Basement membrane,Lamb1,"lamb1a,lamb1b",LanB1,lam-1,"PMID: 30377295 (H)
+PMID: 29795281 (H)
+PMID: 26024079 (H)
+PMID: 22382594 (H)
+PMID: 17927980 (H)
+The Matrixome Project (M)","PMID: 30377295, LAMB1 (Abcam, ab44941)
+PMID: 29795281, ɑ-hLAMB1 clone 4E10 (Millipore, MAB1921)
+PMID: 26024079, ɑ-LAMB1 
+PMID: 22382594, affinity purified polyclonal rabbit ɑ-laminin β1 chain
+PMID: 17927980, affinity purified polyclonal rabbit antibody to β1
+The Matrixome Project, Rat mAb 1B5-D12 (MATRIXOME PJ)",LAM-1,"AGRN,AMELX,AMTN,COL17A1,COL18A1,COL4A1,CST3,FBN1,FN1,HSPG2,LAMA1,LAMA2,LAMA3,LAMA4,LAMA5,LAMB2,LAMB3,LAMC1,LAMC2,LAMC3,NID1,NID2,NTN4,SPARCL1,TIMP1,TNC,USH2A,VCAN,VWA1","ADAM10,DAG1,EVA1A,GPC3,ITGA1,ITGA2,ITGA3,ITGA5,ITGA6,ITGA7,ITGAV,ITGB1,ITGB3,ITGB4,ITGB5,ITGB6,MMP14,RPSA",-,"Basement membrane, Extracellular matrix, Secreted, Intracellular",Yes
+LAMB2,Basement membrane,Lamb2,lamb2,LanB1,lam-1,"PMID: 30377295 (H)
+PMID: 29795281 (H)
+PMID: 24137544 (H)
+PMID: 26024079 (H)
+The Matrixome Project (M)","PMID: 30377295, LAMB2 (Lifespan Bioscience, LS-C88433)
+PMID: 29795281, ɑ-mouse Laminin β2, clone 5A (Millipore, 05-206)
+PMID: 24137544, rabbit ɑ-mouse Laminin β2, LF-domain 
+PMID: 26024079, ɑ-hLAMB2
+The Matrixome Project, Rat mAb B24-N8-D6 (MATRIXOME PJ)",LAM-1,"AGRN,AMELX,AMTN,CST3,FBN1,FN1,HSPG2,LAMA1,LAMA2,LAMA3,LAMA4,LAMA5,LAMB1,LAMB3,LAMC1,LAMC2,LAMC3,NID1,NID2,NTN4,SPARCL1,TIMP1,TNC,USH2A,VCAN,VWA1","ADAM10,DAG1,EVA1A,GPC3,ITGA1,ITGA2,ITGA3,ITGA6,ITGA7,ITGB1,ITGB4,RPSA",-,"Basement membrane, Extracellular matrix, Secreted, Intracellular",Yes
+LAMB3,Basement membrane,Lamb3,-,LanB1,lam-1,"PMID: 30377295 (H)
+PMID: 26024079 (H)
+PMID: 25915046 (H)
+PMID: 17962449 (H)
+The Matrixome Project (M)","PMID: 30377295, LAMB3 (Santa Cruz, sc-20775)
+PMID: 26024079, ɑ-laminin beta 3 (Thermo Fisher Scientific)
+PMID: 25915046, mouse MAb ɑ-LN5 (Chemicon International)
+PMID: 17962449, mouse mAb 6F12 to b3 and laminin-332 rabbit pAb 4101
+The Matrixome Project, Rat mAb B31-N8-G8 (MATRIXOME PJ)",LAM-1,"AGRN,COL17A1,COL7A1,LAMA1,LAMA2,LAMA3,LAMA4,LAMA5,LAMB1,LAMB2,LAMC1,LAMC2,LAMC3,MMP2,MMP7","CD151,DAG1,ITGA1,ITGA2,ITGA3,ITGA5,ITGA6,ITGAV,ITGB1,ITGB4,ITGB5,ITGB6,MMP14,RPSA",-,"Basement membrane, Extracellular matrix, Secreted, Intracellular",Yes
+LAMB4,Basement membrane,-,lamb4,LanB1,lam-1,PMID: 28595269 (H),"PMID: 28595269, rabbit ɑ-hLAMB4 (Sigma, HPA020242)",LAM-1,-,"ITGA8,ITGB4",-,"Basement membrane, Extracellular matrix, Secreted, Intracellular",No
+LAMC1,Basement membrane,Lamc1,lamc1,LanB2,lam-2,"PMID: 30377295 (H)
+PMID: 26024079 (H)
+PMID: 23139348 (M)
+PMID: 29795281 (H)
+PMID: 28689015 (H)
+The Matrixome Project (M)","PMID: 30377295, LAMC1 (Millipore, MAB1914P) 
+PMID: 26024079, Laminin γ1 clone 3E10 
+PMID: 23139348, Laminin γ1 clone 3E10, in-house
+PMID: 29795281, Laminin γ1, clone B17 mouse mAb (LifeSpan BioScience, LS-C119566)
+PMID: 28689015,  Laminin γ1, rabbit pAb (Santa Cruz Biotechnology, sc-17763)
+The Matrixome Project, A5, MAB1914 (Chemicon International)",LAM-2,"AGRN,AMELX,AMTN,COL18A1,CST3,FBN1,FN1,HSPG2,LAMA1,LAMA2,LAMA3,LAMA4,LAMA5,LAMB1,LAMB2,LAMB3,LAMC2,LAMC3,NID1,NID2,NTN4,SPARCL1,TIMP1,TNC,VCAN,VWA1","ADAM10,DAG1,EVA1A,GPC3,ITGA1,ITGA10,ITGA2,ITGA3,ITGA4,ITGA5,ITGA6,ITGA7,ITGA8,ITGA9,ITGAV,ITGB1,ITGB3,ITGB4,ITGB5,ITGB6,ITGB7,MMP14,RPSA",-,"Basement membrane, Extracellular matrix, Secreted, Intracellular",Yes
+LAMC2,Basement membrane,Lamc2,lamc2,LanB2,lam-2,"PMID: 30377295 (H)
+PMID: 24070183 (H)
+PMID: 25915046 (H)
+PMID: 10554040 (H)
+PMID: 9721586 (H)
+PMID: 17962449 (H)
+The Matrixome Project (M)","PMID: 30377295, LAMC2 Ab P26 
+PMID: 24070183, ɑ-laminin gamma 2 (Dako, M7262)
+PMID: 25915046, mouse MAb ɑ-LN5 (Chemicon International)
+PMID: 10554040, in-house mouse MAb ɑ-hLAMC2 
+PMID: 9721586, in-house mouse MAb ɑ-hLAMC2 D4B5
+PMID: 17962449, mouse mAb d4B5 (Chemicon) and rabbit pAb J20 and laminin-332 rabbit pAb 4101
+The Matrixome Project, Rat mAb C21-N1-C9 (MATRIXOME PJ)",LAM-2,"AGRN,COL17A1,COL7A1,HSPG2,LAMA1,LAMA2,LAMA3,LAMA4,LAMA5,LAMB1,LAMB2,LAMB3,LAMC1,LAMC3,MMP2,MMP7","CD151,CD44,DAG1,ITGA1,ITGA2,ITGA3,ITGA4,ITGA5,ITGA6,ITGAV,ITGB1,ITGB4,ITGB5,ITGB6,MMP14,RPSA",-,"Basement membrane, Extracellular matrix, Secreted",Yes
+LAMC3,Basement membrane,Lamc3,lamc3,LanB2,lam-2,"PMID: 30377295 (H)
+PMID: 29795281 (H)
+PMID: 22961762 (M)
+PMID: 22222602 (M)
+PMID: 22382594 (H)
+PMID: 17927980 (H)
+The Matrixome Project (M)","PMID: 30377295, LAMC3 (Assay Biotech, C13074)
+PMID: 29795281, rabbit pAb ɑ-Laminin γ3 (LifeSpan BioScience, LS-C119566)
+PMID: 22961762, rabbit polyclonal ɑ-laminin γ3 6296
+PMID: 22222602, ɑ-laminin gamma3 6296, in-house
+PMID: 22382594, ɑ-laminin gamma 3
+PMID: 17927980, affinity purified rabbit pAb to laminin gamma3
+The Matrixome Project, Rat mAb C38-N4-F4 (MATRIXOME PJ)",LAM-2,"AGRN,HSPG2,LAMA1,LAMA2,LAMA3,LAMA4,LAMA5,LAMB1,LAMB2,LAMB3,LAMC1,LAMC2,NID1,NID2,NTN4","DAG1,ITGA1,ITGA2,ITGA3,ITGA5,ITGA6,ITGB1,RPSA",-,"Basement membrane, Extracellular matrix, Secreted, Intracellular",Yes
+LOXL1,Basement membrane,Loxl1,loxl1,Loxl1, -,Human Protein Atlas (H),"HPA, rabbit ɑ-LOXL1 pAb (Atlas Antibodies, HPA042111) ", -,"FBLN5,FBN1,LOXL2,LOXL4,TLL1",-,"Collagen types II, IV, VI, VIII",Secreted,No
+LOXL2,Basement membrane,Loxl2,"loxl2a,loxl2b",Loxl2, -,"PMID: 29759420 (M)
+PMID: 21835952 (R)
+PMID: 28196225 (H)","PMID: 29759420, goat ɑ-LOXL2 (R&D Systems, AF2639) and rabbit ɑ-LOXL2 (Abcam, ab96233)
+PMID: 21835952, ɑ-LOXL2 (Santa Cruz Biotechnology and Abnova)
+PMID: 28196225, mouse ɑ-human LOXL2 (Sigma-Aldrich Corp) ", -,"FBLN5,LOXL1,LOXL4,TLL1",-,"Collagen types II, IV, VI, VIII","Basement membrane, Chromosome, Endoplasmic reticulum, Extracellular matrix, Nucleus, Secreted",No
+LOXL4,Basement membrane,Loxl4,loxl4,-, -,"PMID: 28196225 (H)
+Human Protein Atlas (H)","PMID: 28196225, mouse ɑ-human LOXL4 (Sigma-Aldrich Corp)
+HPA, ɑ-LOXL4, rabbit pAb (Atlas Antibodies, HPA037609)", -,"FBLN5,LOXL1,LOXL2,TLL1",-,"Collagen types II, IV, VI, VIII",Secreted,No
+LUM,Basement membrane,Lum,lum,-, -,"PMID: 23074202 (H)
+PMID: 18951514 (M)
+PMID: 11012890 (H)","PMID: 23074202, pAb Lumican AP (R&D Systems) 
+PMID: 18951514, polyclonal ɑ-mouse lumican (whole molecule) (R&D Systems, AF2745)
+PMID: 11012890, rabbit ɑ-C terminal of hLUM ", -,"ACAN,COL2A1,COL4A1,COL4A2,COL4A3,COL4A4,COL4A5,COL4A6,COL5A1,COL6A3,COL7A1,COL8A1,DCN,FBN1,FMOD,FN1,MMP2,OGN,POSTN,TGFB1,TGFB2,THBS2,VCAN","ITGA2,ITGB1,MMP14",-,"Extracellular matrix, Secreted",No
+MATN1,Basement membrane,Matn1,matn1,-,C16E9.1,-,-,C16E9.1,COL2A1,-,-,"Extracellular matrix, Secreted",No
+MATN2,Basement membrane,Matn2,-,Frac, -,"PMID: 24895400 (R)
+PMID: 24741569 (M)
+PMID: 18386166 (H)
+PMID: 12164922 (H)
+PMID: 24691449 (M)
+PMID: 17962449 (H)","PMID: 24895400, goat ɑ-matriin-2 (R&D Systems, AF3234) and rabbit ɑ-matriin-2
+PMID: 24741569, pAb against C-term of mouse matriin-2, in-house
+PMID: 18386166, rabbit polyclonal antiserum against matriin-2
+PMID: 12164922, polyclonal affinity-purified antisera against matriin-2
+PMID: 24691449, goat pAb matrilin-2 (R&D Systems, AF3234)
+PMID: 17962449, rabbit pAb matrilin-2", -,-,-,-,"Secreted, Intracellular",No
+MATN4,Basement membrane,Matn4,matn4,-, -,"PMID: 11279097 (M)
+PMID: 17962449 (H)
+PMID: 15296947 (M)","PMID: 11279097, rabbit pAb matrilin-4 
+PMID: 17962449, rabbit pAb matrilin-4
+PMID: 15296947, rabbit pAb matrilin-4", -,-,-,-,Secreted,No
+MEP1A,Basement membrane,Mep1a,"mep1a.1,mep1a.2",-,"Worms have 40 genes in the astacin family (nas-1 to nas-40). Only nas-39 is conserved, the clear TLL1 ortholog",PMID: 17195012 (H),"PMID: 17195012, rabbit polyclonal antisera against human meprin alpha, in-house ",-,MEP1B,-,"Collagen type IV, FN1, laminin-111, laminin-332, MMP1, NID1, TNC, ",Membrane,No
+MEP1B,Basement membrane,Mep1b,mep1b,CG6696,"Worms have 40 genes in the astacin family (nas-1 to nas-40). Only nas-39 is conserved, the clear TLL1 ortholog",PMID: 17195012 (H),"PMID: 17195012, rabbit polyclonal antisera against human meprin beta, in-house",-,MEP1A,-,"ADAM10, ADAM17, ADAM9, collagen IV, FN1, laminin, laminin-332, MMP1, NID1, TNC","Secreted, Cell membrane, Membrane, Intracellular",No
+MMP1,Basement membrane,"Mmp1a, Mmp1b",-,Mmp1,"zmp-1,zmp-2,zmp-3,zmp-4,zmp-5,zmp-6","PMID: 22262460 (D)
+PMID: 15781634 (H)","PMID: 22262460, anti–Mmp1 catalytic domain (mouse monoclonal immunoglobulin cocktail- antibodies 3B8, 5H7, and 23G (Developmental Studies Hybridoma Bank)
+PMID: 15781634, ɑ-MMP1 Ab-1 (Merck Biosciences)",ZMP-4,"ACAN,BCAN,FN1,MMP2,MMP7,NID1,TGFB1,TIMP1,TIMP2,TIMP3",SDC1,"COL4A2, DCN, Native collagens VII, VIII, Fibronectin, Laminin-5, ACAN, BCAN, VTN, NID, TNC, HSPG2 (PMID: 22523364)","Extracellular matrix, Secreted",No
+MMP2,Basement membrane,Mmp2,mmp2,Mmp2,"zmp-1,zmp-2,zmp-3,zmp-4,zmp-5,zmp-7","PMID: 28584626 (H)
+PMID: 32686670 (D)
+PMID: 22688677 (M)","PMID: 28584626, ɑ-MMP2 (Spring Bioscience, E18014)
+PMID: 32686670, rabbit ɑ-Mmp2 in-house #436 (PMID: 26603384)
+PMID: 22688677, goat ɑ-mouse MMP-2 (R&D Systems)",ZMP-4,"ACAN,BCAN,COL18A1,COL5A1,COL6A1,COL6A2,DCN,FBN1,LAMA3,LAMB3,LAMC2,LUM,MMP1,MMP7,OPTC,POSTN,RECK,SPARC,SPOCK3,TGFB1,THBS1,THBS2,TIMP1,TIMP2,TIMP3","CD44,ITGAM,ITGB2,MMP14","Collagen types IV and V, FBLN1, FBLN2, laminin, VTN, Native collagens VII, FN1, NID, ACAN, DCN, FBN, LN-332, TNC, SPARC, VCAN, BCAN, DAG, CSPG4 (PMID: 22523364)","Extracellular matrix, Cytoplasm, Membrane, Mitochondrion, Nucleus, Secreted",No
+MMP7,Basement membrane,Mmp7,mmp7,-,"zmp-1,zmp-2,zmp-3,zmp-4,zmp-5,zmp-8","PMID: 30878215 (H)
+PMID: 10660581 (R)","PMID: 30878215, ɑ-MMP-7 (GeneTex, GTX11716)
+PMID: 10660581, rabbit polyclonal ɑ-rat recombinant MMP7 (RM7-C), in-house",ZMP-4,"ACAN,BCAN,COL15A1,COL18A1,DCN,FN1,LAMA3,LAMB3,LAMC2,MMP1,MMP2,NID1,OPTC,TIMP1,TIMP2,TIMP3","CD44,SDC1","ACAN, collagen type IV, DCN, FN1, laminin-111, laminin-332, entactin/nidogen, HSPG2, proMMP1, SDC2, TNC, Non helical segments of native collagen V, VTN, SPARC, BCAN, FBLN, VCAN (PMID: 22523364)","Extracellular matrix, Secreted",No
+MMP17,Basement membrane,Mmp17,"mmp17a,mmp17b",-,"zmp-1,zmp-2,zmp-3,zmp-4,zmp-5,zmp-9",-,-,ZMP-4,"TIMP1,TIMP2",MMP14,-,"Extracellular matrix, Cell membrane, Membrane, Secreted",No
+MMP21,Basement membrane,Mmp21,mmp21,-,"zmp-1,zmp-2,zmp-3,zmp-4,zmp-5,zmp-10",-,-,ZMP-4,-,-,ACAN (PMID: 22523364),Secreted,No
+MMP26,Basement membrane,-,-,-,"zmp-1,zmp-2,zmp-3,zmp-4,zmp-5,zmp-11","PMID: 17244319 (H)
+PMID: 17996844 (H)
+PMID: 15816845 (H)
+PMID: 12491508 (H)
+PMID: 15185874 (H)","PMID: 17244319, polyclonal rabbit MMP-26, in-house
+PMID: 17996844, polyclonal rabbit MMP-26, in-house
+PMID: 15816845, two ɑ-MMP26
+PMID: 12491508, antihuman MMP‐26 peptide polyclonal antibody, in-house
+PMID: 15185874, polyclonal antibody to MMP-26, in-house",ZMP-4,-,-,"Native collagen IV, FN1, VTN (PMID: 22523364)","Extracellular matrix, Secreted",No
+MMRN2,Basement membrane,Mmrn2,"mmrn2a,mmrn2b",-, -,"PMID: 18757743 (M)
+The Matrixome Project (M)","PMID: 18757743, pAb ɑ-EndoGlyx-1 64-1 (MATRIXOME PJ)
+The Matrixome Project, pAb ɑ-EndoGlyx-1 64-1 (MATRIXOME PJ)", -,-,-,-,"Extracellular matrix, Secreted, Intracellular",Yes
+NELL1,Basement membrane,Nell1,nell2b,-, -,PMID: 31901340 (H),"PMID: 31901340, rabbit pAb ɑ-NELL1 (Sigma, HPA051535)", -,-,-,-,"Secreted, Cytoplasm, Nucleus",No
+NELL2,Basement membrane,Nell2,"nell2a,nell2b",-, -,Human Protein Atlas (H),"HPA, rabbit ɑ-NELL2 pAb (Atlas Antibodies, HPA035715) ", -,-,-,-,Secreted,No
+NID1,Basement membrane,Nid1,"nid1a,nid1b",Ndg,nid-1,"PMID: 22952693 (H)
+PMID: 24280453 (M)
+PMID: 30276677 (H)
+PMID: 10958695 (M)
+PMID: 25807551 (M)
+PMID: 9733643 (M)
+The Matrixome Project (M)","PMID: 22952693, ɑ-Nid1 (R&D Systems)
+PMID: 24280453, ɑ-nidogen 1 polyclonal rabbit 
+PMID: 30276677, ɑ-human nidogen 1/entactin affinity purified polyclonal antibody (R&D systems, AF2570)
+PMID: 10958695, polyclonal rabbit sera against nidogen 1
+PMID: 25807551, ɑ-Nid-1 (Abcam, ab14511)
+PMID: 9733643, rat mAb against mouse nidogen-1
+The Matrixome Project, Rat mAb ɑ-Nidogen1 ELM1, cat. RT797 (NeoMarkers)",NID-1,"AGRN,COL4A1,COL4A2,FN1,HSPG2,LAMA1,LAMA2,LAMA3,LAMA4,LAMA5,LAMB1,LAMB2,LAMC1,LAMC3,MMP1,MMP7,NID2,SPARC","ITGA3,ITGB1,MMP14",-,"Basement membrane, Extracellular matrix, Secreted",Yes
+NID2,Basement membrane,Nid2,"nid2a,nid2b",Ndg,nid-1,"PMID: 22952693 (H)
+PMID: 24280453 (M)
+PMID: 23263623 (M)
+PMID: 25807551 (M)
+PMID: 22260998 (M)
+PMID: 17962449 (H)
+PMID: 22382594 (H)
+PMID: 9733643 (M)
+PMID: 17927980 (H)
+The Matrixome Project (M)","PMID: 22952693, ɑ-NID2 (R&D Systems)
+PMID: 24280453, ɑ-nidogen 2 polyclonal rabbit 
+PMID: 23263623, ɑ-nidogen-2 polyclonal 
+PMID: 25807551, ɑ-Nid-2 (Abcam, ab14513) 
+PMID: 22260998, rabbit polyclonal ɑ-NID2 
+PMID: 17962449, rabbit pAb entactin-2/nidogen-2 1080   
+PMID: 22382594, ɑ-nidogen-2 
+PMID: 9733643, rabbit pAb ɑ-entactin-2/nidogen-2 1080, in-house
+PMID: 17927980, affinity purified polyclonal rabbit Ab to nidogen-2
+The Matrixome Project, Rabbit pAb nd2c (MATRIXOME PJ)",NID-1,"COL4A1,HSPG2,LAMA1,LAMA2,LAMA3,LAMA4,LAMA5,LAMB1,LAMB2,LAMC1,LAMC3,NID1",-,-,"Basement membrane, Extracellular matrix, Secreted",Yes
+NPNT,Basement membrane,Npnt,"npnt1a,npnt1b",-, -,"PMID: 29335243 (M)
+PMID: 28476557 (H)
+PMID: 28345658 (M)
+PMID: 24436468 (H)
+PMID: 11470831 (M)
+The Matrixome Project (M)","PMID: 29335243, affinity-purified nephronectin, in-house (PMID: 11470831)
+PMID: 28476557, ɑ-NPNT (Abcam)
+PMID: 28345658, npnt antibody (R&D Systems)
+PMID: 24436468, nephronectin mAb (Abcam, ab64419)
+PMID: 11470831, affinity-purified nephronectin, in-house
+The Matrixome Project, Rabbit pAb ɑ-Npnt nnS", -,-,"ITGA8,ITGB1",-,"Extracellular matrix, Secreted",Yes
+NTN1,Basement membrane,Ntn1,"ntn1a,ntn1b","NetA,NetB",unc-6,"PMID: 29444422 (M)
+PMID: 12636918 (M)
+PMID: 10654596 (M)
+PMID: 14602071 (H)
+The Matrixome Project (M)","PMID: 29444422, goat ɑ-Netrin-1 (R&D Systems)
+PMID: 12636918, rabbit ɑ-netrin-1 pAb 11760, in-house
+PMID: 10654596, rabbit ɑ-netrin-1 pAb 11760, in-house
+PMID: 14602071, ɑ-Netrin-1 Ab-2 antibody (Oncogene)
+The Matrixome Project, Rabbit pAb ɑ-Netrin 1 Ab-2, cat. PC364 (Calbiochem)",UNC-6,"SLIT1,SLIT2,SLIT3","DCC,ROBO1,ROBO2,ROBO3,ROBO4,UNC5A,UNC5B,UNC5C,UNC5D",-,"Secreted, Cytoplasm",Yes
+NTN4,Basement membrane,Ntn4,ntn4,-, -,"PMID: 33636396 (H)
+PMID: 17545519 (H)
+PMID: 26732856 (M)
+PMID: 22281059 (M)
+PMID: 28253401 (M)
+PMID: 17588941 (M)
+PMID: 25896609 (M)
+PMID: 33495631 (M)
+The Matrixome Project (M)","PMID: 33636396, Goat ɑ-human NTN4 (R&D Systems, AF1254)
+PMID: 17545519, Goat ɑ-human NTN4 (R&D Systems, AF1254)
+PMID: 26732856, rabbit ɑ-Netrin-4	
+PMID: 22281059, rabbit polyclonal ɑ-netrin-4 KR1 and R33, in-house
+PMID: 28253401, rabbit polyclonal ɑ-netrin-4
+PMID: 17588941, rabbit polyclonal ɑ-netrin-4 KR1, in-house
+PMID: 25896609, netrin 4 polyclonal antibody (R&D systems, AF1132)
+PMID: 33495631, polyclonal rabbit ɑ-Net4
+The Matrixome Project, Rabbit pAb nt4 (MATRIXOME PJ)", -,"LAMA1,LAMA2,LAMA3,LAMA4,LAMA5,LAMB1,LAMB2,LAMC1,LAMC3","DCC,UNC5A,UNC5B",-,"Basement membrane, Extracellular matrix, Secreted",Yes
+OGN,Basement membrane,Ogn,"ogna,ognb",-, -,-,-, -,"ACAN,COL14A1,FMOD,LUM",-,-,"Extracellular matrix, Secreted, Intracellular",No
+OPTC,Basement membrane,Optc,optc,-, -,"PMID: 23074202 (H)
+PMID: 22159013 (M)
+PMID: 15090426 (H)","PMID: 23074202, antibody against opticin G21AP
+PMID: 22159013, rabbit polyclonal antibody against opticin G21AP, in-house
+PMID: 15090426, two rabbit pAb against human OPTC (OPT-A and OPT-C), in-house", -,"MMP2,MMP7",-,-,"Extracellular matrix, Secreted",No
+P3H1,Basement membrane,P3h1,p3h1,-, -,"PMID: 10455179 (R)
+PMID: 17495866 (R)
+PMID: 18487197 (M)
+Matrixome Project (M)
+Human Protein Atlas (H)","PMID: 10455179, polyclonal antiserum against leprecan Rb2096, in-house 
+PMID: 17495866, polyclonal antiserum against leprecan Rb2096, in-house 
+PMID: 18487197, Rabbit pAb ɑ-leprecan lp2 (MATRIXOME PJ)
+Matrixome Project: rabbit polyclonal lp2 ɑ-leprecan antibody, in-house
+HPA, rabbit ɑ-P3H1 pAb (Atlas Antibodies, HPA016980)", -,"COL12A1,COL14A1,COL15A1,COL17A1,COL18A1,COL28A1,COL2A1,COL4A1,COL4A2,COL4A3,COL4A4,COL4A5,COL4A6,COL5A1,COL6A1,COL6A2,COL6A3,COL7A1,COL8A1,COL8A2,COL9A1,COL9A2,COL9A3,P3H2,SERPINF1",COL13A1,-,"Extracellular matrix, Secreted, Endoplasmic reticulum",Yes
+P3H2,Basement membrane,P3h2,p3h2,-, -,"PMID: 18487197 (M)
+Human Protein Atlas (H)","PMID: 18487197, rabbit pAb against a mouse P3H2 peptide, in-house
+HPA:  ɑ-P3H2, rabbit pAb (Atlas Antibodies, HPA007890)", -,"COL12A1,COL14A1,COL15A1,COL17A1,COL18A1,COL28A1,COL2A1,COL4A1,COL4A2,COL4A3,COL4A4,COL4A5,COL4A6,COL5A1,COL6A1,COL6A2,COL6A3,COL7A1,COL8A1,COL8A2,COL9A1,COL9A2,COL9A3,P3H1",COL13A1,-,"Endoplasmic reticulum, Golgi apparatus, Sarcoplasmic reticulum",No
+PAPLN,Basement membrane,Papln,"paplna,paplnb",Ppn,mig-6,"PMID: 18757743 (M)
+PMID: 3320045 (D)
+PMID: 11076767 (D)
+The Matrixome Project (M)
+Human Protein Atlas (H)","PMID: 18757743, polyclonal antibody raised in rabbits, in-house (PMID: 18757743)
+PMID: 3320045, rabbit antibody ɑ-papilin, in-house (PMID: 3320045) 
+PMID: 11076767, rabbit antibody ɑ-papilin (PMID: 3320045)
+The Matrixome Project, Rabbit ɑ-PAPLN pAb ppN (MATRIXOME PJ)
+HPA, rabbit ɑ-PAPLN pAb (Atlas Antibodies, HPA048682)",MIG-6,SPARC,-,-,"Secreted, Intracellular",Yes
+PODN,Basement membrane,Podn,podn,-,-,"PMID: 12796502 (M)
+Matrixome Project (M)","PMID: 12796502, affinity purified ɑ-podocan polyclonal antibody, in-house 
+Matrixome Project: rabbit pAb ɑ-podocan pd1",-,-,-,-,"Extracellular matrix, Secreted, Cytoplasm",Yes
+POSTN,Basement membrane,Postn,"postn1a,postn1b",mfas,F26E4.7,"PMID: 22918213 (H)
+PMID: 21051860 (M)
+PMID: 17602244 (M)
+PMID: 21490918 (H)","PMID: 22918213, polyclonal ɑ-periostin
+PMID: 21051860, antibody against periostin (BioVender)
+PMID: 17602244, ɑ-periostin (BioVender)
+PMID: 21490918, rabbit ɑ-periostin antibody (YLEM)",F26E4.7,"BGN,COL12A1,COL6A3,DCN,FN1,LUM,MMP2,SPARC",-,-,"Extracellular matrix, Golgi apparatus, Secreted",No
+PTN,Basement membrane,Ptn,ptn,-, -,"PMID: 9990431 (R)
+PMID: 11546745 (M)","PMID: 9990431, polyclonal rabbit ɑ-PTN serum, in-house
+PMID: 11546745, goat ɑ-pleiotrophin antibody (R&D systems)", -,-,SDC1,-,Secreted,No
+PXDN,Basement membrane,Pxdn,pxdn,Pxn,"pxn-1,pxn-2","PMID: 27619726 (M)
+Human Protein Atlas (H)","PMID: 27619726, rabbit ɑ-peroxidasin
+HPA, rabbit ɑ-PXDN pAb (Atlas Antibodies, HPA012375)","PXN-1, PXN-2",-,-,-,"Extracellular matrix, Secreted, Intracellular",No
+PXDNL,Basement membrane,-,-,-,"pxn-1,pxn-2",-,-,"PXN-1, PXN-2",-,-,-,"Cytoplasm, Secreted",No
+RECK,Basement membrane,Reck,reck,Reck, -,Human Protein Atlas (H),"HPA, mouse α-RECK mAb (R&D Systems, MAB1734)", -,"MMP2,TIMP2,TIMP3",MMP14,-,"Cell membrane, Membrane",No
+SERPINF1,Basement membrane,Serpinf1,serpinf1,-,srp-2,-,-,-,P3H1,-,-,"Secreted, Intracellular",No
+SLIT1,Basement membrane,Slit1,"slit1a,slit1b",sli,slt-1,-,-,-,"COL4A5,NTN1,SLIT2,SLIT3","DCC,ROBO1,ROBO2,ROBO3,ROBO4",-,Secreted,No
+SLIT2,Basement membrane,Slit2,slit2,sli,slt-1,"PMID: 24840330 (H)
+PMID: 32999457 (M)","PMID: 24840330, slit 2 antibody (Abcam)
+PMID: 32999457, rabbit ɑ-SLIT2 antibody (Proteintech, 20217-1-AP)",-,"NTN1,SLIT1,SLIT3","DAG1,DCC,GPC1,ROBO1,ROBO2,ROBO3,ROBO4",-,"Secreted, Intracellular, Membrane",No
+SLIT3,Basement membrane,Slit3,slit3,sli,slt-1,-,-,-,"NTN1,SLIT1,SLIT2","DCC,ROBO1,ROBO2,ROBO3,ROBO4",-,"Secreted, Intracellular",No
+SEMA3B,Basement membrane,Sema3b,sema3b,"Flies have five semaphorins: Sema1a, Sema1b, Sema2a, Sema2b and Sema5a","Worms have 3 semaphorin genes: smp-1,smp-2,mab-20",PMID: 32534052 (H),"PMID: 32534052, rabbit pAb ɑ-Sema3B (Abcam)",-,-,-,-,"Secreted, Endoplasmic reticulum",No
+SMC3,Basement membrane,Smc3,smc3,SMC3,smc-3,"PMID: 9015313 (H)
+PMID: 8631643 (H)
+PMID: 11223336 (R)","PMID: 9015313, affinity-purified R664 polyclonal antibody against a bamacan fusion protein, in-house
+PMID: 8631643, rabbit pAb ɑ-rat bamacan (cross reacts with human)
+PMID: 11223336, monoclonal antibody which recognises core protein of bamacan",-,-,-,-,"Extracellular, Centromere, Chromosome, Nucleus",No
+SMOC1,Basement membrane,Smoc1,smoc1,magu,smoc-1,"PMID: 12130637 (M)
+PMID: 16736127 (M)
+PMID: 27886258 (M)
+The Matrixome Project (M)","PMID: 12130637, rabbit antiserum to SMOC1, in-house
+PMID: 16736127, affinity-purified polyclonal antibody against SMOC-1
+PMID: 27886258, ɑ-SMOC1 antibody (Abcam, ab155776)
+The Matrixome Project, Rabbit pAb ɑ-SMOC1 sm1f (MATRIXOME PJ)",-,-,-,-,"Basement membrane, Extracellular matrix, Secreted",Yes
+SMOC2,Basement membrane,Smoc2,smoc2,Magu,smoc-1,"PMID: 18582461 (M)
+PMID: 18757743 (M)
+The Matrixome Project (M)","PMID: 18582461, ɑ-serum against SMOC2, in-house
+PMID: 18757743, MG1-G446 or M1-T284 ECM270/SMOC-2 pAb, in-house
+The Matrixome Project, Rabbit pAb ɑ-ECM270/SMOC-2 270f (MATRIXOME PJ)",-,-,-,-,"Basement membrane, Extracellular matrix, Secreted, Intracellular",Yes
+SPARC,Basement membrane,Sparc,"sparc,sparcl1,sparcl2",SPARC,ost-1,"PMID: 16972886 (H)
+PMID: 22222271 (H)
+PMID: 19285050 (R)
+PMID: 17927980 (H)
+PMID: 22382594 (H)","PMID: 16972886, monoclonal antibody against SPARC (Harmatological Technologies)
+PMID: 22222271, goat polyclonal SPARC antibody (R&D sytems, AF941)
+PMID: 19285050, mouse ɑ-SPARC (Cedarlane Laboratories Ltd, O8063)
+PMID: 17927980, polyclonal rabbit Ab to BM40/SPARC
+PMID: 22382594, ɑ-BM-40/SPARC ",OST-1,"BGN,COL2A1,COL4A1,COL4A2,COL5A1,COL6A1,DCN,FN1,HSPG2,ISLR,MMP2,NID1,PAPLN,POSTN,SPOCK1,SPOCK3,TGFB1,TGFB2,THBS1,TIMP1",-,-,"Basement membrane, Extracellular matrix, Secreted, Intracellular",No
+SPARCL1,Basement membrane,Sparcl1,sparcl1,-,ost-1,"PMID: 31699966 (M)
+Human Protein Atlas (H)","PMID: 31699966, SPARCL1 antibody (Bioss, bs-6110R)
+HPA, goat ɑ-SPARCL1 msAb (R&D Systems, AF2728)",OST-1,"AMELX,AMTN,CST3,FBN1,FN1,LAMB1,LAMB2,LAMC1,SPOCK1,TIMP1,TNC,VCAN,VWA1","ADAM10,EVA1A,GPC3",-,"Extracellular matrix, Secreted, Intracellular",No
+SPOCK1,Basement membrane,Spock1,spock1,Cow,test-1,Human Protein Atlas (H),"HPA, ɑ-SPOCK1, rabbit pAb (Atlas Antibodies, HPA007450)",TEST-1,"SPARC,SPARCL1",-,-,"Extracellular matrix, Secreted, Intracellular",No
+SPOCK2,Basement membrane,Spock2,spock2,Cow,test-1,"PMID: 15657052 (M)
+PMID: 21836138 (R)
+PMID: 32958645 (H)
+Human Protein Atlas (H)","PMID: 15657052, affinity purified antibody against mouse testican-2, in-house
+PMID: 21836138, monoclonal mouse ɑ-human SPOCK2 antibody (Abnova)
+PMID: 32958645, rabbit ɑ-testican-2 (Sigma)
+HPA, ɑ-SPOCK2, rabbit pAb (Atlas Antibodies, HPA044605) ",TEST-1,-,-,-,"Extracellular matrix, Secreted",No
+SPOCK3,Basement membrane,Spock3,spock3,Cow,test-1,-,-,TEST-1,"MMP2,SPARC,TIMP2",MMP14,-,"Extracellular matrix, Secreted, Intracellular",No
+SPON1,Basement membrane,Spon1,"spon1a,spon1b",CG17739,spon-1,"PMID: 17875744 (C)
+PMID: 10399931 (C)","PMID: 17875744, ɑ-F-spondin antibody R3 
+PMID: 10399931, ɑ-F-spondin antibody, in-house",SPON-1,"ADAMTS1,ADAMTS10,ADAMTS13,ADAMTS14,ADAMTS15,ADAMTS16,ADAMTS17,ADAMTS18,ADAMTS19,ADAMTS2,ADAMTS20,ADAMTS3,ADAMTS4,ADAMTS5,ADAMTS6,ADAMTS7,ADAMTS8,ADAMTS9,SPON2,THBS1,THBS2",-,-,"Extracellular matrix, Secreted",No
+SPON2,Basement membrane,Spon2,"spon2a,spon2b",mspo,spon-1,PMID: 29167507 (M),"PMID: 29167507, rabbit ɑ-mindin (Santa Cruz)",SPON-1,"ADAMTS1,ADAMTS10,ADAMTS13,ADAMTS14,ADAMTS15,ADAMTS16,ADAMTS17,ADAMTS18,ADAMTS19,ADAMTS2,ADAMTS20,ADAMTS3,ADAMTS4,ADAMTS5,ADAMTS6,ADAMTS7,ADAMTS8,ADAMTS9,SPON1,THBS1,THBS2","ITGAM,ITGB2",-,"Extracellular matrix, Secreted, Intracellular",No
+TGFB2,Basement membrane,Tgfb2,tgfb2,-,"Worms have 5 TGFB-related genes: dbl-1,daf-7,unc-129,tig-2,tig-3",-,-,-,"BGN,DCN,FMOD,FN1,ISLR,LUM,SPARC,TGFB1,THBS1,TIMP1",-,-,"Extracellular matrix, Secreted",No
+TGFB1 ,Basement membrane,Tgfb1,"tgfb1a,tgfb1b",daw,"Worms have 5 TGFB-related genes: dbl-1,daf-7,unc-129,tig-2,tig-3","PMID: 27725943 (R)
+PMID: 12511232 (R)
+Human Protein Atlas (H)","PMID: 27725943, TGFB1 antibody (no further information available)
+PMID: 12511232, polyclonal rabbit ɑ-human TGFB1 (Santa Cruz)
+HPA, mouse ɑ-TGFB1 mAb (Bio-Rad Antibodies, MCA797T)",-,"BGN,COL2A1,DCN,FBN1,FMOD,FN1,ISLR,LUM,MMP1,MMP2,SPARC,TGFB2,THBS1,TIMP1","GPC1,ITGA8,ITGAV,ITGB1,ITGB3,ITGB5,ITGB6,ITGB8,SDC1,SDC4",-,"Extracellular matrix, Secreted, Intracellular",No
+TGFBI,Basement membrane,Tgfbi,tgfbi,mfas,F26E4.7,"Human Protein Atlas (H) 
+The Matrixome Project (M)","HPA, ɑ-TGFBI, rabbit pAb (Atlas Antibodies, HPA008612)
+The Matrixome Project, Rabbit pAb ɑ-βig-H3 bigf (MATRIXOME PJ)",F26E4.7,"FN1,HSPG2","ITGA3,ITGAM,ITGAV,ITGB1,ITGB2,ITGB3",-,"Extracellular matrix, Secreted, Amyloid, Intracellular",Yes
+THBS1,Basement membrane,Thbs1,"thbs1a,thbs1b",Tsp,-,"PMID: 9211833 (H)
+PMID: 12461058 (H)
+PMID: 8567961 (H)","PMID: 9211833, monoclonal antibody to TSP1 B7 (Sigma)
+PMID: 12461058, mouse monoclonal antibody clone A6.1 (Neomarkers, California, USA)
+PMID: 8567961, affinity purified rabbit ɑ-TSP-1 and mouse ɑ-human TSP1 antibody (Boehringer Mannheim)",-,"ADAMTS1,ADAMTS10,ADAMTS13,ADAMTS14,ADAMTS15,ADAMTS16,ADAMTS17,ADAMTS18,ADAMTS19,ADAMTS2,ADAMTS20,ADAMTS3,ADAMTS4,ADAMTS5,ADAMTS6,ADAMTS7,ADAMTS8,ADAMTS9,COL18A1,COL7A1,DCN,FN1,ISLR,MMP2,SPARC,SPON1,SPON2,TGFB1,TGFB2,THBS2,TIMP1","ITGA1,ITGA2,ITGA2B,ITGA3,ITGA4,ITGA5,ITGA6,ITGA9,ITGAV,ITGB1,ITGB3,ITGB4,ITGB5,SDC1,SDC4",-,"Extracellular matrix, Secreted, Endoplasmic reticulum,  Sarcoplasmic reticulum",No
+THBS2,Basement membrane,Thbs2,"thbs2a,thbs2b",Tsp,-,Human Protein Atlas (H),"HPA, Rabbit α-THBS2 msAb (Origene, 2442.00.02)",-,"ADAMTS1,ADAMTS10,ADAMTS13,ADAMTS14,ADAMTS15,ADAMTS16,ADAMTS17,ADAMTS18,ADAMTS19,ADAMTS2,ADAMTS20,ADAMTS3,ADAMTS4,ADAMTS5,ADAMTS6,ADAMTS7,ADAMTS8,ADAMTS9,LUM,MMP2,SPON1,SPON2,THBS1","ITGA1,ITGA2,ITGA3,ITGA4,ITGA5,ITGA6,ITGA7,ITGA8,ITGA9,ITGAV,ITGB1",-,"Basement membrane, Extracellular region, Secreted",No
+THBS4,Basement membrane,Thbs4,"thbs4a,thbs4b",Tsp,-,"PMID: 14562182 (B)
+PMID: 23942617 (H)
+PMID: 17927980 (H)","PMID: 14562182, in-house rabbit pAb ɑ-human TSP-4 antibody 
+PMID: 23942617, THBS4 antibody G10 (Santa Cruz)
+PMID: 17927980, polyclonal rabbit thrombospodin-4 antibody",-,-,"ITGA1,ITGA2,ITGA9",-,"Extracellular matrix, Secreted, Endoplasmic reticulum, Sarcoplasmic reticulum",No
+TIMP1,Basement membrane,Timp1,-,Timp,"timp-1,cri-2","PMID: 12950084 (M)
+PMID: 12631350 (M)
+PMID: 30965234 (M)","PMID: 12950084, polyclonal rabbit anti‐human TIMP‐1 antibody (Biogenesis, Poole, UK)
+PMID: 12631350, rabbit antihuman TIMP-1
+PMID: 30965234, ɑ-TIMP-1 monoclonal antibody (Abcam)","TIMP-1, CRI-2","AMELX,AMTN,CST3,FBN1,FN1,ISLR,LAMB1,LAMB2,LAMC1,MMP1,MMP17,MMP2,MMP7,SPARC,SPARCL1,TGFB1,TGFB2,THBS1,TNC,VCAN,VWA1","ADAM10,ADAM17,CD44,EVA1A,GPC3,MMP14",-,"Secreted, Intracellular",No
+TIMP2,Basement membrane,Timp2,"timp2a,timp2b",Timp,"timp-1,cri-2","PMID: 12950084 (M)
+PMID: 12631350 (M)
+PMID: 11069613 (H)","PMID: 12950084, polyclonal rabbit anti‐human TIMP-2 (Chemicon)
+PMID: 12631350, rabbit ɑ-human TIMP2
+PMID: 11069613, monoclonal ɑ-human TIMP-2 MoAb 3310 (Chemicon International)","TIMP-1, CRI-2","CST3,CTSD,FN1,MMP1,MMP17,MMP2,MMP7,RECK,SPOCK3,TIMP3",MMP14,-,"Secreted, Intracellular",No
+TIMP3,Basement membrane,Timp3,timp3,Timp,"timp-1,cri-2","PMID: 12950084 (M)
+PMID: 12631350 (M)
+PMID: 9006347 (H)","PMID: 12950084, polyclonal rabbit ɑ-human TIMP-3 antibody (Chemicon, Temecula, CA)
+PMID: 12631350, rabbit antihuman TIMP-3 (Sigma Chemical Co)
+PMID: 9006347, mouse MAb antibody to human TIMP-3, in-house","TIMP-1, CRI-2","ADAMTS3,ADAMTS4,ADAMTS5,ECM1,EFEMP1,MMP1,MMP2,MMP7,RECK,TIMP2","ADAM10,ADAM17,MMP14",-,"Extracellular matrix, Secreted",No
+TINAG,Basement membrane,Tinag,-,TINAG,F26E4.3,"PMID: 9291180 (M)
+PMID: 9643646 (H)
+PMID: 20157734 (H)
+PMID: 19297554 (R)
+PMID: 1762287 (H)","PMID: 9291180, polyclonal goat ɑ-rabbit TIN-ag antibody, in-house
+PMID: 9643646, mouse monoclonal A8 ɑ-TIN-ag 
+PMID: 20157734, monoclonal TIN-ag antibody H79
+PMID: 19297554, polyclonal ɑ-TINag antibody, in-house
+PMID: 1762287, mouse monoclonal A8 ɑ-TIN-ag, in-house",F26E4.3,-,-,-,"Basement membrane, Extracellular matrix, Secreted, Intracellular",No
+TINAGL1,Basement membrane,Tinagl1,tinagl1,Swim,F26E4.3,"PMID: 19776386 (M)
+PMID: 24436468 (H)
+PMID: 19587330 (M)","PMID: 19776386, rabbit polyclonal antibody to TINAGL1 (Santa Cruz)
+PMID: 24436468, TINAGL1 antibody (Abcam, ab69036)
+PMID: 19587330, rabbit polyclonal antibody against TINAGL1",F26E4.3,-,-,-,"Secreted, Intracellular",No
+TLL1,Basement membrane,Tll1,tll1,tok,nas-39,-,-,NAS-39,"COL2A1,COL5A1,COL7A1,HSPG2,LOXL1,LOXL2,LOXL4",-,-,"Secreted, Intracellular",No
+TNC,Basement membrane,Tnc,tnc,-,-,"PMID: 17927980 (H)
+PMID: 18978301 (M)
+PMID: 12209613 (H)
+PMID: 31783297 (H)
+PMID: 11755293 (H)
+PMID: 9882526 (M)
+PMID: 17962449 (H)
+PMID: 22382594 (H)","PMID: 17927980, monoclonal antibodies to human tenascin-C, TN2 and 49 (Dako and Novocasta Laboratories)
+PMID: 18978301, rabbit ɑ-human Tnc (Chemicon, Millipore)
+PMID: 12209613, monoclonal mouse ɑ-human Tn-C antibody (Dako)
+PMID: 31783297, rabbit mAb against TN-C (Abcam, AB108930)
+PMID: 11755293, mAb to human tenascin (143DB7) 
+PMID: 9882526, rat ɑ-mouse tenascin-C MTN 12 
+PMID: 17962449, Mouse mAb ɑ-tenascin-C 
+PMID: 22382594, ɑ-Tenascin C (Dako) ",-,"ACAN,AMELX,AMTN,BCAN,CST3,FBN1,FN1,LAMB1,LAMB2,LAMC1,SPARCL1,TIMP1,VCAN,VWA1","ADAM10,EVA1A,GPC3,ITGA2,ITGA5,ITGA7,ITGA8,ITGA9,ITGAV,ITGAX,ITGB1,ITGB3,ITGB6,SDC1,SDC4",-,"Extracellular matrix, Secreted, Intracellular",No
+USH2A,Basement membrane,Ush2a,ush2a,-,-,"PMID: 11788194 (M)
+PMID: 12433396 (H)","PMID: 11788194, in-house rabbit ɑ-usherin antibodies (PMID: 11788194)
+PMID: 12433396, in-house rabbit ɑ-usherin antibodies (PMID: 11788194)",-,"LAMA3,LAMA5,LAMB1,LAMB2",-,-,"Secreted, Cell membrane, Cell projection, Membrane",No
+VCAN,Basement membrane,Vcan,"vcana,vcanb",-,-,"PMID: 20459817 (H)
+PMID: 23074202 (H)
+PMID: 16622173 (H)
+PMID: 17927980 (H)","PMID: 20459817, rabbit polyclonal antibody against versican (Santa Cruz Biotechnology)
+PMID: 23074202, 12C5 and 2B1 monoclonal antibodies against N and C terminal of versican
+PMID: 16622173, PG versican rabbit ɑ-human in-house (PMID: 8120102)
+PMID: 17927980, MAb 12C5 against versican (Developmental Studies Hybridoma Bank)",-,"ADAMTS1,AGRN,AMELX,AMTN,BCAN,BGN,CST3,DCN,FBLN1,FBLN2,FBN1,FMOD,FN1,HSPG2,LAMB1,LAMB2,LAMC1,LUM,SPARCL1,TIMP1,TNC,VWA1","ADAM10,CD44,CSPG4,EVA1A,GPC1,GPC2,GPC3,GPC4,GPC5,GPC6,SDC1,SDC4",-,"Extracellular matrix, Secreted, Cell projection, Intracellular",No
+VTN,Basement membrane,Vtn,"vtna,vtnb",-,-,"PMID: 24436468 (H)
+PMID: 8322453 (H)
+PMID: 17927980 (H)","PMID: 24436468, vitronectin antibody (Abcam, ab11591)
+PMID: 8322453, monoclonal and polyclonal Ab against S-protein (vitronectin) (Chemicon)
+PMID: 17927980, vitronectin antibody (Chemicon)",-,"EFEMP1,EFEMP2,FBLN1,FBLN2,FBLN5,FN1","ITGA1,ITGA2,ITGA2B,ITGA3,ITGA4,ITGA5,ITGA6,ITGA7,ITGA8,ITGA9,ITGAV,ITGB1,ITGB3,ITGB5,ITGB6,ITGB8,SDC1,SDC4",-,Secreted,No
+VWA1,Basement membrane,Vwa1,vwa1,-,-,"PMID: 18314316 (M)
+PMID: 26406320 (M)
+The Matrixome Project (M)","PMID: 18314316, WARP sheep antibody (Institute for Medical and Veterinary Science (Adelaide, Australia))
+PMID: 26406320, polyclonal goat antibody against WARP (R&D systems, AF4927)
+The Matrixome Project, Rabbit pAb ɑ-ECM306/WARP 3062 (MATRIXOME PJ)",-,"AMELX,AMTN,CST3,FBN1,FN1,HSPG2,LAMB1,LAMB2,LAMC1,SPARCL1,TIMP1,TNC,VCAN","ADAM10,EVA1A,GPC3",-,"Basement membrane, Extracellular matrix, Secreted, Intracellular",Yes
+VWA2,Basement membrane,Vwa2,vwa2,-,-,"PMID: 19651211 (M)
+PMID: 29351342 (M)
+PMID: 14506275 (M)
+PMID: 24232570 (M)
+Human Protein Atlas (H)","PMID: 19651211, rabbit AMACO-P3 antibody, in-house 
+PMID: 29351342, guinea pig-mouse ɑ-P3 fragments of human and murine VWA2, in-house
+PMID: 14506275, rabbit AMACO antibody, in-house
+PMID: 24232570, rabbit ɑ-mouse AMACO-P3
+HPA, Rabbit ɑ-vWA2 pAb (Atlas Antibodies, HPA037847)",-,FREM2,-,-,"Secreted, Intracellular",No
+ADAM9,Cell surface interactor,Adam9,adam9,Meltrin,-,PMID: 31030477 (H),"PMID: 31030477,  α-ADAM9 pAb (Santa Cruz Biotechnology, sc-23290) (discontinued)",-,COL17A1,-,"ADAM10, FN1, laminin, collagen type XVII","Cell membrane, Membrane, Secreted",No
+ADAM10,Cell surface interactor,Adam10,"adam10a,adam10b",kuz,sup-17,"PMID: 14734484 (H)
+PMID: 18480749 (H)","PMID: 14734484,  α-ADAM10 pAb (Chemicon International, AB19026)
+PMID: 18480749, α-ADAM10 mAb - clone 11G2 (Cell Sciences, CDM442A)",SUP-17,"AMELX,AMTN,COL17A1,CST3,FBN1,FN1,LAMB1,LAMB2,LAMC1,SPARCL1,TIMP1,TIMP3,TNC,VCAN,VWA1","ADAM17,EVA1A,GPC3,ITGAM,ITGAV,ITGAX,ITGB2","Collaggen types XVII and IV, ISLR, MEP1A, MEP1B, MMP17, SDC1","Membrane, Cell membrane, Cell junction, Cell projection, Cytoplasm, Cytoplasmic vesicle, Golgi apparatus",No
+ADAM17,Cell surface interactor,Adam17,"adam17a,adam17b",Tace,adm-4,"PMID: 27737494 (Rb)
+Human Protein Atlas (H)","PMID: 27737494, α-human ADAM17 mAb (R&D Systems, MAB9304)
+HPA, Rabbit ɑ-ADAM17 pAb (Atlas Antibodies, HPA010738)",ADM-4,"COL17A1,TIMP1,TIMP3",ADAM10,"Collaggen XVII, DDR1, SDC1, SDC4","Membrane, Cytoplasm",No
+CD44,Cell surface interactor,Cd44,"cd44a,cd44b",-, -,-,-, -,"ACAN,COL2A1,FN1,HSPG2,LAMC2,MMP2,MMP7,TIMP1,VCAN","ITGA4,ITGA6,ITGAM,ITGAX,ITGB1,MMP14,SDC1",-,"Cell membrane, Cell projection, Membrane, Intracellular",No
+CD151,Cell surface interactor,Cd151,"cd151,cd151l",tsp74f,Worms have 21 tetraspanins (tsp-1 to 21),"PMID: 18787104 (M)
+PMID: 23302890 (H)
+PMID: 16410781 (M)
+PMID: 22201679 (H)","PMID: 18787104, α-CD151 Rabbit ɑ-mouse  (LAI-2), in-house
+PMID: 23302890, α-CD151 mAb - clone IIG5a (VWR, MA1-90964)
+PMID: 16410781, α-human CD151 pAb (Santa Cruz, sc-18753)
+PMID: 22201679, α-CD151 mAb - clone 11B1.G4, in-house",-,"COL17A1,LAMA3,LAMB3,LAMC2","ITGA3,ITGA6,ITGB4",-,Membrane,No
+CSPG4,Cell surface interactor,Cspg4,cspg4,kon,C48E7.6,PMID: 24386429 (H),"PMID: 24386429, α-CSPG4 mAb - clone 2164H5, in-house",C48E7.6,"AGRN,BCAN,BGN,DCN,HSPG2,VCAN","GPC1,GPC2,GPC3,GPC4,GPC5,GPC6,ITGA3,ITGA4,ITGB1,SDC1,SDC4",-,"Cell membrane, Cell projection, Membrane",No
+COL13A1,Cell surface interactor,Col13a1,col13a1,CG42342,col-99,"PMID: 11583983 (M) 
+PMID: 20844119 (M)
+PMID: 19074901 (M)
+Human Protein Atlas (H)","PMID: 11583983, α-XIII/NC3 pAb, in-house
+PMID: 20844119, α-XIII/NC3 pAb, in-house (PMID: 11583983)
+PMID: 19074901, α- human XIII pAb, in-house (PMID: 9624150)
+HPA, Rabbit ɑ-COL13A1 pAb (Atlas Antibodies, HPA050392)",COL-99,"COL12A1,COL14A1,COL15A1,COL17A1,COL18A1,COL28A1,COL2A1,COL4A1,COL4A2,COL4A3,COL4A4,COL4A5,COL4A6,COL5A1,COL6A1,COL6A2,COL6A3,COL7A1,COL8A1,COL8A2,COL9A1,COL9A2,COL9A3,P3H1,P3H2","ITGA1,ITGB1",-,"Cell junction, Cell membrane, Membrane, Postsynaptic cell membrane, Synapse",No
+DAG1,Cell surface interactor,Dag1,dag1,dg,dgn-1,"PMID: 22961762 (M)
+PMID: 31356769 (M)
+PMID: 24559085 (H)
+PMID: 22138543 (H)
+PMID: 11798066 (M)
+PMID: 21209007 (M)","PMID 22961762, α-43DAG mAb - clone 8D5 (Novocastra, NCL-b-DG)
+PMID: 31356769, ɑ-α-dystroglycan mAb - clone IIH6 C4 (Dev. Studies Hybridoma Bank)
+PMID: 24559085, ɑ-β-dystroglycan (Vector laboratory, VP-B205) (discontinued)
+PMID: 22138543, ɑ-α-dystroglycan mAb - clone IIH6 (Millipore, 05-593)
+PMID: 11798066, α-43DAG mAb (Novocastra, NCL-b-DG)
+PMID: 21209007, ɑ-α-dystroglycan mAb - clone IIH6 (Millipore, 05-593); ɑ-β-DG - clone 7D11 (DSHB)",DGN-1,"AGRN,EGFLAM,HSPG2,LAMA1,LAMA2,LAMA3,LAMA4,LAMA5,LAMB1,LAMB2,LAMB3,LAMC1,LAMC2,LAMC3,SLIT2","ITGA1,ITGB1",-,"Cell junction, Cell membrane, Cytoplasm, Cytoskeleton, Membrane, Nucleus, Postsynaptic cell membrane, Secreted, Synapse",No
+DCC,Cell surface interactor,Dcc,dcc,fra,unc-40,"PMID: 26732856 (M)
+PMID: 32096760 (M)
+Human Protein Atlas (H)","PMID: 26732856, rabbit ɑ-DCC, in-house 
+PMID: 32096760, α-DCC pAb (Santa Cruz, sc-6535)
+HPA, Rabbit ɑ-DCC pAb (Atlas Antibodies, HPA069552)",UNC-40,"NTN1,NTN4,SLIT1,SLIT2,SLIT3","ROBO1,UNC5A,UNC5B,UNC5C,UNC5D",-,"Membrane, Cytoplasm",No
+DDR1,Cell surface interactor,Ddr1,ddr1,Ddr,ddr-1,"PMID: 15200417 (H)
+PMID: 11488334 (H)
+PMID: 26260163 (M)
+PMID: 18026164 (M)
+PMID: 32244515 (H)","PMID: 15200417, α-DDR1 pAb - clone (C-20) (Santa Cruz Biotechnology, sc-532)
+PMID: 11488334, α-DDR1 pAb - clone (C-20) (Santa Cruz Biotechnology, sc-532)
+PMID: 26260163, α-DDR1 pAb - clone (C-20) (Santa Cruz Biotechnology, sc-532)
+PMID: 18026164, α-DDR1 pAb (C-20) and (N-13) (Santa Cruz Biotechnology, sc-532, sc-7553)
+PMID: 32244515, α-DDR1 pAb - clone (C-20) (Santa Cruz Biotechnology, sc-532)","DDR-1, DDR-2",-,-,-,"Cell membrane, Membrane, Secreted",No
+DDR2,Cell surface interactor,Ddr2,"ddr2a,ddr2b",Ddr,ddr-2,-,-,"DDR-1, DDR-2",COL5A1,-,-,"Cell membrane, Membrane, Intracellular",No
+EVA1A,Cell surface interactor,Eva1a,eva1a,-,eva-1,Human Protein Atlas (H),"HPA, rabbit α-EVA1A pAb (Atlas Antibodies, HPA008055) ",EVA-1,"AMELX,AMTN,CST3,FBN1,FN1,LAMB1,LAMB2,LAMC1,SPARCL1,TIMP1,TNC,VCAN,VWA1","ADAM10,GPC3",-,"Membrane, Endoplasmic reticulum, Lysosome, Nuclear",No
+EVA1B,Cell surface interactor,Eva1b,"ena1ba,ev1bb",-,eva-1,Human Protein Atlas (H),"HPA, rabbit α-EVA1B pAb (Atlas Antibodies, HPA041928)",EVA-1,-,-,-,"Membrane, Cytoplasm",No
+EVA1C,Cell surface interactor,Eva1c,eva1c,CG42402,eva-1,Human Protein Atlas (H),"HPA, rabbit α-EVA1C msAb (Santa Cruz Biotechnology, sc-83564)",EVA-1,-,MPZL2,-,"Membrane, Cytoplasm",No
+GPC1,Cell surface interactor,Gpc1,"gpc1a,gpc1b",dlp,"lon-2,gpn-1",PMID: 14627628 (M),"PMID: 14627628, α-glypican 1, in-house (PMID: 8905294)",LON-2,"AGRN,BCAN,BGN,COL18A1,DCN,HSPG2,LAMA1,SLIT2,TGFB1,VCAN","CSPG4,GPC2,GPC3,GPC4,GPC5,GPC6,SDC1,SDC4",-,"Cell membrane, Endosome, Membrane, Secreted",No
+GPC2,Cell surface interactor,Gpc2,gpc2,dlp,gpn-1,Human Protein Atlas (H),"HPA, mouse α-GPC2 mAb (R&D Systems, MAB2304)",-,"AGRN,BCAN,BGN,DCN,HSPG2,VCAN","CSPG4,GPC1,GPC3,GPC4,GPC5,GPC6,SDC1,SDC4",-,"Cell membrane, Membrane, Secreted, Cytoplasm",No
+GPC3,Cell surface interactor,Gpc3,gpc3,dally,gpn-1,PMID: 17117158 (Rt),"PMID: 17117158, α-human Gpc3 pAb (R&D Systems, AF2119)",-,"AGRN,AMELX,AMTN,BCAN,BGN,CST3,DCN,FBN1,FN1,HSPG2,LAMB1,LAMB2,LAMC1,SPARCL1,TIMP1,TNC,VCAN,VWA1","ADAM10,CSPG4,EVA1A,GPC1,GPC2,GPC4,GPC5,GPC6,SDC1,SDC4",-,"Cell membrane, Membrane",No
+GPC4,Cell surface interactor,Gpc4,gpc4,dlp,gpn-1,-,-,-,"AGRN,BCAN,BGN,COL15A1,COL18A1,DCN,HSPG2,VCAN","CSPG4,GPC1,GPC2,GPC3,GPC5,GPC6,SDC1,SDC4",-,"Cell membrane, Membrane, Secreted, Cytoplasm",No
+GPC5,Cell surface interactor,Gpc5,"gpc5a,gpc5b",dally,gpn-1,-,-,-,"AGRN,BCAN,BGN,DCN,HSPG2,VCAN","CSPG4,GPC1,GPC2,GPC3,GPC4,GPC6,SDC1,SDC4",-,"Cell membrane, Membrane, Secreted, Cytoplasm",No
+GPC6,Cell surface interactor,Gpc6,"gpc6a,gpc6b",dlp,gpn-1,-,-,-,"AGRN,BCAN,BGN,DCN,HSPG2,VCAN","CSPG4,GPC1,GPC2,GPC3,GPC4,GPC5,SDC1,SDC4",-,"Cell membrane, Membrane, Secreted, Cytoplasm",No
+ITGA1,Cell surface interactor,Itga1,itga1,if,-,"PMID: 23236390 (M)
+PMID: 20091789 (M)
+PMID: 10531072 (H)","PMID: 23236390, α-Itgα1 mAb - clone Ha31/8 (BD Pharmingen, 555001) / clone HMB1-1 (Santa Cruz, sc-19656)
+PMID: 20091789, α-Itgα1 mAb - clone Ha31/8 (BD Pharmingen, 555001)
+PMID: 10531072, α-Itgα1 clone mouse TS2/7 in-house (Biorad, MCA1133G; PMID: 6327814)",-,"AGRN,COL2A1,COL4A1,COL4A2,COL4A3,COL4A4,COL4A5,COL4A6,COL5A1,COL6A1,COL6A2,COL6A3,COL9A1,COL9A2,COL9A3,LAMA1,LAMA2,LAMA3,LAMA4,LAMA5,LAMB1,LAMB2,LAMB3,LAMC1,LAMC2,LAMC3,THBS1,THBS2,THBS4,VTN","COL13A1,DAG1,ITGA10,ITGA2,ITGA3,ITGA4,ITGA5,ITGA8,ITGA9,ITGAM,ITGAV,ITGAX,ITGB1,ITGB2,ITGB3,ITGB4,ITGB5,ITGB6,ITGB7,ITGB8",-,"Membrane, Cytoplasm",No
+ITGA2,Cell surface interactor,Itga2,itga2.L,if,-,"PMID: 20860797 (M)
+PMID: 7545357 (H)
+PMID: 8376596 (H)
+PMID: 21652699 (M)","PMID: 20860797, rabbit α-mouse Itgα2 (Abcam)
+PMID: 7545357, α-Itgα2 mAb - clone P1E6 (Chemicon, MAB1950)
+PMID: 8376596, α-Itgα2 mAb - clone 12F1 (BD Pharmingen, 555668)
+PMID: 21652699, α-Itgα2 mAb - clone Ha1/29 (BD Pharmingen, 554998)",-,"AGRN,COL2A1,COL4A1,COL4A2,COL4A3,COL4A4,COL4A5,COL4A6,COL6A1,COL6A2,COL6A3,COL7A1,COL9A1,COL9A2,COL9A3,FN1,HSPG2,LAMA1,LAMA2,LAMA3,LAMA4,LAMA5,LAMB1,LAMB2,LAMB3,LAMC1,LAMC2,LAMC3,LUM,THBS1,THBS2,THBS4,TNC,VTN","ITGA1,ITGA10,ITGA3,ITGA4,ITGA5,ITGA8,ITGA9,ITGAM,ITGAV,ITGAX,ITGB1,ITGB2,ITGB3,ITGB4,ITGB5,ITGB6,ITGB7,ITGB8,SDC1",-,Membrane,No
+ITGA2B,Cell surface interactor,Itga2b,itga2b,if,pat-2,-,-,PAT-2,"COL2A1,FN1,THBS1,VTN","ITGAV,ITGB1,ITGB2,ITGB3,ITGB4,ITGB5,ITGB6,ITGB7,ITGB8",-,"Membrane, Cytoplasm",No
+ITGA3,Cell surface interactor,Itga3,"itga3a,itga3b",mew,ina-1,"PMID: 25915046 (H)
+PMID: 7545357 (H)
+PMID: 9632739 (H)
+PMID: 19828126 (H)
+PMID: 11788196 (M)
+PMID: 15361695 (Rt)
+PMID: 31249312 (H)","PMID 25915046, α-Itgα3 mAb (Chemicon, AB1920)
+PMID: 7545357, α-Itgα3 mAb - clone P1B5 (Chemicon, MAB1952Z)
+PMID: 9632739, α-Itgα3 mAb - clone P1B5 (Chemicon, MAB1952Z)
+PMID: 19828126, α-Itgα3 mAb - clone M-KID2 (Chemicon, MAB1992)
+PMID: 11788196,  α-Itgα3 rb pAb, in-house 
+PMID: 15361695, α-human Itgα3 rb pAb, in-house
+PMID: 31249312, rabbit α-ITGA3 pAb (Atlas Antibodies, HPA008572)",INA-1,"AGRN,COL18A1,COL4A1,COL4A2,COL4A3,COL4A4,COL4A5,COL4A6,COL6A1,COL6A2,FN1,LAMA1,LAMA2,LAMA3,LAMA4,LAMA5,LAMB1,LAMB2,LAMB3,LAMC1,LAMC2,LAMC3,NID1,TGFBI,THBS1,THBS2,VTN","CD151,CSPG4,ITGA1,ITGA10,ITGA2,ITGA4,ITGA5,ITGA6,ITGA8,ITGA9,ITGAM,ITGAV,ITGAX,ITGB1,ITGB2,ITGB3,ITGB4,ITGB5,ITGB6,ITGB7,ITGB8",-,"Membrane, Cell junction, Cell membrane, Cell projection, Cytoplasm",No
+ITGA4,Cell surface interactor,Itga4,itga4,itgaPS4,-,PMID: 9632739 (H),"PMID: 9632739, α-Itgα4 mAb - clone P4G9 (Chemicon, MAB1954)",-,"COL4A2,COL6A1,COL6A3,FN1,LAMA1,LAMA2,LAMA3,LAMA4,LAMA5,LAMC1,LAMC2,THBS1,THBS2,VTN","CD44,CSPG4,ITGA1,ITGA10,ITGA2,ITGA3,ITGA5,ITGA8,ITGA9,ITGAM,ITGAV,ITGAX,ITGB1,ITGB2,ITGB3,ITGB4,ITGB5,ITGB6,ITGB7,ITGB8",-,"Membrane, Cytoplasm",No
+ITGA5,Cell surface interactor,Itga5,itga5,if,pat-2,"PMID: 11416044 (M)
+PMID: 12828918 (B)
+PMID: 15805270 (M)
+PMID: 8376596 (H)
+PMID: 31249312 (H)","PMID: 11416044, rb α-Itgα5 Cys-23mer pAb, in-house (PMID: 2663881)
+PMID: 12828918, α-Itgα5 pAb (Chemicon, AB1928)
+PMID: 15805270, α-Itgα5 mAb - clone 5H10-27 (MFR5), BD Pharmingen, 553319)
+PMID: 8376596, α-Itgα5 mAb - clone BIIG2, in-house (PMID: 2547805)
+PMID: 31249312, rabbit α-ITGA3 pAb (Atlas Antibodies, HPA002642)",PAT-2,"AGRN,COL18A1,COL4A1,COL4A2,COL6A1,COL6A2,COL6A3,FBN1,FBN2,FBN3,FN1,LAMA1,LAMA2,LAMA3,LAMA4,LAMA5,LAMB1,LAMB3,LAMC1,LAMC2,LAMC3,THBS1,THBS2,TNC,VTN","ITGA1,ITGA10,ITGA2,ITGA3,ITGA4,ITGA8,ITGA9,ITGAM,ITGAV,ITGAX,ITGB1,ITGB2,ITGB3,ITGB4,ITGB5,ITGB6,ITGB7,ITGB8",-,"Cell junction, Membrane",No
+ITGA6,Cell surface interactor,Itga6,"itga6a,itga6b",mew,ina-1,"PMID: 25915046 (H)
+PMID: 29946113 (H)
+PMID: 26355035 (M)
+PMID: 8376596 (H)
+PMID: 9632739 (H)
+PMID: 17880691 (M)
+PMID: 20336083 (M)
+PMID: 31249312 (H)","PMID 25915046, mouse α-Itgα6 mAb (Chemicon)
+PMID: 29946113, α-Itgα6 mAb - clone EPR18124 (Abcam, ab181551)
+PMID: 26355035, α-Itgα6 mAb - clone GoH3 (Abcam, ab105669)
+PMID: 8376596, α-Itgα6 mAb - clone GoH3 (Abcam, ab105669)
+PMID: 9632739, α-Itgα6 mAb - clone GoH3 (Abcam, ab105669)
+PMID: 17880691, alpha-6 integrin antibody (BD Pharmingen)
+PMID: 20336083, α-Itgα6 mAb - clone GoH3 (GeneTex, GTX76413)
+PMID: 31249312, rabbit α-ITGA6 pAb (Atlas Antibodies, HPA012696)",INA-1,"AGRN,COL17A1,COL4A1,COL4A2,COL6A1,LAMA1,LAMA2,LAMA3,LAMA4,LAMA5,LAMB1,LAMB2,LAMB3,LAMC1,LAMC2,LAMC3,THBS1,THBS2,VTN","CD151,CD44,ITGA3,ITGB1,ITGB2,ITGB3,ITGB4,ITGB5,ITGB6,ITGB7,ITGB8,SDC1",-,"Cell membrane, Membrane, Cytoplasm",No
+ITGA7,Cell surface interactor,Itga7,itga7,mew,ina-1,"PMID: 26355035 (M)
+PMID: 16476707 (M)
+PMID: 11784026 (M)
+Human Protein Atlas (H)","PMID: 26355035, α-Itgα7B pAb - clone U31, in-house 
+PMID: 16476707, α-Itgα7B pAb - clone U31, in-house 
+PMID: 11784026, α-Itgα7 mAb - clone CA5, in-house
+HPA, Rabbit ɑ-ITGA7 pAb (Atlas Antibodies, HPA008427)",INA-1,"AGRN,COL4A1,COL4A2,COL6A1,COL6A2,COL6A3,COL9A3,LAMA1,LAMA2,LAMA3,LAMA4,LAMA5,LAMB1,LAMB2,LAMC1,THBS2,TNC,VTN","ITGB1,ITGB2,ITGB3,ITGB4,ITGB5,ITGB6,ITGB7,ITGB8",-,"Membrane, Cytoplasm",No
+ITGA8,Cell surface interactor,Itga8,itga8,if,pat-2,"PMID: 29759420 (M)
+PMID: 11470831 (M)
+PMID: 9054500 (M)
+PMID: 1714374 (C)
+PMID: 31249312 (H)
+Human Protein Atlas (H)","PMID: 29759420, α-Itgα8 pAb (R&D Systems, AF4076)
+PMID: 11470831, α-Itgα8 - Antiserum 1526, in-house
+PMID: 9054500, α-Itgα8 - Antiserum 1526, in-house
+PMID: 1714374, α-Itgα8 - peptide antisera, in-house
+PMID: 31249312, Rabbit ɑ-ITGA8 pAb (Atlas Antibodies, HPA003432)
+HPA, Rabbit ɑ-ITGA8 pAb (Atlas Antibodies, HPA003432)",PAT-2,"AGRN,COL4A1,COL4A2,COL6A1,COL6A2,COL6A3,FN1,LAMA1,LAMA2,LAMA3,LAMA4,LAMA5,LAMB4,LAMC1,NPNT,TGFB1,THBS2,TNC,VTN","ITGA1,ITGA10,ITGA2,ITGA3,ITGA4,ITGA5,ITGA9,ITGAM,ITGAV,ITGAX,ITGB1,ITGB2,ITGB3,ITGB4,ITGB5,ITGB6,ITGB7,ITGB8",-,"Cell membrane, Membrane, Cytoplasm",No
+ITGA9,Cell surface interactor,Itga9,itga9,itgaPS5,-,-,-,-,"AGRN,COL6A2,FN1,LAMA1,LAMA2,LAMA3,LAMA5,LAMC1,THBS1,THBS2,THBS4,TNC,VTN","ITGA1,ITGA10,ITGA2,ITGA3,ITGA4,ITGA5,ITGA8,ITGAM,ITGAV,ITGAX,ITGB1,ITGB2,ITGB3,ITGB4,ITGB5,ITGB6,ITGB7,ITGB8",-,"Membrane, Cytoplasm",No
+ITGA10,Cell surface interactor,Itga10,itga10,if,-,-,-,-,"COL2A1,COL4A2,COL4A4,COL9A1,COL9A2,COL9A3,LAMA1,LAMA2,LAMA3,LAMA5,LAMC1","ITGA1,ITGA2,ITGA3,ITGA4,ITGA5,ITGA8,ITGA9,ITGAM,ITGAV,ITGAX,ITGB1,ITGB2,ITGB3,ITGB4,ITGB5,ITGB6,ITGB7,ITGB8",-,Membrane,No
+ITGAM,Cell surface interactor,Itgam,"si:dkey-32n7.4,itgam",if,-,-,-,-,"MMP2,SPON2,TGFBI","ADAM10,CD44,ITGA1,ITGA10,ITGA2,ITGA3,ITGA4,ITGA5,ITGA8,ITGA9,ITGAV,ITGAX,ITGB1,ITGB2,ITGB3,ITGB4,ITGB5,ITGB6,ITGB7,ITGB8",-,"Cell membrane, Membrane, Cytoplasm",No
+ITGAV,Cell surface interactor,Itgav,itgav,if,pat-2,"PMID: 9632739 (H)
+PMID: 12665557 (Rt)
+PMID: 18467691 (M)
+PMID: 15361695 (Rt)
+PMID: 11788196 (M)
+PMID: 31249312 (H)","PMID: 9632739,  α-ItgαV mAb - supernantant H5P10  
+PMID: 12665557, α-ItgαV-C-terminus pAb (Chemicon, AB1930)
+PMID: 1714374, α-ItgαV - peptide antisera, in-house
+PMID: 15361695, α-ItgαV-C-terminus pAb (Chemicon, AB1930)
+PMID: 11788196, α-ItgαV pAb (Chemicon, AB1930)
+PMID: 31249312, mouse α-ItgαV mAb (Leica Biosystems, NCL-CD51)",PAT-2,"AGRN,COL18A1,COL2A1,COL4A1,COL4A2,COL4A3,COL4A4,COL4A5,COL4A6,COL5A1,COL6A1,COL6A2,COL6A3,COL7A1,FBN1,FBN2,FBN3,FN1,LAMA1,LAMA2,LAMA3,LAMA4,LAMA5,LAMB1,LAMB3,LAMC1,LAMC2,TGFB1,TGFBI,THBS1,THBS2,TNC,VTN","ADAM10,ITGA1,ITGA10,ITGA2,ITGA2B,ITGA3,ITGA4,ITGA5,ITGA8,ITGA9,ITGAM,ITGAX,ITGB1,ITGB2,ITGB3,ITGB4,ITGB5,ITGB6,ITGB7,ITGB8,SDC1,SDC4",-,"Cell junction, Cell membrane, Membrane, Cytoplasm",No
+ITGAX,Cell surface interactor,Itgax,si:dkey-32n7.4,if,-,PMID: 19234202 (M),"PMID: 19234202, anti-CD11c antibody (Becton Dickinson)",-,TNC,"ADAM10,CD44,ITGA1,ITGA10,ITGA2,ITGA3,ITGA4,ITGA5,ITGA8,ITGA9,ITGAM,ITGAV,ITGB1,ITGB2,ITGB3,ITGB4,ITGB5,ITGB6,ITGB7,ITGB8",-,"Membrane, Cytoplasm",No
+ITGB1,Cell surface interactor,Itgb1,"itgb1a,itgb1b",mys,pat-3,"PMID: 25915046 (H)
+PMID: 7545357 (H)
+PMID: 25395457 (M)
+PMID: 19828126 (H)
+PMID: 8465988 (H)
+PMID: 24137544 (M)
+PMID: 31249312 (H)","PMID 25915046,  α-Itgβ1 mAb (Chemicon, MAB1959Z)
+PMID: 7545357, α-Itgβ1 mAb - clone mAb13 (Sigma-Aldrich, MABT821)
+PMID: 25395457, α-Itgβ1 mAb - clone MB1.2 (Chemicon , MAB1997)
+PMID: 19828126, α-Itgβ1 mAb - clone M-KID2 (Chemicon, MAB1992)
+PMID: 8465988, α-Itgβ1 mAb - clone mAb13 (Sigma-Aldrich, MABT821)
+PMID 24137544, α-Itgβ1 - clone 9EG7 (BD Pharmingen, 553715)
+PMID: 31249312, rabbit α-ITGB1 pAb (Atlas Antibodies, HPA059297)",PAT-3,"AGRN,COL18A1,COL2A1,COL4A1,COL4A2,COL4A3,COL4A4,COL4A5,COL4A6,COL5A1,COL6A1,COL6A2,COL6A3,COL7A1,COL9A1,COL9A2,COL9A3,FBN1,FBN2,FBN3,FN1,HSPG2,LAMA1,LAMA2,LAMA3,LAMA4,LAMA5,LAMB1,LAMB2,LAMB3,LAMC1,LAMC2,LAMC3,LUM,NID1,NPNT,TGFB1,TGFBI,THBS1,THBS2,TNC,VTN","CD44,COL13A1,CSPG4,DAG1,ITGA1,ITGA10,ITGA2,ITGA2B,ITGA3,ITGA4,ITGA5,ITGA6,ITGA7,ITGA8,ITGA9,ITGAM,ITGAV,ITGAX,ITGB2,ITGB3,ITGB4,ITGB5,ITGB6,ITGB7,ITGB8,SDC1",-,"Membrane, Cell junction, Cell membrane, Cell projection, Endosome",No
+ITGB2,Cell surface interactor,Itgb2,itgb2,mys,pat-3,-,-,PAT-3,"MMP2,SPON2,TGFBI","ADAM10,ITGA1,ITGA10,ITGA2,ITGA2B,ITGA3,ITGA4,ITGA5,ITGA6,ITGA7,ITGA8,ITGA9,ITGAM,ITGAV,ITGAX,ITGB1,ITGB3,ITGB4,ITGB5,ITGB6,ITGB7,ITGB8",-,"Cell membrane, Membrane, Cytoplasm",No
+ITGB3,Cell surface interactor,Itgb3,"itgb3a,itgb3b",mys,pat-3,"PMID: 8376596 (H)
+PMID: 8738408 (H)","PMID: 8376596, α-Itgβ3 mAb - clone 9OBBlOB7, in-house
+PMID: 8738408, α-Itgβ3 mAb, in-house",PAT-3,"COL18A1,COL2A1,COL4A1,COL4A2,COL4A3,COL4A4,COL4A5,COL4A6,COL5A1,COL6A1,COL6A2,COL6A3,COL7A1,FBN1,FBN2,FBN3,FN1,LAMA1,LAMA2,LAMA3,LAMA4,LAMA5,LAMB1,LAMC1,TGFB1,TGFBI,THBS1,TNC,VTN","ITGA1,ITGA10,ITGA2,ITGA2B,ITGA3,ITGA4,ITGA5,ITGA6,ITGA7,ITGA8,ITGA9,ITGAM,ITGAV,ITGAX,ITGB1,ITGB2,ITGB4,ITGB5,ITGB6,ITGB7,ITGB8,SDC1,SDC4",-,"Cell junction, Cell membrane, Cell projection, Membrane, Postsynaptic cell membrane, Synapse, Cytoplasm",No
+ITGB4,Cell surface interactor,Itgb4,itgb4,itgbn,C05D9.3,"PMID: 25915046 (H)
+PMID: 7545357 (H)
+PMID: 9632739 (H)
+PMID: 8376596 (H)
+PMID: 29946113 (H)","PMID 25915046, mouse α-Itgβ4 mAb (Chemicon)
+PMID: 7545357, α-Itgβ4 mAb - clone 3E1 (Chemicon, MAB1964)
+PMID: 9632739, α-Itgβ4 mAb - clone 3E1 (Chemicon, MAB1964)
+PMID: 8376596, α-Itgβ4 mAb - clone 345-11A
+PMID: 29946113, α-Itgβ4 mAb - clone EPR17517 (Abcam, ab182120)",-,"COL17A1,COL4A2,COL4A3,COL4A4,COL4A5,COL6A1,COL6A3,LAMA1,LAMA2,LAMA3,LAMA4,LAMA5,LAMB1,LAMB2,LAMB3,LAMB4,LAMC1,LAMC2,THBS1","CD151,ITGA1,ITGA10,ITGA2,ITGA2B,ITGA3,ITGA4,ITGA5,ITGA6,ITGA7,ITGA8,ITGA9,ITGAM,ITGAV,ITGAX,ITGB1,ITGB2,ITGB3,ITGB5,ITGB6,ITGB7,ITGB8,SDC1",-,"Membrane, Cell junction, Cell membrane, Cytoplasm",No
+ITGB5,Cell surface interactor,Itgb5,itgb5,mys,pat-3,"PMID: 31249312 (H)
+Human Protein Atlas (H)","PMID: 31249312, ɑ-ITGB5 rabbit pAb (Atlas Antibodies, HPA001820)
+HPA, rabbit ɑ-ITGB5 pAb (Atlas Antibodies, HPA001820)",PAT-3,"COL18A1,COL4A1,COL4A2,COL6A1,COL6A2,COL6A3,LAMA1,LAMA2,LAMA3,LAMA4,LAMA5,LAMB1,LAMB3,LAMC1,LAMC2,TGFB1,THBS1,VTN","ITGA1,ITGA10,ITGA2,ITGA2B,ITGA3,ITGA4,ITGA5,ITGA6,ITGA7,ITGA8,ITGA9,ITGAM,ITGAV,ITGAX,ITGB1,ITGB2,ITGB3,ITGB4,ITGB6,ITGB7,ITGB8,SDC1",-,"Membrane, Cytoplasm",No
+ITGB6,Cell surface interactor,Itgb6,itgb6,mys,pat-3,Human Protein Atlas (H),"HPA, rabbit ɑ-ITGB6 pAb (Atlas Antibodies, HPA023626)",PAT-3,"COL4A1,COL4A4,COL6A3,FBN1,FBN2,FBN3,FN1,LAMA1,LAMA2,LAMA3,LAMA4,LAMA5,LAMB1,LAMB3,LAMC1,LAMC2,TGFB1,TNC,VTN","ITGA1,ITGA10,ITGA2,ITGA2B,ITGA3,ITGA4,ITGA5,ITGA6,ITGA7,ITGA8,ITGA9,ITGAM,ITGAV,ITGAX,ITGB1,ITGB2,ITGB3,ITGB4,ITGB5,ITGB7,ITGB8",-,"Cell junction, Membrane, Cytoplasm",No
+ITGB7,Cell surface interactor,Itgb7,itgb7,mys,pat-3,-,-,PAT-3,"FN1,LAMA1,LAMA2,LAMC1","ITGA1,ITGA10,ITGA2,ITGA2B,ITGA3,ITGA4,ITGA5,ITGA6,ITGA7,ITGA8,ITGA9,ITGAM,ITGAV,ITGAX,ITGB1,ITGB2,ITGB3,ITGB4,ITGB5,ITGB6,ITGB8",-,Membrane,No
+ITGB8,Cell surface interactor,Itgb8,itgb8,Itgbn,-,"PMID: 31249312 (H)
+Human Protein Atlas (H)","PMID: 31249312, rabbit α-ITGB8 pAb (Atlas Antibodies, HPA027797)
+Human Protein Atlas, rabbit α-ITGB8 pAb (Atlas Antibodies, HPA027797)",-,"COL4A1,COL4A2,COL9A3,LAMA4,TGFB1,VTN","ITGA1,ITGA10,ITGA2,ITGA2B,ITGA3,ITGA4,ITGA5,ITGA6,ITGA7,ITGA8,ITGA9,ITGAM,ITGAV,ITGAX,ITGB1,ITGB2,ITGB3,ITGB4,ITGB5,ITGB6,ITGB7",-,"Cell membrane, Membrane",No
+MEGF9,Cell surface interactor,Megf9,si:dkey-220k22.1,-,-,PMID: 16981854 (M),"PMID: 16981854, α-MEGF9 pAb rb - clone KR18,  gp - clone KG20, in-house ",-,-,-,-,"Membrane, Cytoplasm",No
+MMP14,Cell surface interactor,Mmp14,"mmp14a,mmp14b",Mmp1,"zmp-1,zpm-2,zmp-3,zmp-4,zmp-5,zmp-6","PMID: 12950084 (M)
+PMID: 32523119 (M)
+PMID: 22688677 (M)
+Human Protein Atlas (H)","PMID: 12950084, α-MMP14/MT1‐MMP pAb (Chemicon, AB8221) 
+PMID: 32523119, α-MMP14 mAb - clone EP1264Y (Abcam, ab51074)
+PMID: 22688677, α-MMP14/MT1‐MMP pAb  (R&D Systems, AF918SP)
+HPA, Rabbit ɑ-MMP14 pAb (Santa Cruz Biotechnology, sc-30074)",ZMP-1,"ACAN,DCN,FN1,HSPG2,LAMA3,LAMA5,LAMB1,LAMB3,LAMC1,LAMC2,LUM,MMP17,MMP2,NID1,RECK,SPOCK3,TIMP1,TIMP2,TIMP3",CD44,"ACAN, collagen type II,  NID, FBN, FN1, laminin-111, laminin-332, LAMB3, proMMP2, SDC1, TGFB, VTN","Membrane, Cytoplasm",No
+MPZL2,Cell surface interactor,Mpzl2,mpzl2b,-,-,Human Protein Atlas (H),"HPA, ɑ-MPZL2 rabbit pAb (Atlas Antibodies, HPA060740)",-,-,EVA1C,-,Membrane,No
+MUSK,Cell surface interactor,Musk,musk,Nrk,-,-,-,-,"ACHE,AGRN,COLQ",-,-,"Membrane, Postsynaptic cell membrane, Cell junction, Cell membrane, Synapse, Intracellular",No
+PTPRF,Cell surface interactor,Ptprf,"ptprfa,ptprfb",Lar,ptp-3,Human Protein Atlas (H),"HPA, Rabbit  ɑ-PTPRF pAb (Atlas Antibodies, HPA012710)",PTP-3,-,-,-,"Membrane, Cytoplasm",No
+RPSA,Cell surface interactor,Rpsa,rpsa,sta,rps-0,-,-,-,"LAMA1,LAMA2,LAMA3,LAMA4,LAMA5,LAMB1,LAMB2,LAMB3,LAMC1,LAMC2,LAMC3",-,-,"Cell membrane, Cytoplasm, Membrane, Nucleus",No
+ROBO1,Cell surface interactor,Robo1,robo1,robo1,sax-3,Human Protein Atlas (H),"HPA, Rabbit ɑ-ROBO1 pAb (Thermo Fisher Scientific, 40-5900)",SAX-3,"NTN1,SLIT1,SLIT2,SLIT3","DCC,ROBO2,ROBO3",-,"Cell membrane, Cell projection, Membrane, Cytoplasm",No
+ROBO2,Cell surface interactor,Robo2,robo2,robo2,sax-3,"PMID: 22840396 (M)
+Human Protein Atlas (H)","PMID: 22840396, α-Robo2 pAb (Thermo Fischer Scientific, PA5-47461)
+HPA, Rabbit ɑ-ROBO2 pAb (Atlas Antibodies, HPA013371)",SAX-3,"NTN1,SLIT1,SLIT2,SLIT3",ROBO1,-,"Membrane, Cytoplasm",No
+ROBO3,Cell surface interactor,Robo3,robo3,robo3,sax-3,-,-,SAX-3,"NTN1,SLIT1,SLIT2,SLIT3",ROBO1,-,Membrane,No
+ROBO4,Cell surface interactor,Robo4,robo4,-,sax-3,-,-,SAX-3,"NTN1,SLIT1,SLIT2,SLIT3",-,-,Plasma Membrane,No
+SDC1,Cell surface interactor,Sdc1,-,sdc,sdn-1,"PMID: 19427408 (M)
+PMID: 24078687 (M)
+Human Protein Atlas (H)","PMID: 19427408, α-SDC1 mAb - clone 281-2 (BD Biosciences, 553712)
+PMID: 24078687, α-SDC1 mAb - clone 281-2 (BD Biosciences, 553712)
+HPA, Rabbit ɑ-SDC1 pAb (Atlas Antibodies, HPA006185 and HPA067477)",SDN-1,"AGRN,BCAN,BGN,COL2A1,COL4A1,COL4A2,COL4A3,COL4A4,COL4A5,COL4A6,COL5A1,COL6A1,COL6A2,COL6A3,COL7A1,DCN,FN1,HSPG2,LAMA5,MMP1,MMP7,PTN,TGFB1,THBS1,TNC,VCAN,VTN","CD44,CSPG4,GPC1,GPC2,GPC3,GPC4,GPC5,GPC6,ITGA2,ITGA6,ITGAV,ITGB1,ITGB3,ITGB4,ITGB5,SDC4",-,"Membrane, Secreted, Cytoplasm",No
+SDC4,Cell surface interactor,Sdc4,sdc4,sdc,sdn-1,Human Protein Atlas (H),"HPA, rabbit α-SDC4 pAb (Atlas Antibodies, HPA005716; Thermo Fisher Scientific, 36-3100)",SDN-1,"AGRN,BCAN,BGN,DCN,FN1,HSPG2,LAMA1,LAMA3,TGFB1,THBS1,TNC,VCAN,VTN","CSPG4,GPC1,GPC2,GPC3,GPC4,GPC5,GPC6,ITGAV,ITGB3,SDC1",-,"Membrane, Secreted, Cytoplasm",No
+TENM1,Cell surface interactor,Tenm1,tenm1,ten-m,ten-1,PMID: 24154551 (M),"PMID: 24154551, α-TENM1 mAb (Abnova)",TEN-1,-,-,-,"Cell membrane, Cytoplasm, Cytoskeleton, Membrane, Nucleus",No
+TENM2,Cell surface interactor,Tenm2,tenm2,ten-m,ten-1,"PMID: 11146505 (C)
+Human Protein Atlas (H)","PMID: 11146505, α-TENM2 pAb, in-house 
+HPA, Rabbit ɑ-TENM2 pAb (Atlas Antibodies, HPA038018 and HPA038420)",TEN-1,-,-,-,"Cell junction, Cell membrane, Cell projection, Endoplasmic reticulum, Golgi apparatus, Membrane, Nucleus, Postsynaptic cell membrane, Synapse, Synaptosome",No
+TENM3,Cell surface interactor,Tenm3,tenm3,Ten-a,ten-1,Human Protein Atlas (H),"HPA, Rabbit ɑ-TENM3 pAb (Atlas Antibodies, HPA047043)",TEN-1,-,-,-,"Cell membrane, Cell projection, Membrane, Cytoplasm",No
+TENM4,Cell surface interactor,Tenm4,tenm4,ten-m,ten-1,"PMID: 21136382 (C)
+Human Protein Atlas (H)","PMID: 21136382, α-TENM4 pAb, in-house
+HPA, rabbit α-TENM4 pAb (Atlas Antibodies, HPA019521)",TEN-1,-,-,-,"Cell membrane, Cell projection, Cytoplasm, Membrane, Nucleus",No
+UNC5A,Cell surface interactor,Unc5a,unc5a,unc-5,unc-5,-,-,UNC-5,"NTN1,NTN4","DCC,UNC5B,UNC5C,UNC5D",-,"Cell membrane, Cell projection, Membrane",No
+UNC5B,Cell surface interactor,Unc5b,unc5b,unc-5,unc-5,Human Protein Atlas (H),"HPA, Rabbit ɑ-UNC5B pAb (Atlas Antibodies, HPA076687)",UNC-5,"NTN1,NTN4","DCC,UNC5A,UNC5C,UNC5D",-,"Cell membrane, Membrane, Cytoplasm",No
+UNC5C,Cell surface interactor,Unc5c,unc5c,unc-5,unc-5,-,-,UNC-5,NTN1,"DCC,UNC5A,UNC5B,UNC5D",-,"Cell junction, Cell membrane, Cell projection, Membrane, Synapse, Synaptosome",No
+UNC5D,Cell surface interactor,Unc5d,"unc5da,unc5db",unc-5,unc-5,Human Protein Atlas (H),"HPA, Rabbit ɑ-UNC5D pAb (Atlas Antibodies, HPA042940)",UNC-5,NTN1,"DCC,UNC5A,UNC5B,UNC5C",-,"Cell membrane, Membrane, Cytoplasm",No
